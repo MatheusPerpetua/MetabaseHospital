@@ -1,0 +1,101 @@
+﻿leito_id,setor_id,numero_leito,tipo_leito,status_leito,data_ultima_ocupacao
+1,10,L-73,Semi-UTI,Higienizacao,
+2,13,L-66,Clinico,Higienizacao,2024-09-17 20:34:24
+3,13,L-77,Isolamento,Ocupado,2025-02-21 20:34:24
+4,10,L-15,Maternidade,Higienizacao,2024-08-15 20:34:24
+5,12,L-92,Maternidade,Higienizacao,2025-02-08 20:34:24
+6,9,L-53,Clinico,Manutencao,
+7,8,L-72,Isolamento,Manutencao,2025-03-04 20:34:24
+8,11,L-48,Semi-UTI,Ocupado,2025-02-14 20:34:24
+9,13,L-48,Pediatrico,Disponivel,2024-08-10 20:34:24
+10,9,L-76,Maternidade,Higienizacao,
+11,15,L-57,Clinico,Ocupado,2025-02-12 20:34:24
+12,1,L-30,Pediatrico,Ocupado,2024-10-26 20:34:24
+13,8,L-16,Maternidade,Disponivel,2025-01-28 20:34:24
+14,7,L-8,Maternidade,Disponivel,
+15,6,L-24,Maternidade,Higienizacao,2025-02-05 20:34:24
+16,2,L-95,Pediatrico,Ocupado,
+17,1,L-6,Maternidade,Ocupado,
+18,3,L-12,Maternidade,Disponivel,2025-04-06 20:34:24
+19,2,L-94,Maternidade,Higienizacao,2024-11-25 20:34:24
+20,4,L-100,Isolamento,Ocupado,2025-01-27 20:34:24
+21,1,L-100,Semi-UTI,Disponivel,2025-05-18 20:34:24
+22,7,L-14,UTI,Higienizacao,2025-03-10 20:34:24
+23,9,L-60,Isolamento,Higienizacao,2024-12-13 20:34:24
+24,1,L-86,Maternidade,Manutencao,
+25,14,L-82,Clinico,Ocupado,2025-07-25 20:34:24
+26,7,L-31,Maternidade,Manutencao,2025-05-10 20:34:24
+27,11,L-87,Maternidade,Higienizacao,
+28,1,L-3,Isolamento,Disponivel,
+29,2,L-89,Semi-UTI,Ocupado,2025-03-27 20:34:24
+30,5,L-45,Isolamento,Ocupado,
+31,6,L-89,Pediatrico,Ocupado,2024-11-02 20:34:24
+32,9,L-7,Maternidade,Ocupado,2025-04-11 20:34:24
+33,11,L-60,Pediatrico,Manutencao,2024-11-16 20:34:24
+34,2,L-28,Isolamento,Ocupado,2025-06-15 20:34:24
+35,6,L-87,Pediatrico,Disponivel,2025-04-25 20:34:24
+36,5,L-26,Isolamento,Disponivel,2025-06-20 20:34:24
+37,8,L-25,Semi-UTI,Higienizacao,2024-08-05 20:34:24
+38,10,L-29,Pediatrico,Ocupado,2025-07-04 20:34:24
+39,14,L-13,Pediatrico,Higienizacao,2024-09-12 20:34:24
+40,15,L-17,Maternidade,Higienizacao,
+41,12,L-13,Clinico,Disponivel,
+42,9,L-11,Clinico,Ocupado,2025-05-16 20:34:24
+43,1,L-34,Pediatrico,Disponivel,2024-12-04 20:34:24
+44,4,L-29,Pediatrico,Disponivel,2024-09-26 20:34:24
+45,13,L-68,Isolamento,Ocupado,2025-06-19 20:34:24
+46,2,L-10,Clinico,Ocupado,2025-02-14 20:34:24
+47,4,L-23,Pediatrico,Higienizacao,
+48,10,L-89,Clinico,Higienizacao,2025-03-03 20:34:24
+49,9,L-56,Clinico,Manutencao,
+50,9,L-10,Clinico,Higienizacao,2025-04-17 20:34:24
+51,12,L-70,Isolamento,Manutencao,2024-12-10 20:34:24
+52,12,L-80,Semi-UTI,Ocupado,
+53,1,L-100,Clinico,Higienizacao,2025-04-08 20:34:24
+54,2,L-75,Semi-UTI,Manutencao,2025-07-31 20:34:24
+55,15,L-88,Clinico,Disponivel,2025-01-22 20:34:24
+56,2,L-42,Maternidade,Higienizacao,
+57,11,L-34,Clinico,Disponivel,
+58,7,L-84,Pediatrico,Higienizacao,
+59,9,L-87,Clinico,Ocupado,2024-09-17 20:34:24
+60,4,L-61,Clinico,Disponivel,2025-01-31 20:34:24
+61,2,L-38,Clinico,Higienizacao,2025-04-11 20:34:24
+62,3,L-6,Clinico,Manutencao,2024-08-09 20:34:24
+63,2,L-21,Semi-UTI,Ocupado,2025-03-30 20:34:24
+64,6,L-65,Semi-UTI,Higienizacao,2025-03-02 20:34:24
+65,4,L-10,Semi-UTI,Disponivel,2025-03-20 20:34:24
+66,14,L-21,Semi-UTI,Higienizacao,2025-05-18 20:34:24
+67,8,L-66,UTI,Higienizacao,
+68,4,L-64,UTI,Ocupado,2025-04-04 20:34:24
+69,7,L-45,Maternidade,Higienizacao,
+70,2,L-51,Pediatrico,Disponivel,2025-02-10 20:34:24
+71,14,L-20,Maternidade,Higienizacao,2025-03-11 20:34:24
+72,11,L-78,Semi-UTI,Higienizacao,2025-07-15 20:34:24
+73,9,L-99,Clinico,Higienizacao,2025-07-12 20:34:24
+74,8,L-23,Clinico,Higienizacao,
+75,11,L-3,Isolamento,Disponivel,2024-11-04 20:34:24
+76,7,L-21,UTI,Disponivel,2025-02-17 20:34:24
+77,12,L-21,Semi-UTI,Manutencao,
+78,4,L-21,Maternidade,Ocupado,2024-08-06 20:34:24
+79,2,L-43,Semi-UTI,Ocupado,
+80,2,L-55,Isolamento,Ocupado,2025-04-22 20:34:24
+81,10,L-71,Isolamento,Ocupado,
+82,12,L-59,Maternidade,Manutencao,2024-12-19 20:34:24
+83,5,L-78,Maternidade,Manutencao,
+84,4,L-95,Semi-UTI,Higienizacao,
+85,1,L-72,Clinico,Ocupado,2025-07-18 20:34:24
+86,15,L-22,Semi-UTI,Higienizacao,2025-05-30 20:34:24
+87,5,L-22,UTI,Disponivel,
+88,9,L-24,Maternidade,Manutencao,2025-05-26 20:34:24
+89,5,L-13,Pediatrico,Ocupado,2024-10-22 20:34:24
+90,10,L-78,Maternidade,Manutencao,2024-10-17 20:34:24
+91,3,L-75,UTI,Manutencao,2025-06-28 20:34:24
+92,6,L-43,Semi-UTI,Higienizacao,2025-03-23 20:34:24
+93,9,L-58,Clinico,Higienizacao,2025-02-25 20:34:24
+94,10,L-83,Semi-UTI,Manutencao,
+95,10,L-85,Maternidade,Disponivel,2025-03-30 20:34:24
+96,1,L-61,Pediatrico,Manutencao,
+97,9,L-98,Isolamento,Ocupado,2025-05-05 20:34:24
+98,12,L-56,Pediatrico,Ocupado,2025-01-15 20:34:24
+99,5,L-55,Pediatrico,Manutencao,2025-07-04 20:34:24
+100,14,L-28,Pediatrico,Manutencao,2025-06-21 20:34:24

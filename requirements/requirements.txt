@@ -1,0 +1,8 @@
+python-dotenv
+pandas
+pymysql
+sqlalchemy
+requests
+cryptography
+peewee
+requests

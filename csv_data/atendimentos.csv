@@ -1,0 +1,501 @@
+﻿atendimento_id,paciente_id,hospital_id,funcionario_id_medico,setor_id,data_hora_chegada,data_hora_triagem,data_hora_inicio_atendimento,data_hora_fim_atendimento,tipo_atendimento,gravidade_paciente,diagnostico_principal,observacoes_medicas,status_atendimento,tempo_espera_triagem_minutos,tempo_espera_atendimento_minutos,duracao_atendimento_minutos
+1,42,3,46,12,2025-06-29 16:04:05,2025-06-29 16:28:05,2025-06-29 17:23:05,2025-06-29 19:16:05,Consulta Ambulatorial,Emergencia,Infecção Urinária,Harum rerum iusto nisi.,Encaminhado Internacao,24,55,113
+2,1,3,44,2,2024-12-30 11:51:48,2024-12-30 12:41:48,2024-12-30 13:41:48,2024-12-30 15:53:48,Procedimento,Baixa,Gripe,Vero consequatur natus voluptatem cumque eos eos.,Alta,50,60,132
+3,7,2,46,14,2025-02-14 17:47:08,2025-02-14 18:22:08,2025-02-14 19:41:08,2025-02-14 22:20:08,Consulta Ambulatorial,Alta,Fratura,Consequatur fuga eveniet et dolorum cupiditate ut.,Concluido,35,79,159
+4,59,1,34,1,2024-11-28 04:04:13,2024-11-28 04:10:13,2024-11-28 04:50:13,2024-11-28 07:14:13,Procedimento,Urgencia,Diabetes,Hic rerum perferendis vero.,Concluido,6,40,144
+5,84,3,27,9,2025-04-09 10:24:30,2025-04-09 11:09:30,2025-04-09 11:31:30,2025-04-09 13:06:30,Consulta Ambulatorial,Urgencia,Infecção Urinária,Sed odit molestiae maiores totam impedit.,Alta,45,22,95
+6,81,1,49,2,2025-03-07 08:23:43,2025-03-07 09:11:43,2025-03-07 10:19:43,2025-03-07 11:36:43,Exame,Baixa,Asma,Nemo cupiditate quo architecto consequuntur debitis in.,Alta,48,68,77
+7,51,3,10,8,2025-02-03 11:24:47,2025-02-03 12:04:47,2025-02-03 13:44:47,2025-02-03 16:24:47,Emergencia,Urgencia,Dor de Cabeça,Eaque occaecati facilis impedit voluptas reprehenderit.,Concluido,40,100,160
+8,38,3,27,10,2024-08-21 08:43:23,2024-08-21 09:03:23,2024-08-21 09:23:23,2024-08-21 10:42:23,Retorno,Alta,Fratura,A excepturi adipisci harum sequi excepturi ut.,Encaminhado Internacao,20,20,79
+9,99,2,10,11,2024-09-06 03:23:40,2024-09-06 03:43:40,2024-09-06 04:24:40,2024-09-06 06:27:40,Exame,Emergencia,Fratura,Nulla quisquam debitis atque officiis ducimus enim.,Alta,20,41,123
+10,88,2,46,11,2024-11-18 01:10:39,2024-11-18 01:16:39,2024-11-18 01:34:39,2024-11-18 04:02:39,Retorno,Baixa,Gripe,Optio dolore illo deleniti delectus.,Alta,6,18,148
+11,49,1,49,5,2024-12-31 17:33:08,2024-12-31 18:20:08,2024-12-31 19:51:08,2024-12-31 22:26:08,Retorno,Emergencia,Hipertensão,Dolores itaque fugit dolorem distinctio.,Alta,47,91,155
+12,58,2,10,9,2024-08-04 09:36:42,2024-08-04 10:13:42,2024-08-04 11:57:42,2024-08-04 14:56:42,Retorno,Media,Fratura,Perferendis explicabo nemo sapiente sint.,Concluido,37,104,179
+13,6,2,10,6,2025-05-05 05:01:52,2025-05-05 05:33:52,2025-05-05 05:58:52,2025-05-05 08:10:52,Emergencia,Media,Infecção Urinária,Voluptatum maxime nemo.,Concluido,32,25,132
+14,40,2,7,2,2024-12-06 13:18:40,2024-12-06 14:17:40,2024-12-06 16:03:40,2024-12-06 17:36:40,Emergencia,Alta,Asma,Numquam repellat dolor labore laborum.,Concluido,59,106,93
+15,13,2,46,6,2024-12-02 01:20:52,2024-12-02 01:32:52,2024-12-02 02:03:52,2024-12-02 02:31:52,Exame,Media,Asma,Voluptates sint cum repellendus.,Concluido,12,31,28
+16,80,3,44,14,2024-11-17 00:50:37,2024-11-17 00:58:37,2024-11-17 01:20:37,2024-11-17 03:41:37,Retorno,Urgencia,Gripe,Incidunt tempore ducimus nostrum suscipit.,Alta,8,22,141
+17,88,1,44,15,2025-04-19 11:39:56,2025-04-19 12:32:56,2025-04-19 13:55:56,2025-04-19 15:38:56,Exame,Alta,Infecção Urinária,Eligendi vitae repudiandae minima natus consequatur laboriosam.,Alta,53,83,103
+18,5,3,46,2,2025-05-11 19:13:20,2025-05-11 19:50:20,2025-05-11 21:23:20,2025-05-11 23:59:20,Emergencia,Emergencia,Hipertensão,Saepe quaerat aliquid praesentium tempore architecto vitae in.,Alta,37,93,156
+19,86,1,46,3,2025-02-10 16:32:18,2025-02-10 16:37:18,2025-02-10 18:04:18,2025-02-10 19:24:18,Retorno,Emergencia,Diabetes,Consequatur aliquam ea sapiente iusto labore illum.,Encaminhado Internacao,5,87,80
+20,95,3,49,6,2025-03-28 13:24:47,2025-03-28 13:29:47,2025-03-28 13:54:47,2025-03-28 16:02:47,Consulta Ambulatorial,Media,Infecção Urinária,Architecto quisquam ratione enim atque consectetur.,Alta,5,25,128
+21,9,2,49,11,2024-09-07 17:08:36,2024-09-07 18:06:36,2024-09-07 19:56:36,2024-09-07 21:01:36,Procedimento,Baixa,Diabetes,Sunt necessitatibus eveniet distinctio omnis blanditiis id.,Encaminhado Internacao,58,110,65
+22,67,3,46,5,2025-01-20 22:15:34,2025-01-20 22:40:34,2025-01-21 00:31:34,2025-01-21 02:43:34,Emergencia,Media,Hipertensão,Exercitationem quas blanditiis reprehenderit ipsa mollitia.,Concluido,25,111,132
+23,71,2,49,9,2025-07-27 11:02:01,2025-07-27 11:59:01,2025-07-27 13:24:01,2025-07-27 14:27:01,Exame,Emergencia,Resfriado Comum,Natus soluta culpa inventore.,Encaminhado Internacao,57,85,63
+24,11,2,44,6,2025-03-12 05:30:34,2025-03-12 05:42:34,2025-03-12 07:13:34,2025-03-12 07:57:34,Retorno,Media,Diabetes,Molestiae saepe quo dolore saepe doloribus.,Alta,12,91,44
+25,4,1,10,9,2025-01-12 04:49:54,2025-01-12 05:20:54,2025-01-12 05:45:54,2025-01-12 07:29:54,Exame,Alta,Gripe,Occaecati repellendus ipsam quam incidunt porro laudantium.,Concluido,31,25,104
+26,1,1,34,6,2025-07-03 00:53:44,2025-07-03 01:22:44,2025-07-03 02:14:44,2025-07-03 05:09:44,Procedimento,Emergencia,Infecção Urinária,Ab nesciunt saepe.,Encaminhado Internacao,29,52,175
+27,45,2,7,12,2025-06-23 12:05:57,2025-06-23 12:26:57,2025-06-23 14:14:57,2025-06-23 16:48:57,Consulta Ambulatorial,Urgencia,Dor de Cabeça,Doloribus enim voluptas ipsa aspernatur.,Alta,21,108,154
+28,1,3,10,4,2024-09-05 23:39:57,2024-09-05 23:58:57,2024-09-06 01:46:57,2024-09-06 02:47:57,Consulta Ambulatorial,Urgencia,Dor de Cabeça,At mollitia optio quod illo.,Alta,19,108,61
+29,28,2,46,5,2025-03-14 10:05:30,2025-03-14 10:46:30,2025-03-14 12:40:30,2025-03-14 13:31:30,Procedimento,Alta,Gripe,Quia dolorum nam magni et voluptas pariatur.,Encaminhado Internacao,41,114,51
+30,66,2,46,2,2025-05-14 06:57:38,2025-05-14 07:27:38,2025-05-14 07:54:38,2025-05-14 09:17:38,Emergencia,Baixa,Diabetes,Omnis quia recusandae dolorem incidunt earum.,Encaminhado Internacao,30,27,83
+31,28,1,34,15,2025-01-28 09:04:15,2025-01-28 09:49:15,2025-01-28 11:09:15,2025-01-28 14:09:15,Emergencia,Emergencia,Dor de Cabeça,Dignissimos reprehenderit deserunt magnam.,Concluido,45,80,180
+32,77,1,27,7,2025-05-17 14:52:59,2025-05-17 15:19:59,2025-05-17 15:54:59,2025-05-17 16:21:59,Procedimento,Emergencia,Hipertensão,Rem amet odio.,Alta,27,35,27
+33,2,2,34,2,2025-04-15 15:32:36,2025-04-15 16:13:36,2025-04-15 16:35:36,2025-04-15 18:28:36,Exame,Emergencia,Resfriado Comum,Quos aliquam quaerat exercitationem maxime perspiciatis error id.,Encaminhado Internacao,41,22,113
+34,50,3,49,13,2025-05-06 02:10:38,2025-05-06 03:04:38,2025-05-06 03:41:38,2025-05-06 05:17:38,Retorno,Alta,Gripe,Voluptatibus quasi provident a fuga error fuga.,Concluido,54,37,96
+35,54,3,10,13,2025-05-03 17:42:38,2025-05-03 18:32:38,2025-05-03 19:18:38,2025-05-03 22:10:38,Procedimento,Alta,Dor de Cabeça,Omnis mollitia laborum provident tempora.,Concluido,50,46,172
+36,14,1,7,8,2024-09-05 08:22:08,2024-09-05 08:58:08,2024-09-05 10:12:08,2024-09-05 10:59:08,Procedimento,Baixa,Hipertensão,Eligendi laboriosam debitis aperiam.,Concluido,36,74,47
+37,4,2,46,4,2024-10-26 07:38:54,2024-10-26 07:51:54,2024-10-26 09:29:54,2024-10-26 11:19:54,Consulta Ambulatorial,Emergencia,Fratura,Architecto nulla quibusdam modi.,Encaminhado Internacao,13,98,110
+38,19,3,7,8,2024-11-03 05:39:10,2024-11-03 05:47:10,2024-11-03 06:32:10,2024-11-03 09:24:10,Consulta Ambulatorial,Urgencia,Infecção Urinária,Dolorem libero reiciendis animi sint ad tempora.,Encaminhado Internacao,8,45,172
+39,32,3,7,7,2025-02-18 11:35:54,2025-02-18 12:01:54,2025-02-18 13:49:54,2025-02-18 14:18:54,Procedimento,Alta,Diabetes,Hic officiis ipsa minima beatae aliquid exercitationem.,Alta,26,108,29
+40,49,2,49,6,2024-12-02 10:14:01,2024-12-02 10:51:01,2024-12-02 11:27:01,2024-12-02 12:52:01,Consulta Ambulatorial,Media,Asma,Fugiat explicabo dolore architecto.,Alta,37,36,85
+41,48,2,46,5,2025-02-21 19:25:35,2025-02-21 19:35:35,2025-02-21 20:59:35,2025-02-21 22:28:35,Procedimento,Baixa,Asma,Fuga modi doloribus consequatur.,Encaminhado Internacao,10,84,89
+42,11,1,10,1,2025-04-22 20:51:17,2025-04-22 21:43:17,2025-04-22 23:08:17,2025-04-23 01:56:17,Procedimento,Urgencia,Diabetes,Quos inventore officiis voluptatibus minus quo cumque.,Encaminhado Internacao,52,85,168
+43,97,1,49,5,2025-04-21 07:39:07,2025-04-21 08:06:07,2025-04-21 09:55:07,2025-04-21 11:12:07,Procedimento,Alta,Gripe,Autem nulla cum minus suscipit voluptates quas.,Alta,27,109,77
+44,74,3,44,10,2025-05-27 01:32:17,2025-05-27 02:24:17,2025-05-27 03:03:17,2025-05-27 04:38:17,Procedimento,Media,Diabetes,Natus saepe cum nisi.,Concluido,52,39,95
+45,87,2,44,2,2024-10-15 03:12:17,2024-10-15 03:24:17,2024-10-15 05:16:17,2024-10-15 07:52:17,Emergencia,Media,Fratura,Rem tempora suscipit adipisci dicta assumenda.,Alta,12,112,156
+46,72,1,46,6,2025-03-03 01:31:29,2025-03-03 01:53:29,2025-03-03 03:40:29,2025-03-03 05:47:29,Retorno,Media,Fratura,Id nemo eveniet architecto.,Alta,22,107,127
+47,72,2,10,1,2024-10-30 09:19:52,2024-10-30 09:30:52,2024-10-30 10:42:52,2024-10-30 13:10:52,Emergencia,Media,Diabetes,Quisquam itaque corporis facere earum amet.,Alta,11,72,148
+48,5,3,34,10,2024-09-02 16:00:18,2024-09-02 16:37:18,2024-09-02 17:17:18,2024-09-02 19:49:18,Retorno,Alta,Fratura,Assumenda fugiat officia nobis consequuntur.,Alta,37,40,152
+49,81,2,10,2,2025-07-28 20:10:31,2025-07-28 21:00:31,2025-07-28 21:22:31,2025-07-28 22:18:31,Emergencia,Emergencia,Gripe,Autem vero blanditiis impedit reiciendis.,Alta,50,22,56
+50,91,3,46,3,2024-11-11 21:21:14,2024-11-11 22:14:14,2024-11-11 22:56:14,2024-11-11 23:39:14,Emergencia,Baixa,Dor de Cabeça,Velit dolorum autem.,Encaminhado Internacao,53,42,43
+51,23,2,7,13,2025-02-27 11:42:29,2025-02-27 12:03:29,2025-02-27 12:39:29,2025-02-27 14:17:29,Procedimento,Baixa,Fratura,Iusto ducimus soluta perferendis molestias velit adipisci.,Concluido,21,36,98
+52,46,3,7,13,2024-08-15 12:41:16,2024-08-15 13:10:16,2024-08-15 14:17:16,2024-08-15 15:47:16,Consulta Ambulatorial,Baixa,Gripe,Maiores quaerat perferendis dolorum fuga quia inventore deserunt.,Encaminhado Internacao,29,67,90
+53,63,1,44,11,2025-06-01 00:14:01,2025-06-01 01:06:01,2025-06-01 01:28:01,2025-06-01 02:21:01,Retorno,Media,Infecção Urinária,Deserunt placeat eos eveniet esse omnis quis.,Alta,52,22,53
+54,77,2,49,12,2025-05-21 21:18:10,2025-05-21 21:53:10,2025-05-21 23:27:10,2025-05-22 00:04:10,Exame,Alta,Resfriado Comum,Itaque aut nihil architecto deleniti.,Alta,35,94,37
+55,10,1,7,2,2025-04-19 08:10:19,2025-04-19 09:05:19,2025-04-19 10:18:19,2025-04-19 11:37:19,Exame,Baixa,Infecção Urinária,Harum doloribus repellat quis natus maiores quidem.,Concluido,55,73,79
+56,8,3,44,15,2025-07-27 08:47:31,2025-07-27 09:08:31,2025-07-27 11:07:31,2025-07-27 14:06:31,Procedimento,Urgencia,Hipertensão,Exercitationem unde odio consequuntur sunt facere.,Encaminhado Internacao,21,119,179
+57,41,3,44,13,2025-04-10 23:01:56,2025-04-10 23:55:56,2025-04-11 00:40:56,2025-04-11 01:00:56,Exame,Urgencia,Dor de Cabeça,In voluptatibus dolores qui tenetur maiores.,Concluido,54,45,20
+58,35,2,27,8,2024-11-07 08:55:45,2024-11-07 09:08:45,2024-11-07 10:21:45,2024-11-07 13:16:45,Consulta Ambulatorial,Emergencia,Dor de Cabeça,Odio veniam similique cum ab eligendi itaque.,Alta,13,73,175
+59,5,1,46,3,2025-04-03 16:48:27,2025-04-03 16:54:27,2025-04-03 17:09:27,2025-04-03 20:01:27,Exame,Baixa,Hipertensão,Voluptatibus repudiandae harum aliquam.,Alta,6,15,172
+60,8,3,7,4,2024-11-08 01:32:23,2024-11-08 01:58:23,2024-11-08 02:28:23,2024-11-08 03:39:23,Procedimento,Media,Hipertensão,Delectus porro harum fugit consequatur.,Alta,26,30,71
+61,97,1,27,6,2024-09-05 23:33:35,2024-09-05 23:57:35,2024-09-06 01:31:35,2024-09-06 04:08:35,Exame,Baixa,Diabetes,Perferendis porro reprehenderit illo dolores in vel.,Alta,24,94,157
+62,41,3,49,10,2025-05-05 12:00:57,2025-05-05 12:13:57,2025-05-05 13:46:57,2025-05-05 16:44:57,Retorno,Urgencia,Diabetes,Vel veniam dolor unde consequatur.,Concluido,13,93,178
+63,98,3,34,11,2025-06-15 04:28:41,2025-06-15 04:44:41,2025-06-15 05:32:41,2025-06-15 07:54:41,Procedimento,Urgencia,Infecção Urinária,Mollitia in distinctio in mollitia culpa.,Encaminhado Internacao,16,48,142
+64,30,3,7,4,2025-06-15 22:59:33,2025-06-15 23:43:33,2025-06-16 00:52:33,2025-06-16 02:07:33,Exame,Urgencia,Fratura,Laboriosam fugit sit corporis reprehenderit nulla corrupti.,Alta,44,69,75
+65,56,1,7,11,2024-12-12 22:44:02,2024-12-12 23:13:02,2024-12-13 00:50:02,2024-12-13 03:22:02,Exame,Alta,Gripe,Suscipit quia officiis voluptatibus deleniti ullam non.,Alta,29,97,152
+66,20,1,34,13,2024-11-18 23:06:10,2024-11-18 23:38:10,2024-11-19 00:07:10,2024-11-19 02:27:10,Procedimento,Emergencia,Resfriado Comum,Minus maxime ipsam quidem reprehenderit excepturi.,Alta,32,29,140
+67,4,2,46,10,2025-01-29 06:33:10,2025-01-29 06:40:10,2025-01-29 08:20:10,2025-01-29 09:39:10,Consulta Ambulatorial,Alta,Diabetes,Incidunt hic autem fugiat perferendis consequatur explicabo.,Encaminhado Internacao,7,100,79
+68,28,2,34,10,2024-12-13 10:32:13,2024-12-13 11:04:13,2024-12-13 12:23:13,2024-12-13 13:07:13,Exame,Alta,Dor de Cabeça,Omnis accusamus doloremque porro molestiae nemo assumenda.,Concluido,32,79,44
+69,29,2,10,8,2024-09-14 11:05:12,2024-09-14 11:19:12,2024-09-14 12:58:12,2024-09-14 13:38:12,Emergencia,Alta,Resfriado Comum,A assumenda impedit tenetur error doloremque.,Encaminhado Internacao,14,99,40
+70,20,1,27,5,2024-11-23 02:05:34,2024-11-23 02:22:34,2024-11-23 04:20:34,2024-11-23 04:58:34,Exame,Media,Gripe,Aut rerum error laudantium odit nulla voluptate quaerat.,Concluido,17,118,38
+71,13,3,10,8,2024-09-06 07:56:53,2024-09-06 08:48:53,2024-09-06 10:42:53,2024-09-06 12:28:53,Retorno,Emergencia,Dor de Cabeça,Nihil voluptas veniam doloremque nam mollitia aperiam.,Encaminhado Internacao,52,114,106
+72,36,2,49,8,2025-04-01 04:22:37,2025-04-01 04:32:37,2025-04-01 05:27:37,2025-04-01 05:47:37,Emergencia,Emergencia,Diabetes,Cupiditate sit magnam earum neque.,Alta,10,55,20
+73,17,1,34,14,2025-05-08 08:05:17,2025-05-08 08:38:17,2025-05-08 10:31:17,2025-05-08 12:48:17,Consulta Ambulatorial,Media,Hipertensão,Consequuntur praesentium iste omnis.,Encaminhado Internacao,33,113,137
+74,78,2,44,1,2025-03-18 10:19:39,2025-03-18 10:28:39,2025-03-18 10:42:39,2025-03-18 11:27:39,Consulta Ambulatorial,Media,Hipertensão,Facilis asperiores qui dicta consequatur voluptatibus.,Alta,9,14,45
+75,70,3,49,7,2024-10-16 05:37:10,2024-10-16 05:56:10,2024-10-16 07:55:10,2024-10-16 09:12:10,Emergencia,Alta,Resfriado Comum,Repellendus quis sunt quidem impedit sequi autem.,Encaminhado Internacao,19,119,77
+76,26,2,10,9,2024-12-22 09:21:42,2024-12-22 09:50:42,2024-12-22 11:06:42,2024-12-22 12:36:42,Procedimento,Alta,Asma,Officia totam dignissimos accusamus.,Encaminhado Internacao,29,76,90
+77,99,1,10,14,2024-08-10 14:07:43,2024-08-10 14:58:43,2024-08-10 16:58:43,2024-08-10 19:31:43,Emergencia,Media,Resfriado Comum,Magnam soluta quam velit neque facilis ipsum omnis.,Encaminhado Internacao,51,120,153
+78,45,2,10,13,2024-09-24 07:42:09,2024-09-24 08:11:09,2024-09-24 09:27:09,2024-09-24 12:20:09,Exame,Urgencia,Fratura,Nemo numquam laboriosam magnam dignissimos repudiandae.,Concluido,29,76,173
+79,6,3,49,11,2025-05-16 14:11:35,2025-05-16 14:28:35,2025-05-16 14:44:35,2025-05-16 15:50:35,Retorno,Emergencia,Resfriado Comum,Repellat quos maxime doloribus quam.,Alta,17,16,66
+80,59,2,46,7,2024-12-24 12:00:27,2024-12-24 12:55:27,2024-12-24 14:14:27,2024-12-24 16:48:27,Consulta Ambulatorial,Baixa,Dor de Cabeça,Architecto eligendi vero.,Concluido,55,79,154
+81,75,3,7,14,2025-06-11 15:24:24,2025-06-11 16:03:24,2025-06-11 17:14:24,2025-06-11 17:32:24,Retorno,Baixa,Resfriado Comum,Eveniet quibusdam magnam quisquam.,Alta,39,71,18
+82,28,2,34,8,2025-02-14 03:21:10,2025-02-14 04:04:10,2025-02-14 04:25:10,2025-02-14 05:17:10,Consulta Ambulatorial,Alta,Asma,Placeat consequuntur explicabo beatae voluptate quam ipsum.,Alta,43,21,52
+83,24,3,44,8,2025-07-14 12:51:28,2025-07-14 13:11:28,2025-07-14 13:46:28,2025-07-14 16:19:28,Emergencia,Emergencia,Diabetes,Soluta ut quod voluptatum expedita quo.,Concluido,20,35,153
+84,38,3,27,2,2025-06-29 16:12:48,2025-06-29 16:38:48,2025-06-29 18:31:48,2025-06-29 19:26:48,Emergencia,Alta,Infecção Urinária,Necessitatibus impedit nesciunt quos nobis.,Alta,26,113,55
+85,8,2,34,5,2024-10-13 20:24:40,2024-10-13 20:59:40,2024-10-13 21:22:40,2024-10-14 00:00:40,Exame,Alta,Asma,Omnis cupiditate praesentium illum vitae tenetur.,Concluido,35,23,158
+86,87,3,27,10,2025-05-22 17:31:06,2025-05-22 18:07:06,2025-05-22 19:44:06,2025-05-22 22:32:06,Emergencia,Emergencia,Diabetes,Eveniet molestias quidem odio perspiciatis dolorem.,Encaminhado Internacao,36,97,168
+87,9,3,27,2,2024-12-02 05:14:47,2024-12-02 05:21:47,2024-12-02 07:21:47,2024-12-02 08:26:47,Emergencia,Alta,Hipertensão,Quis voluptas non nesciunt maiores.,Alta,7,120,65
+88,91,2,44,6,2025-07-14 17:09:36,2025-07-14 17:19:36,2025-07-14 18:00:36,2025-07-14 18:18:36,Retorno,Alta,Infecção Urinária,Soluta velit nesciunt suscipit dicta.,Alta,10,41,18
+89,46,3,7,3,2025-08-02 06:43:38,2025-08-02 07:24:38,2025-08-02 07:48:38,2025-08-02 08:47:38,Procedimento,Media,Dor de Cabeça,Optio placeat aut.,Encaminhado Internacao,41,24,59
+90,35,1,34,14,2025-07-15 21:17:43,2025-07-15 22:15:43,2025-07-16 00:06:43,2025-07-16 01:06:43,Consulta Ambulatorial,Media,Resfriado Comum,Fuga ipsam cupiditate molestiae repellendus quam cumque.,Concluido,58,111,60
+91,92,3,34,7,2024-10-08 00:11:19,2024-10-08 00:38:19,2024-10-08 01:58:19,2024-10-08 04:27:19,Exame,Alta,Infecção Urinária,Architecto magnam ad recusandae quis.,Alta,27,80,149
+92,74,3,7,3,2024-10-12 14:06:28,2024-10-12 14:33:28,2024-10-12 15:33:28,2024-10-12 16:37:28,Emergencia,Emergencia,Diabetes,Consequuntur nesciunt commodi adipisci.,Encaminhado Internacao,27,60,64
+93,98,1,34,9,2025-04-12 20:12:02,2025-04-12 20:44:02,2025-04-12 21:58:02,2025-04-12 22:17:02,Emergencia,Alta,Resfriado Comum,Eos ab saepe itaque.,Alta,32,74,19
+94,45,3,44,8,2025-01-30 16:53:05,2025-01-30 17:29:05,2025-01-30 19:14:05,2025-01-30 20:02:05,Procedimento,Emergencia,Asma,Aut ex reprehenderit possimus harum nisi animi.,Concluido,36,105,48
+95,83,2,27,9,2025-05-17 15:57:40,2025-05-17 16:18:40,2025-05-17 17:43:40,2025-05-17 20:02:40,Exame,Alta,Resfriado Comum,Vero hic quasi pariatur.,Concluido,21,85,139
+96,78,3,49,3,2024-09-21 01:31:46,2024-09-21 01:52:46,2024-09-21 03:20:46,2024-09-21 04:12:46,Exame,Media,Resfriado Comum,Eum quae impedit recusandae necessitatibus.,Concluido,21,88,52
+97,75,1,44,12,2024-12-30 08:14:28,2024-12-30 08:44:28,2024-12-30 09:04:28,2024-12-30 10:22:28,Consulta Ambulatorial,Baixa,Infecção Urinária,Similique quo maiores corporis.,Alta,30,20,78
+98,89,3,27,10,2025-06-25 23:39:16,2025-06-26 00:11:16,2025-06-26 01:04:16,2025-06-26 02:39:16,Emergencia,Media,Fratura,Perferendis adipisci minima minus.,Alta,32,53,95
+99,46,3,7,4,2024-09-28 21:13:28,2024-09-28 21:20:28,2024-09-28 22:19:28,2024-09-29 01:09:28,Emergencia,Media,Hipertensão,Accusantium provident velit esse quod.,Alta,7,59,170
+100,75,3,49,11,2025-02-27 05:43:35,2025-02-27 06:34:35,2025-02-27 08:18:35,2025-02-27 10:01:35,Exame,Emergencia,Diabetes,Laboriosam nobis maiores magni quaerat incidunt illo.,Alta,51,104,103
+101,79,2,49,15,2025-05-22 09:51:21,2025-05-22 10:22:21,2025-05-22 10:43:21,2025-05-22 12:22:21,Retorno,Baixa,Asma,Animi dolore illo.,Alta,31,21,99
+102,85,2,34,3,2025-05-20 04:30:59,2025-05-20 04:53:59,2025-05-20 05:29:59,2025-05-20 06:53:59,Exame,Urgencia,Infecção Urinária,A atque eius error labore repellat voluptatibus.,Alta,23,36,84
+103,29,2,44,4,2025-03-05 19:57:44,2025-03-05 20:07:44,2025-03-05 21:15:44,2025-03-05 23:17:44,Exame,Baixa,Diabetes,Ab deleniti quo vero dolorum tenetur quidem.,Alta,10,68,122
+104,96,3,34,6,2025-05-16 08:50:11,2025-05-16 09:24:11,2025-05-16 09:49:11,2025-05-16 12:32:11,Procedimento,Emergencia,Infecção Urinária,Libero nemo occaecati expedita officiis.,Alta,34,25,163
+105,9,3,49,15,2024-12-10 22:40:35,2024-12-10 23:31:35,2024-12-11 00:29:35,2024-12-11 00:44:35,Procedimento,Media,Gripe,Laudantium distinctio unde commodi perspiciatis.,Alta,51,58,15
+106,57,2,10,11,2025-07-09 02:06:07,2025-07-09 02:27:07,2025-07-09 03:37:07,2025-07-09 05:26:07,Procedimento,Emergencia,Diabetes,Delectus et adipisci pariatur impedit soluta.,Alta,21,70,109
+107,33,3,27,5,2025-06-11 19:20:37,2025-06-11 20:15:37,2025-06-11 22:05:37,2025-06-12 00:14:37,Consulta Ambulatorial,Media,Diabetes,Facere harum eum dicta quaerat impedit.,Concluido,55,110,129
+108,6,2,49,8,2025-07-27 22:41:46,2025-07-27 23:41:46,2025-07-28 00:50:46,2025-07-28 01:40:46,Consulta Ambulatorial,Urgencia,Fratura,Optio enim enim ea consequuntur in perspiciatis.,Alta,60,69,50
+109,30,1,10,6,2024-10-06 06:06:17,2024-10-06 06:37:17,2024-10-06 08:12:17,2024-10-06 08:27:17,Retorno,Alta,Fratura,Dignissimos magnam quos exercitationem assumenda nesciunt.,Alta,31,95,15
+110,37,3,44,13,2025-03-29 05:49:06,2025-03-29 06:14:06,2025-03-29 07:37:06,2025-03-29 09:25:06,Emergencia,Baixa,Dor de Cabeça,Reprehenderit et rem maxime odio.,Concluido,25,83,108
+111,54,2,27,6,2025-03-07 16:38:06,2025-03-07 17:14:06,2025-03-07 17:42:06,2025-03-07 17:58:06,Emergencia,Baixa,Infecção Urinária,Tempore soluta soluta molestiae consequatur veniam blanditiis.,Concluido,36,28,16
+112,45,3,49,1,2024-08-10 13:11:19,2024-08-10 14:09:19,2024-08-10 16:09:19,2024-08-10 16:34:19,Consulta Ambulatorial,Alta,Fratura,Nesciunt ullam natus voluptas.,Concluido,58,120,25
+113,45,1,34,10,2025-07-20 21:20:28,2025-07-20 21:35:28,2025-07-20 22:57:28,2025-07-21 00:01:28,Consulta Ambulatorial,Urgencia,Fratura,Commodi ducimus consequatur dolores odio.,Alta,15,82,64
+114,29,1,44,15,2025-04-04 06:32:14,2025-04-04 07:15:14,2025-04-04 08:32:14,2025-04-04 11:15:14,Exame,Emergencia,Resfriado Comum,Assumenda iure delectus distinctio architecto.,Alta,43,77,163
+115,21,3,7,5,2025-03-14 20:52:37,2025-03-14 21:14:37,2025-03-14 22:24:37,2025-03-14 23:04:37,Procedimento,Media,Hipertensão,Quas doloremque cupiditate ad.,Concluido,22,70,40
+116,98,2,49,12,2025-04-03 01:04:47,2025-04-03 01:42:47,2025-04-03 03:28:47,2025-04-03 06:14:47,Retorno,Urgencia,Diabetes,Odit alias architecto consequuntur iusto exercitationem quod.,Concluido,38,106,166
+117,86,2,10,4,2025-04-25 11:45:26,2025-04-25 12:01:26,2025-04-25 12:16:26,2025-04-25 14:53:26,Retorno,Baixa,Fratura,At doloremque natus deleniti.,Alta,16,15,157
+118,86,2,27,2,2025-02-22 07:45:43,2025-02-22 08:12:43,2025-02-22 09:09:43,2025-02-22 11:58:43,Retorno,Baixa,Dor de Cabeça,Aperiam quae harum molestiae optio.,Alta,27,57,169
+119,51,1,10,12,2024-08-19 08:35:54,2024-08-19 09:08:54,2024-08-19 09:25:54,2024-08-19 09:51:54,Emergencia,Emergencia,Hipertensão,Exercitationem libero doloribus exercitationem suscipit.,Alta,33,17,26
+120,36,2,49,3,2025-02-12 11:07:42,2025-02-12 11:34:42,2025-02-12 13:06:42,2025-02-12 14:14:42,Retorno,Alta,Hipertensão,Repellendus ullam aliquam eius non impedit dignissimos.,Concluido,27,92,68
+121,29,2,10,8,2025-04-20 20:55:46,2025-04-20 21:44:46,2025-04-20 23:39:46,2025-04-21 01:02:46,Procedimento,Baixa,Asma,Iure sed a similique asperiores ad dignissimos.,Alta,49,115,83
+122,18,1,46,3,2025-07-06 20:09:41,2025-07-06 20:44:41,2025-07-06 20:59:41,2025-07-06 21:41:41,Emergencia,Alta,Infecção Urinária,Illo ipsum nam enim.,Encaminhado Internacao,35,15,42
+123,92,1,46,11,2025-03-05 05:30:58,2025-03-05 06:09:58,2025-03-05 07:18:58,2025-03-05 08:10:58,Procedimento,Alta,Dor de Cabeça,Quis odio velit doloremque consectetur.,Alta,39,69,52
+124,38,3,7,5,2024-11-04 08:47:55,2024-11-04 09:41:55,2024-11-04 11:38:55,2024-11-04 12:26:55,Procedimento,Baixa,Gripe,Consectetur iure nemo labore.,Concluido,54,117,48
+125,83,3,46,2,2025-02-23 07:29:00,2025-02-23 07:52:00,2025-02-23 09:29:00,2025-02-23 10:41:00,Procedimento,Urgencia,Diabetes,Laboriosam tenetur quas eveniet porro repellat unde.,Concluido,23,97,72
+126,27,3,7,8,2024-10-08 23:48:31,2024-10-09 00:46:31,2024-10-09 01:34:31,2024-10-09 02:28:31,Procedimento,Alta,Asma,Nam commodi nostrum autem eligendi totam.,Concluido,58,48,54
+127,56,2,27,13,2025-05-02 03:49:34,2025-05-02 04:37:34,2025-05-02 06:23:34,2025-05-02 08:49:34,Emergencia,Media,Resfriado Comum,Assumenda eveniet nam itaque rerum.,Encaminhado Internacao,48,106,146
+128,2,3,44,11,2025-05-01 18:22:49,2025-05-01 19:18:49,2025-05-01 20:08:49,2025-05-01 22:08:49,Consulta Ambulatorial,Emergencia,Dor de Cabeça,Dolore quia sit consequuntur molestiae eligendi laudantium.,Concluido,56,50,120
+129,67,2,7,3,2025-02-15 12:05:41,2025-02-15 12:42:41,2025-02-15 13:12:41,2025-02-15 15:54:41,Procedimento,Emergencia,Infecção Urinária,Assumenda in nulla cum ullam iste amet dolorem.,Alta,37,30,162
+130,22,3,34,9,2025-04-15 04:21:42,2025-04-15 05:00:42,2025-04-15 06:25:42,2025-04-15 07:58:42,Retorno,Emergencia,Fratura,Ipsam consectetur sapiente ipsa suscipit.,Concluido,39,85,93
+131,98,2,27,12,2024-10-23 18:57:49,2024-10-23 19:54:49,2024-10-23 20:10:49,2024-10-23 22:31:49,Exame,Alta,Diabetes,Laboriosam beatae neque nisi.,Concluido,57,16,141
+132,23,3,46,7,2024-09-17 01:40:20,2024-09-17 02:11:20,2024-09-17 03:15:20,2024-09-17 04:13:20,Procedimento,Alta,Gripe,Possimus sunt dignissimos nulla architecto nisi iusto.,Alta,31,64,58
+133,92,3,10,5,2025-02-02 16:58:51,2025-02-02 17:31:51,2025-02-02 19:20:51,2025-02-02 19:46:51,Exame,Baixa,Dor de Cabeça,Officia beatae quam ad incidunt.,Concluido,33,109,26
+134,93,3,49,5,2025-06-15 09:48:10,2025-06-15 10:21:10,2025-06-15 11:42:10,2025-06-15 13:56:10,Procedimento,Emergencia,Diabetes,Nisi excepturi voluptatibus dolorem quasi eos voluptatem.,Encaminhado Internacao,33,81,134
+135,47,2,27,1,2025-07-03 07:59:37,2025-07-03 08:25:37,2025-07-03 10:23:37,2025-07-03 12:03:37,Emergencia,Urgencia,Infecção Urinária,Ex autem suscipit perspiciatis nemo dolorem natus.,Alta,26,118,100
+136,77,1,7,13,2025-01-28 12:59:29,2025-01-28 13:45:29,2025-01-28 15:31:29,2025-01-28 18:20:29,Retorno,Media,Resfriado Comum,Recusandae ipsum unde sequi iusto.,Concluido,46,106,169
+137,52,3,44,8,2025-04-09 22:46:46,2025-04-09 22:57:46,2025-04-10 00:03:46,2025-04-10 00:57:46,Procedimento,Baixa,Resfriado Comum,Accusamus perferendis fugit repellendus repellat harum inventore id.,Alta,11,66,54
+138,25,2,10,4,2024-08-11 02:34:10,2024-08-11 02:51:10,2024-08-11 03:10:10,2024-08-11 05:28:10,Exame,Urgencia,Infecção Urinária,Est aliquam qui iusto magnam corporis.,Concluido,17,19,138
+139,45,2,10,13,2025-02-17 00:32:41,2025-02-17 00:37:41,2025-02-17 01:50:41,2025-02-17 04:45:41,Retorno,Alta,Fratura,Accusantium doloribus aut sit exercitationem.,Alta,5,73,175
+140,39,3,7,6,2025-04-10 03:39:48,2025-04-10 04:09:48,2025-04-10 06:00:48,2025-04-10 07:11:48,Exame,Baixa,Asma,Libero similique quidem voluptate.,Encaminhado Internacao,30,111,71
+141,5,2,10,14,2024-11-29 06:03:42,2024-11-29 06:25:42,2024-11-29 06:42:42,2024-11-29 09:00:42,Exame,Baixa,Resfriado Comum,Ducimus voluptate eligendi itaque.,Encaminhado Internacao,22,17,138
+142,27,3,49,15,2025-03-11 08:37:51,2025-03-11 09:31:51,2025-03-11 11:20:51,2025-03-11 13:06:51,Procedimento,Alta,Dor de Cabeça,Sint eum aspernatur nobis.,Concluido,54,109,106
+143,81,1,10,11,2024-11-30 03:34:50,2024-11-30 03:50:50,2024-11-30 04:59:50,2024-11-30 05:30:50,Exame,Baixa,Resfriado Comum,Deserunt harum dolorum accusamus harum quae.,Encaminhado Internacao,16,69,31
+144,7,1,49,10,2025-02-20 01:01:58,2025-02-20 01:56:58,2025-02-20 02:13:58,2025-02-20 03:46:58,Retorno,Media,Fratura,Veniam incidunt vel dolorum quos.,Encaminhado Internacao,55,17,93
+145,84,1,49,1,2024-09-30 22:29:13,2024-09-30 23:28:13,2024-10-01 01:03:13,2024-10-01 02:50:13,Exame,Urgencia,Dor de Cabeça,A dolorum dicta quibusdam repellat optio.,Alta,59,95,107
+146,70,2,44,14,2025-04-04 14:10:57,2025-04-04 14:22:57,2025-04-04 15:17:57,2025-04-04 17:30:57,Retorno,Baixa,Fratura,Dolores vel dolorem et nulla.,Alta,12,55,133
+147,45,2,49,6,2025-01-26 03:54:36,2025-01-26 04:05:36,2025-01-26 06:00:36,2025-01-26 07:45:36,Procedimento,Emergencia,Fratura,Mollitia assumenda distinctio nobis porro.,Alta,11,115,105
+148,71,1,44,12,2025-03-28 19:55:09,2025-03-28 20:19:09,2025-03-28 21:35:09,2025-03-28 22:56:09,Retorno,Alta,Hipertensão,Distinctio atque suscipit nesciunt reprehenderit.,Alta,24,76,81
+149,43,1,10,1,2024-12-12 03:24:04,2024-12-12 04:11:04,2024-12-12 06:02:04,2024-12-12 07:30:04,Exame,Emergencia,Asma,Voluptate ipsam maxime.,Encaminhado Internacao,47,111,88
+150,47,3,27,6,2025-04-28 16:50:49,2025-04-28 17:01:49,2025-04-28 18:53:49,2025-04-28 20:07:49,Emergencia,Media,Fratura,Deleniti aperiam impedit eligendi expedita dolor.,Concluido,11,112,74
+151,4,2,7,7,2025-04-20 07:01:52,2025-04-20 07:10:52,2025-04-20 08:22:52,2025-04-20 08:53:52,Exame,Baixa,Fratura,Tempora totam nobis impedit veniam enim.,Concluido,9,72,31
+152,32,2,7,8,2025-07-16 14:32:22,2025-07-16 15:28:22,2025-07-16 15:44:22,2025-07-16 16:55:22,Emergencia,Urgencia,Gripe,Perferendis facilis quasi nostrum non ab.,Encaminhado Internacao,56,16,71
+153,49,3,10,14,2025-04-23 18:57:51,2025-04-23 19:07:51,2025-04-23 19:17:51,2025-04-23 19:51:51,Retorno,Emergencia,Hipertensão,Reprehenderit iste iure nulla corrupti placeat.,Concluido,10,10,34
+154,40,1,49,6,2025-03-02 12:19:01,2025-03-02 13:17:01,2025-03-02 14:12:01,2025-03-02 16:50:01,Consulta Ambulatorial,Baixa,Infecção Urinária,Quod expedita non.,Alta,58,55,158
+155,12,1,34,4,2025-01-27 23:22:38,2025-01-28 00:15:38,2025-01-28 01:42:38,2025-01-28 04:17:38,Consulta Ambulatorial,Emergencia,Resfriado Comum,Perferendis aut natus possimus.,Alta,53,87,155
+156,65,1,7,7,2025-02-14 15:20:12,2025-02-14 15:28:12,2025-02-14 16:37:12,2025-02-14 17:22:12,Retorno,Urgencia,Infecção Urinária,Sapiente modi voluptas dicta dolore suscipit.,Encaminhado Internacao,8,69,45
+157,12,2,7,12,2025-06-02 13:00:41,2025-06-02 13:44:41,2025-06-02 14:13:41,2025-06-02 15:20:41,Emergencia,Emergencia,Fratura,Ab natus quo aperiam.,Alta,44,29,67
+158,61,1,27,9,2024-09-11 17:48:43,2024-09-11 17:57:43,2024-09-11 19:49:43,2024-09-11 21:31:43,Exame,Alta,Asma,Quos velit reiciendis tenetur cum earum saepe.,Encaminhado Internacao,9,112,102
+159,25,3,49,4,2025-07-12 01:17:33,2025-07-12 01:32:33,2025-07-12 02:19:33,2025-07-12 02:55:33,Procedimento,Emergencia,Hipertensão,Illum debitis pariatur nam at quos commodi.,Concluido,15,47,36
+160,35,2,49,3,2025-04-05 03:02:30,2025-04-05 03:55:30,2025-04-05 05:50:30,2025-04-05 08:50:30,Retorno,Media,Asma,Voluptate natus eum vero culpa alias odio.,Encaminhado Internacao,53,115,180
+161,93,1,34,4,2025-06-02 07:45:28,2025-06-02 07:55:28,2025-06-02 08:49:28,2025-06-02 11:10:28,Retorno,Baixa,Hipertensão,Ipsum adipisci culpa.,Encaminhado Internacao,10,54,141
+162,92,1,46,7,2025-04-05 12:49:10,2025-04-05 13:26:10,2025-04-05 14:54:10,2025-04-05 16:58:10,Emergencia,Alta,Asma,Excepturi dolor nisi ex ex.,Encaminhado Internacao,37,88,124
+163,8,2,46,13,2025-05-27 00:06:40,2025-05-27 00:33:40,2025-05-27 01:49:40,2025-05-27 03:51:40,Consulta Ambulatorial,Urgencia,Gripe,Nam iure saepe.,Encaminhado Internacao,27,76,122
+164,79,3,44,10,2024-09-22 21:52:29,2024-09-22 22:38:29,2024-09-22 23:26:29,2024-09-23 01:59:29,Exame,Emergencia,Resfriado Comum,Eveniet magni praesentium.,Alta,46,48,153
+165,43,2,7,7,2025-01-22 23:18:59,2025-01-23 00:11:59,2025-01-23 01:57:59,2025-01-23 02:22:59,Retorno,Urgencia,Infecção Urinária,Officiis quibusdam eaque placeat.,Encaminhado Internacao,53,106,25
+166,86,3,49,1,2025-01-13 16:49:56,2025-01-13 17:44:56,2025-01-13 19:29:56,2025-01-13 21:25:56,Emergencia,Alta,Gripe,In et placeat ullam corrupti deleniti quam voluptatibus.,Encaminhado Internacao,55,105,116
+167,16,2,7,2,2025-04-01 17:19:05,2025-04-01 18:06:05,2025-04-01 18:22:05,2025-04-01 19:16:05,Emergencia,Baixa,Hipertensão,Quae fugiat soluta eum omnis hic accusamus.,Concluido,47,16,54
+168,51,2,44,14,2025-02-04 19:20:57,2025-02-04 20:02:57,2025-02-04 21:42:57,2025-02-05 00:17:57,Emergencia,Media,Resfriado Comum,Rerum inventore aperiam.,Concluido,42,100,155
+169,25,2,34,7,2025-04-10 20:20:47,2025-04-10 21:00:47,2025-04-10 21:49:47,2025-04-11 00:20:47,Consulta Ambulatorial,Media,Asma,Expedita sunt dolore aperiam alias sint.,Encaminhado Internacao,40,49,151
+170,95,2,10,1,2024-12-06 01:14:40,2024-12-06 01:22:40,2024-12-06 03:19:40,2024-12-06 06:08:40,Retorno,Emergencia,Asma,Consequuntur placeat aut aliquam laboriosam quidem tempora.,Concluido,8,117,169
+171,12,2,44,10,2025-02-18 12:54:08,2025-02-18 13:34:08,2025-02-18 13:55:08,2025-02-18 14:49:08,Procedimento,Baixa,Fratura,Voluptas minus commodi assumenda et.,Alta,40,21,54
+172,74,2,7,9,2025-01-29 02:45:12,2025-01-29 03:32:12,2025-01-29 04:23:12,2025-01-29 04:43:12,Retorno,Media,Resfriado Comum,Fugiat optio tempore mollitia iure fugit eos.,Alta,47,51,20
+173,75,2,44,9,2024-08-30 09:44:09,2024-08-30 10:15:09,2024-08-30 10:41:09,2024-08-30 12:12:09,Consulta Ambulatorial,Emergencia,Dor de Cabeça,Veritatis ratione eum at veritatis perspiciatis amet.,Encaminhado Internacao,31,26,91
+174,25,1,44,15,2024-12-24 15:56:35,2024-12-24 16:12:35,2024-12-24 16:50:35,2024-12-24 18:55:35,Procedimento,Baixa,Infecção Urinária,Vel numquam neque consequatur quo mollitia dignissimos nam.,Concluido,16,38,125
+175,77,3,10,13,2025-01-16 11:03:46,2025-01-16 11:44:46,2025-01-16 12:08:46,2025-01-16 12:25:46,Emergencia,Baixa,Fratura,Doloremque eum ea.,Concluido,41,24,17
+176,20,1,10,3,2025-03-23 16:52:21,2025-03-23 17:21:21,2025-03-23 18:09:21,2025-03-23 18:29:21,Consulta Ambulatorial,Media,Hipertensão,Sapiente delectus sit quia maxime provident.,Alta,29,48,20
+177,26,3,44,3,2025-04-20 17:10:43,2025-04-20 17:59:43,2025-04-20 19:35:43,2025-04-20 21:35:43,Retorno,Baixa,Gripe,Fuga dolorum perspiciatis quas quae sint earum.,Concluido,49,96,120
+178,21,1,34,9,2025-04-16 02:23:45,2025-04-16 03:17:45,2025-04-16 04:58:45,2025-04-16 05:19:45,Retorno,Media,Gripe,Placeat laboriosam beatae ducimus.,Alta,54,101,21
+179,76,3,49,1,2025-05-09 20:57:08,2025-05-09 21:45:08,2025-05-09 22:36:08,2025-05-10 01:09:08,Consulta Ambulatorial,Alta,Resfriado Comum,Quidem optio voluptatibus atque distinctio similique et.,Alta,48,51,153
+180,48,2,10,3,2025-03-18 22:18:13,2025-03-18 23:13:13,2025-03-18 23:53:13,2025-03-19 00:55:13,Exame,Alta,Dor de Cabeça,Ad asperiores fugit ipsam.,Concluido,55,40,62
+181,2,2,7,4,2025-02-09 21:16:51,2025-02-09 21:31:51,2025-02-09 22:33:51,2025-02-09 23:15:51,Emergencia,Urgencia,Asma,Beatae enim quos reiciendis similique.,Concluido,15,62,42
+182,36,2,27,10,2025-02-17 20:31:04,2025-02-17 20:54:04,2025-02-17 22:11:04,2025-02-18 00:39:04,Procedimento,Urgencia,Infecção Urinária,Suscipit iusto doloremque minima.,Encaminhado Internacao,23,77,148
+183,85,3,7,11,2025-06-23 20:02:45,2025-06-23 20:33:45,2025-06-23 21:54:45,2025-06-23 22:21:45,Exame,Emergencia,Infecção Urinária,Sapiente quidem quia quas asperiores impedit ex ullam.,Concluido,31,81,27
+184,53,1,49,10,2024-08-08 02:12:57,2024-08-08 02:34:57,2024-08-08 03:59:57,2024-08-08 04:49:57,Retorno,Media,Gripe,Perferendis at natus tenetur cum eligendi.,Concluido,22,85,50
+185,31,2,44,7,2025-06-22 10:16:46,2025-06-22 10:39:46,2025-06-22 11:22:46,2025-06-22 12:40:46,Procedimento,Baixa,Hipertensão,A animi in suscipit.,Concluido,23,43,78
+186,53,1,46,5,2024-12-23 05:09:32,2024-12-23 05:15:32,2024-12-23 05:34:32,2024-12-23 07:53:32,Retorno,Baixa,Hipertensão,Quidem beatae ullam ratione maiores.,Concluido,6,19,139
+187,68,1,49,9,2025-01-25 18:35:03,2025-01-25 19:06:03,2025-01-25 19:31:03,2025-01-25 21:26:03,Consulta Ambulatorial,Baixa,Hipertensão,Ratione laborum distinctio at quas expedita similique.,Encaminhado Internacao,31,25,115
+188,41,3,7,4,2025-07-04 23:49:26,2025-07-05 00:07:26,2025-07-05 01:17:26,2025-07-05 03:02:26,Retorno,Alta,Fratura,Nisi repellendus laborum corrupti quam harum.,Concluido,18,70,105
+189,91,1,49,3,2025-03-27 19:16:05,2025-03-27 20:11:05,2025-03-27 20:30:05,2025-03-27 22:48:05,Exame,Alta,Dor de Cabeça,Neque beatae sapiente cupiditate consequatur ut assumenda.,Concluido,55,19,138
+190,82,2,7,8,2025-02-10 22:57:27,2025-02-10 23:43:27,2025-02-11 00:56:27,2025-02-11 03:28:27,Emergencia,Alta,Resfriado Comum,Neque ut eaque suscipit rem.,Encaminhado Internacao,46,73,152
+191,53,2,34,13,2024-08-10 14:46:46,2024-08-10 15:31:46,2024-08-10 16:10:46,2024-08-10 17:06:46,Consulta Ambulatorial,Urgencia,Asma,Dolor officia quidem.,Concluido,45,39,56
+192,97,2,46,8,2024-11-23 07:02:15,2024-11-23 07:49:15,2024-11-23 09:37:15,2024-11-23 11:41:15,Emergencia,Urgencia,Diabetes,Labore dignissimos odio animi praesentium distinctio.,Alta,47,108,124
+193,90,2,49,2,2024-11-14 11:51:32,2024-11-14 12:50:32,2024-11-14 13:18:32,2024-11-14 15:02:32,Retorno,Emergencia,Asma,Veniam asperiores fugiat labore mollitia ut ex.,Encaminhado Internacao,59,28,104
+194,19,2,10,6,2024-11-19 17:02:26,2024-11-19 17:45:26,2024-11-19 18:37:26,2024-11-19 20:09:26,Consulta Ambulatorial,Emergencia,Dor de Cabeça,Voluptatibus aperiam ducimus totam.,Alta,43,52,92
+195,6,3,27,11,2025-01-26 05:54:56,2025-01-26 06:09:56,2025-01-26 07:11:56,2025-01-26 08:56:56,Retorno,Baixa,Gripe,Autem totam expedita quae repellat iure similique.,Alta,15,62,105
+196,4,2,10,3,2024-11-09 15:03:20,2024-11-09 15:55:20,2024-11-09 17:34:20,2024-11-09 18:19:20,Procedimento,Media,Dor de Cabeça,Soluta quasi quis amet laudantium ex.,Alta,52,99,45
+197,16,1,7,4,2024-11-13 00:42:30,2024-11-13 01:01:30,2024-11-13 02:13:30,2024-11-13 03:19:30,Emergencia,Urgencia,Hipertensão,Voluptatum eos veniam suscipit ea harum.,Alta,19,72,66
+198,65,3,49,4,2025-07-28 23:12:14,2025-07-28 23:38:14,2025-07-29 01:26:14,2025-07-29 02:10:14,Procedimento,Alta,Fratura,Ipsa sit atque nam.,Alta,26,108,44
+199,88,2,46,13,2024-12-07 21:58:25,2024-12-07 22:32:25,2024-12-07 23:39:25,2024-12-08 00:47:25,Consulta Ambulatorial,Media,Infecção Urinária,Natus quis necessitatibus quae.,Alta,34,67,68
+200,42,3,46,14,2024-08-25 03:07:07,2024-08-25 03:13:07,2024-08-25 03:50:07,2024-08-25 04:34:07,Retorno,Urgencia,Infecção Urinária,Minus temporibus sit doloribus repellat blanditiis ipsa.,Alta,6,37,44
+201,52,3,27,14,2025-01-21 15:53:40,2025-01-21 16:11:40,2025-01-21 16:54:40,2025-01-21 19:12:40,Retorno,Baixa,Gripe,Reiciendis repellat hic repudiandae nemo.,Encaminhado Internacao,18,43,138
+202,17,3,49,1,2025-06-24 23:45:22,2025-06-25 00:37:22,2025-06-25 01:38:22,2025-06-25 03:42:22,Emergencia,Alta,Infecção Urinária,Debitis fugiat natus non inventore reiciendis ex.,Concluido,52,61,124
+203,69,2,10,2,2024-09-15 22:16:48,2024-09-15 23:16:48,2024-09-16 00:31:48,2024-09-16 01:13:48,Emergencia,Baixa,Diabetes,Maiores atque praesentium ratione similique est.,Encaminhado Internacao,60,75,42
+204,11,1,27,10,2025-06-18 18:12:14,2025-06-18 18:21:14,2025-06-18 20:16:14,2025-06-18 22:53:14,Consulta Ambulatorial,Alta,Resfriado Comum,Aspernatur consequuntur expedita.,Alta,9,115,157
+205,77,1,49,11,2024-11-18 07:33:37,2024-11-18 07:42:37,2024-11-18 08:37:37,2024-11-18 10:24:37,Procedimento,Media,Gripe,Unde dolore repellendus suscipit eius hic.,Alta,9,55,107
+206,59,1,46,12,2024-10-09 04:33:52,2024-10-09 04:43:52,2024-10-09 05:23:52,2024-10-09 06:41:52,Consulta Ambulatorial,Emergencia,Asma,Voluptate minima quos libero commodi.,Alta,10,40,78
+207,51,2,44,13,2024-11-13 11:10:42,2024-11-13 12:05:42,2024-11-13 12:32:42,2024-11-13 14:00:42,Consulta Ambulatorial,Media,Diabetes,Quia sunt quae perferendis perferendis.,Concluido,55,27,88
+208,44,3,7,7,2024-09-29 16:57:26,2024-09-29 17:49:26,2024-09-29 18:26:26,2024-09-29 20:41:26,Procedimento,Emergencia,Fratura,Minus occaecati illo a qui dolorem eum.,Concluido,52,37,135
+209,76,3,7,2,2025-06-15 10:30:37,2025-06-15 11:11:37,2025-06-15 13:07:37,2025-06-15 14:04:37,Procedimento,Alta,Gripe,Assumenda ducimus nihil quos occaecati labore.,Alta,41,116,57
+210,75,2,27,9,2025-03-27 01:19:15,2025-03-27 02:15:15,2025-03-27 03:18:15,2025-03-27 04:38:15,Emergencia,Emergencia,Hipertensão,Cumque architecto non a ea odit at.,Alta,56,63,80
+211,38,2,49,7,2025-06-08 06:07:47,2025-06-08 06:46:47,2025-06-08 07:58:47,2025-06-08 09:52:47,Procedimento,Urgencia,Asma,Omnis perferendis itaque molestiae dicta maxime consectetur.,Encaminhado Internacao,39,72,114
+212,88,2,44,14,2024-09-15 19:20:24,2024-09-15 20:10:24,2024-09-15 21:29:24,2024-09-16 00:10:24,Exame,Urgencia,Resfriado Comum,Sequi vitae placeat nobis.,Concluido,50,79,161
+213,30,2,46,4,2025-05-14 11:37:43,2025-05-14 12:21:43,2025-05-14 13:52:43,2025-05-14 14:11:43,Consulta Ambulatorial,Media,Hipertensão,Iste ullam quos temporibus omnis debitis.,Alta,44,91,19
+214,74,1,10,9,2024-11-11 07:41:44,2024-11-11 07:59:44,2024-11-11 09:46:44,2024-11-11 10:58:44,Retorno,Baixa,Resfriado Comum,Quae aliquid eos maiores assumenda quaerat occaecati.,Encaminhado Internacao,18,107,72
+215,64,3,49,11,2025-07-03 00:51:36,2025-07-03 01:32:36,2025-07-03 02:08:36,2025-07-03 04:31:36,Exame,Emergencia,Dor de Cabeça,Sed inventore ducimus quo itaque.,Alta,41,36,143
+216,88,2,34,7,2025-06-27 03:22:42,2025-06-27 03:40:42,2025-06-27 04:28:42,2025-06-27 04:44:42,Retorno,Alta,Resfriado Comum,Iste expedita in.,Encaminhado Internacao,18,48,16
+217,39,1,46,12,2025-05-05 18:33:43,2025-05-05 18:46:43,2025-05-05 19:58:43,2025-05-05 20:46:43,Consulta Ambulatorial,Baixa,Infecção Urinária,Repudiandae quae facilis ab at corrupti labore.,Encaminhado Internacao,13,72,48
+218,24,2,10,4,2025-01-29 21:02:45,2025-01-29 21:22:45,2025-01-29 22:20:45,2025-01-29 22:48:45,Emergencia,Baixa,Dor de Cabeça,In placeat eius aliquid dolor quaerat.,Alta,20,58,28
+219,14,3,27,4,2024-08-17 21:42:06,2024-08-17 22:17:06,2024-08-17 22:39:06,2024-08-17 23:17:06,Consulta Ambulatorial,Alta,Asma,Impedit at recusandae ad voluptatem maiores quod.,Concluido,35,22,38
+220,95,3,27,10,2025-08-01 15:39:28,2025-08-01 16:15:28,2025-08-01 16:45:28,2025-08-01 17:52:28,Retorno,Urgencia,Resfriado Comum,Ea impedit ducimus repellendus doloribus aperiam laborum.,Encaminhado Internacao,36,30,67
+221,90,3,10,15,2024-12-04 09:40:30,2024-12-04 10:06:30,2024-12-04 10:19:30,2024-12-04 12:34:30,Exame,Urgencia,Gripe,Dolorem at nemo numquam.,Concluido,26,13,135
+222,62,1,49,15,2024-08-05 03:05:57,2024-08-05 03:15:57,2024-08-05 03:44:57,2024-08-05 05:33:57,Emergencia,Emergencia,Hipertensão,Corporis eaque vel labore.,Encaminhado Internacao,10,29,109
+223,67,2,34,10,2024-10-31 10:58:05,2024-10-31 11:28:05,2024-10-31 12:01:05,2024-10-31 12:59:05,Retorno,Alta,Dor de Cabeça,Inventore necessitatibus consequatur quos consequatur odit.,Concluido,30,33,58
+224,36,2,27,5,2025-07-18 11:48:28,2025-07-18 12:17:28,2025-07-18 14:01:28,2025-07-18 15:26:28,Retorno,Emergencia,Hipertensão,Alias quod similique esse error consectetur animi.,Alta,29,104,85
+225,72,1,27,12,2024-10-05 08:33:49,2024-10-05 09:01:49,2024-10-05 10:16:49,2024-10-05 13:05:49,Retorno,Baixa,Hipertensão,Impedit ea minus tempora aliquam dolorum deserunt.,Concluido,28,75,169
+226,43,2,44,10,2024-09-22 20:37:42,2024-09-22 20:51:42,2024-09-22 22:16:42,2024-09-22 23:57:42,Emergencia,Urgencia,Gripe,Nulla eos placeat nobis quae sequi necessitatibus hic.,Encaminhado Internacao,14,85,101
+227,47,3,27,12,2024-10-06 12:22:49,2024-10-06 13:12:49,2024-10-06 13:27:49,2024-10-06 14:54:49,Retorno,Alta,Diabetes,Quidem nihil culpa perspiciatis illum voluptates.,Encaminhado Internacao,50,15,87
+228,87,2,10,2,2025-05-25 10:59:38,2025-05-25 11:54:38,2025-05-25 13:28:38,2025-05-25 16:14:38,Procedimento,Urgencia,Resfriado Comum,Recusandae veritatis est veritatis dicta temporibus aperiam.,Alta,55,94,166
+229,30,3,46,10,2025-03-27 08:29:23,2025-03-27 09:05:23,2025-03-27 10:58:23,2025-03-27 11:37:23,Emergencia,Media,Diabetes,Amet ab ad mollitia dolorum sapiente.,Concluido,36,113,39
+230,61,2,49,13,2025-07-17 21:41:19,2025-07-17 22:35:19,2025-07-18 00:00:19,2025-07-18 02:24:19,Procedimento,Urgencia,Fratura,Maiores blanditiis non quam possimus accusantium.,Alta,54,85,144
+231,63,2,49,10,2025-07-06 01:25:05,2025-07-06 01:56:05,2025-07-06 02:07:05,2025-07-06 05:06:05,Procedimento,Emergencia,Fratura,Consequatur omnis atque dolores.,Alta,31,11,179
+232,34,2,10,3,2025-02-08 02:51:14,2025-02-08 03:02:14,2025-02-08 04:29:14,2025-02-08 04:53:14,Retorno,Alta,Diabetes,Nesciunt architecto rerum voluptatibus voluptate assumenda voluptas.,Concluido,11,87,24
+233,22,3,27,13,2024-11-06 03:27:03,2024-11-06 03:44:03,2024-11-06 04:11:03,2024-11-06 06:48:03,Exame,Urgencia,Infecção Urinária,Tempore quidem necessitatibus ipsa modi.,Alta,17,27,157
+234,66,3,46,10,2024-10-22 05:30:50,2024-10-22 06:18:50,2024-10-22 07:04:50,2024-10-22 09:38:50,Retorno,Alta,Resfriado Comum,Non omnis vel corrupti rem perferendis culpa perspiciatis.,Encaminhado Internacao,48,46,154
+235,95,1,10,13,2025-06-03 11:51:46,2025-06-03 12:01:46,2025-06-03 13:47:46,2025-06-03 16:18:46,Retorno,Baixa,Hipertensão,Libero similique vitae laboriosam aperiam repellendus.,Alta,10,106,151
+236,49,2,34,12,2025-06-06 03:57:00,2025-06-06 04:16:00,2025-06-06 04:35:00,2025-06-06 07:33:00,Consulta Ambulatorial,Emergencia,Diabetes,Ex quis blanditiis odit iusto cumque ab.,Concluido,19,19,178
+237,77,3,10,13,2024-11-12 06:23:40,2024-11-12 06:57:40,2024-11-12 08:35:40,2024-11-12 09:37:40,Emergencia,Emergencia,Hipertensão,Ratione accusantium ullam veniam aperiam.,Alta,34,98,62
+238,63,2,10,12,2025-04-20 18:55:11,2025-04-20 19:20:11,2025-04-20 20:32:11,2025-04-20 22:23:11,Emergencia,Urgencia,Infecção Urinária,A quam architecto.,Encaminhado Internacao,25,72,111
+239,31,2,49,14,2025-07-06 10:58:47,2025-07-06 11:37:47,2025-07-06 12:12:47,2025-07-06 15:10:47,Procedimento,Media,Hipertensão,Laborum voluptatibus esse aliquam voluptate natus.,Concluido,39,35,178
+240,10,3,44,14,2025-05-19 18:46:49,2025-05-19 19:38:49,2025-05-19 21:11:49,2025-05-19 23:35:49,Procedimento,Emergencia,Asma,Tenetur repellendus mollitia at dolorum aperiam at.,Alta,52,93,144
+241,91,1,7,10,2024-10-02 21:52:02,2024-10-02 22:19:02,2024-10-02 23:28:02,2024-10-02 23:53:02,Consulta Ambulatorial,Alta,Infecção Urinária,Aut provident fugit omnis beatae voluptatem voluptatibus.,Encaminhado Internacao,27,69,25
+242,28,3,49,9,2024-08-08 06:01:35,2024-08-08 06:20:35,2024-08-08 06:44:35,2024-08-08 07:22:35,Consulta Ambulatorial,Urgencia,Infecção Urinária,Fugit reprehenderit debitis excepturi.,Alta,19,24,38
+243,67,1,7,9,2024-10-31 14:09:26,2024-10-31 14:54:26,2024-10-31 15:50:26,2024-10-31 16:05:26,Exame,Alta,Hipertensão,Ipsum ducimus doloribus optio nobis.,Concluido,45,56,15
+244,81,2,27,13,2024-09-30 17:40:53,2024-09-30 17:56:53,2024-09-30 19:50:53,2024-09-30 20:25:53,Procedimento,Emergencia,Hipertensão,Laboriosam minima veniam corrupti natus.,Encaminhado Internacao,16,114,35
+245,8,3,34,12,2024-08-13 03:51:37,2024-08-13 04:22:37,2024-08-13 05:59:37,2024-08-13 08:21:37,Exame,Media,Hipertensão,Dolor minima nemo quaerat.,Encaminhado Internacao,31,97,142
+246,47,2,7,13,2025-04-12 10:24:47,2025-04-12 10:38:47,2025-04-12 12:26:47,2025-04-12 13:48:47,Consulta Ambulatorial,Urgencia,Infecção Urinária,Eaque iste vel eius beatae possimus asperiores eveniet.,Concluido,14,108,82
+247,100,1,49,8,2025-03-13 05:50:29,2025-03-13 06:35:29,2025-03-13 07:03:29,2025-03-13 08:41:29,Procedimento,Baixa,Gripe,Aut ex est excepturi.,Concluido,45,28,98
+248,72,2,49,2,2024-12-13 03:11:31,2024-12-13 03:18:31,2024-12-13 03:46:31,2024-12-13 06:20:31,Consulta Ambulatorial,Urgencia,Asma,Accusantium facilis accusantium maxime modi.,Encaminhado Internacao,7,28,154
+249,62,3,10,9,2024-09-28 14:04:42,2024-09-28 14:40:42,2024-09-28 15:47:42,2024-09-28 17:09:42,Exame,Baixa,Gripe,Maxime possimus corrupti temporibus dolores id nesciunt fugiat.,Alta,36,67,82
+250,87,2,46,11,2025-04-22 05:35:14,2025-04-22 05:44:14,2025-04-22 06:10:14,2025-04-22 08:56:14,Retorno,Emergencia,Resfriado Comum,Veniam autem esse.,Concluido,9,26,166
+251,11,2,49,10,2024-08-04 09:07:51,2024-08-04 09:56:51,2024-08-04 11:42:51,2024-08-04 13:57:51,Consulta Ambulatorial,Baixa,Infecção Urinária,Totam cumque quaerat vitae quia.,Concluido,49,106,135
+252,67,1,49,7,2024-08-12 08:27:43,2024-08-12 08:44:43,2024-08-12 10:36:43,2024-08-12 13:33:43,Emergencia,Media,Infecção Urinária,Voluptatibus veniam id et.,Alta,17,112,177
+253,69,2,27,8,2024-08-06 15:57:30,2024-08-06 16:41:30,2024-08-06 17:30:30,2024-08-06 19:20:30,Retorno,Emergencia,Hipertensão,Inventore dolore officia molestias quos architecto eligendi.,Alta,44,49,110
+254,10,3,10,6,2025-07-31 03:32:21,2025-07-31 04:21:21,2025-07-31 05:20:21,2025-07-31 07:46:21,Procedimento,Baixa,Dor de Cabeça,Saepe corporis voluptatibus tempora ipsum quibusdam eligendi.,Encaminhado Internacao,49,59,146
+255,25,3,34,8,2025-06-21 08:17:24,2025-06-21 08:50:24,2025-06-21 10:04:24,2025-06-21 11:02:24,Emergencia,Baixa,Resfriado Comum,Quasi ad aspernatur esse voluptatibus qui.,Alta,33,74,58
+256,9,2,10,12,2024-12-21 17:27:40,2024-12-21 18:27:40,2024-12-21 19:12:40,2024-12-21 20:22:40,Procedimento,Media,Gripe,Aut molestiae ducimus itaque dolorum fugiat.,Alta,60,45,70
+257,77,3,34,1,2025-02-11 10:51:12,2025-02-11 11:29:12,2025-02-11 13:25:12,2025-02-11 16:16:12,Retorno,Urgencia,Fratura,Temporibus ullam excepturi sit deserunt.,Encaminhado Internacao,38,116,171
+258,64,3,44,7,2025-05-13 03:55:44,2025-05-13 04:32:44,2025-05-13 05:49:44,2025-05-13 08:26:44,Emergencia,Media,Resfriado Comum,Nobis ut voluptatum magni possimus voluptatum possimus.,Encaminhado Internacao,37,77,157
+259,91,3,34,6,2025-07-04 21:07:29,2025-07-04 22:07:29,2025-07-04 23:46:29,2025-07-05 00:52:29,Exame,Alta,Hipertensão,Esse vero placeat facere.,Concluido,60,99,66
+260,59,3,10,14,2025-02-20 03:07:56,2025-02-20 03:51:56,2025-02-20 04:28:56,2025-02-20 05:52:56,Exame,Urgencia,Resfriado Comum,Eveniet sequi praesentium aliquid inventore.,Encaminhado Internacao,44,37,84
+261,26,3,46,5,2025-03-23 03:27:24,2025-03-23 04:23:24,2025-03-23 06:10:24,2025-03-23 07:59:24,Consulta Ambulatorial,Emergencia,Resfriado Comum,Molestias placeat esse quibusdam voluptatem numquam labore.,Concluido,56,107,109
+262,8,3,10,7,2024-09-27 16:22:15,2024-09-27 17:09:15,2024-09-27 18:57:15,2024-09-27 20:55:15,Exame,Urgencia,Diabetes,Beatae repellat in.,Alta,47,108,118
+263,56,2,34,8,2024-12-21 18:33:00,2024-12-21 19:06:00,2024-12-21 19:29:00,2024-12-21 21:59:00,Exame,Baixa,Diabetes,Minus cum quod quo qui suscipit expedita.,Concluido,33,23,150
+264,29,1,44,11,2025-06-28 19:04:26,2025-06-28 19:13:26,2025-06-28 20:36:26,2025-06-28 21:59:26,Consulta Ambulatorial,Urgencia,Infecção Urinária,Nostrum facilis repudiandae fugit.,Encaminhado Internacao,9,83,83
+265,19,2,44,12,2024-11-26 09:55:48,2024-11-26 10:11:48,2024-11-26 11:24:48,2024-11-26 13:24:48,Consulta Ambulatorial,Alta,Diabetes,Repudiandae nemo nobis recusandae corrupti dolorum consectetur.,Alta,16,73,120
+266,42,2,7,1,2024-08-07 16:54:37,2024-08-07 17:42:37,2024-08-07 18:18:37,2024-08-07 19:18:37,Emergencia,Alta,Asma,Voluptates quae eaque ipsa adipisci.,Concluido,48,36,60
+267,90,3,7,10,2024-08-07 07:34:45,2024-08-07 07:51:45,2024-08-07 08:22:45,2024-08-07 11:20:45,Retorno,Alta,Gripe,Dolorum repudiandae suscipit ut tempore optio.,Encaminhado Internacao,17,31,178
+268,56,2,7,4,2025-02-18 08:39:56,2025-02-18 09:32:56,2025-02-18 10:10:56,2025-02-18 12:02:56,Retorno,Emergencia,Asma,Autem dolore voluptatem enim quibusdam nisi maiores.,Concluido,53,38,112
+269,17,1,46,12,2025-04-19 17:39:55,2025-04-19 18:28:55,2025-04-19 20:27:55,2025-04-19 22:02:55,Procedimento,Media,Diabetes,Nisi ad possimus minima est.,Alta,49,119,95
+270,5,1,49,9,2025-04-27 18:13:44,2025-04-27 18:22:44,2025-04-27 18:32:44,2025-04-27 21:12:44,Exame,Baixa,Infecção Urinária,Eos quidem porro possimus fugiat.,Encaminhado Internacao,9,10,160
+271,10,3,34,13,2025-05-01 17:36:53,2025-05-01 18:04:53,2025-05-01 18:40:53,2025-05-01 19:47:53,Procedimento,Urgencia,Gripe,Totam atque quas nisi.,Encaminhado Internacao,28,36,67
+272,54,2,27,9,2025-03-11 18:56:11,2025-03-11 19:03:11,2025-03-11 19:14:11,2025-03-11 20:22:11,Procedimento,Baixa,Hipertensão,Magni quisquam eveniet vel.,Alta,7,11,68
+273,96,1,46,12,2025-03-25 01:13:30,2025-03-25 01:53:30,2025-03-25 03:05:30,2025-03-25 03:36:30,Procedimento,Media,Diabetes,Nostrum sint at rerum animi dolores at aliquam.,Alta,40,72,31
+274,2,3,44,4,2025-01-25 21:30:19,2025-01-25 21:49:19,2025-01-25 23:04:19,2025-01-26 00:59:19,Exame,Baixa,Fratura,Laboriosam autem hic facilis ut ab ea.,Alta,19,75,115
+275,96,2,10,2,2024-08-11 06:42:53,2024-08-11 07:25:53,2024-08-11 09:24:53,2024-08-11 11:47:53,Exame,Baixa,Asma,Ducimus eligendi eligendi consequuntur.,Alta,43,119,143
+276,32,3,27,15,2024-08-29 20:08:11,2024-08-29 20:51:11,2024-08-29 22:28:11,2024-08-29 23:49:11,Retorno,Alta,Fratura,Incidunt voluptate doloremque dolorum molestias.,Concluido,43,97,81
+277,6,2,44,8,2024-12-04 18:19:04,2024-12-04 18:36:04,2024-12-04 19:32:04,2024-12-04 21:59:04,Retorno,Media,Dor de Cabeça,Numquam minus autem corrupti modi.,Alta,17,56,147
+278,57,2,46,6,2024-08-19 07:15:35,2024-08-19 07:52:35,2024-08-19 08:25:35,2024-08-19 11:01:35,Procedimento,Media,Infecção Urinária,Temporibus consectetur itaque laudantium beatae dolorum iste adipisci.,Alta,37,33,156
+279,32,2,49,14,2024-08-22 21:31:25,2024-08-22 21:51:25,2024-08-22 23:09:25,2024-08-23 01:50:25,Retorno,Urgencia,Asma,Fugit tempora praesentium unde enim.,Concluido,20,78,161
+280,91,3,49,1,2024-11-13 07:49:51,2024-11-13 08:46:51,2024-11-13 10:33:51,2024-11-13 10:50:51,Exame,Baixa,Hipertensão,Possimus consequuntur nam atque earum.,Alta,57,107,17
+281,26,2,46,8,2025-01-10 12:16:19,2025-01-10 13:10:19,2025-01-10 14:35:19,2025-01-10 15:16:19,Procedimento,Urgencia,Diabetes,Et iusto possimus corrupti numquam necessitatibus.,Encaminhado Internacao,54,85,41
+282,71,2,27,10,2025-06-19 16:29:28,2025-06-19 16:53:28,2025-06-19 17:16:28,2025-06-19 20:01:28,Exame,Emergencia,Resfriado Comum,Facere praesentium laudantium porro pariatur reprehenderit.,Encaminhado Internacao,24,23,165
+283,94,2,46,1,2025-07-25 14:08:19,2025-07-25 15:00:19,2025-07-25 15:38:19,2025-07-25 17:35:19,Procedimento,Urgencia,Resfriado Comum,Debitis tenetur distinctio quis.,Alta,52,38,117
+284,93,1,34,3,2025-06-23 11:03:27,2025-06-23 11:30:27,2025-06-23 11:53:27,2025-06-23 13:06:27,Procedimento,Emergencia,Resfriado Comum,Tenetur ipsam fuga nemo vero explicabo tenetur consequuntur.,Encaminhado Internacao,27,23,73
+285,35,1,34,1,2024-12-08 14:56:03,2024-12-08 15:03:03,2024-12-08 15:47:03,2024-12-08 18:36:03,Retorno,Emergencia,Dor de Cabeça,Quas asperiores qui placeat quas harum.,Encaminhado Internacao,7,44,169
+286,45,1,10,5,2025-07-08 01:29:42,2025-07-08 01:35:42,2025-07-08 03:17:42,2025-07-08 05:36:42,Procedimento,Alta,Hipertensão,Minus occaecati perspiciatis labore.,Concluido,6,102,139
+287,38,3,49,15,2024-11-25 02:46:48,2024-11-25 03:25:48,2024-11-25 04:35:48,2024-11-25 07:06:48,Procedimento,Alta,Resfriado Comum,Alias incidunt voluptate qui ex.,Concluido,39,70,151
+288,81,3,10,9,2025-06-16 03:09:22,2025-06-16 03:42:22,2025-06-16 04:51:22,2025-06-16 07:22:22,Retorno,Media,Fratura,Cumque deleniti delectus.,Alta,33,69,151
+289,3,3,49,8,2025-01-01 14:20:35,2025-01-01 15:14:35,2025-01-01 15:24:35,2025-01-01 15:44:35,Procedimento,Media,Resfriado Comum,Ratione quasi explicabo odio quo vitae.,Encaminhado Internacao,54,10,20
+290,29,3,10,9,2024-09-23 18:12:14,2024-09-23 18:47:14,2024-09-23 20:43:14,2024-09-23 23:40:14,Procedimento,Urgencia,Dor de Cabeça,Ipsa ratione commodi veritatis rerum.,Encaminhado Internacao,35,116,177
+291,19,3,7,1,2024-12-29 15:30:29,2024-12-29 15:53:29,2024-12-29 17:11:29,2024-12-29 17:37:29,Emergencia,Baixa,Fratura,Perferendis numquam laboriosam expedita numquam alias dolor.,Concluido,23,78,26
+292,22,1,27,3,2024-11-15 21:05:49,2024-11-15 21:57:49,2024-11-15 22:29:49,2024-11-15 23:51:49,Retorno,Media,Fratura,Laudantium rem consequuntur aspernatur tempore.,Alta,52,32,82
+293,21,2,44,6,2024-10-14 12:05:43,2024-10-14 12:32:43,2024-10-14 13:41:43,2024-10-14 15:42:43,Consulta Ambulatorial,Emergencia,Asma,Suscipit vitae nihil corporis.,Alta,27,69,121
+294,18,2,7,14,2025-04-26 01:59:20,2025-04-26 02:55:20,2025-04-26 03:22:20,2025-04-26 04:04:20,Exame,Media,Asma,Consequatur autem dolore neque.,Concluido,56,27,42
+295,74,2,44,12,2025-04-13 12:50:40,2025-04-13 13:33:40,2025-04-13 14:19:40,2025-04-13 16:43:40,Procedimento,Alta,Gripe,Soluta iusto cupiditate dolore harum velit error.,Encaminhado Internacao,43,46,144
+296,20,3,27,9,2025-06-20 17:21:58,2025-06-20 17:43:58,2025-06-20 18:52:58,2025-06-20 20:21:58,Consulta Ambulatorial,Baixa,Hipertensão,Amet autem quasi molestias animi.,Encaminhado Internacao,22,69,89
+297,79,1,34,10,2025-05-10 14:12:15,2025-05-10 14:17:15,2025-05-10 14:42:15,2025-05-10 16:12:15,Consulta Ambulatorial,Media,Hipertensão,Rerum animi deleniti velit doloribus amet.,Alta,5,25,90
+298,65,2,46,5,2024-10-25 08:54:24,2024-10-25 09:12:24,2024-10-25 09:58:24,2024-10-25 10:34:24,Exame,Alta,Dor de Cabeça,Quasi dignissimos at nisi.,Alta,18,46,36
+299,29,3,27,1,2025-05-13 22:59:23,2025-05-13 23:22:23,2025-05-14 00:03:23,2025-05-14 02:07:23,Exame,Baixa,Gripe,Ipsam nesciunt rerum soluta dolor corrupti ipsa mollitia.,Alta,23,41,124
+300,53,1,7,11,2024-11-17 07:59:34,2024-11-17 08:44:34,2024-11-17 10:36:34,2024-11-17 12:37:34,Retorno,Urgencia,Hipertensão,Repellendus aut mollitia ut.,Alta,45,112,121
+301,27,3,34,2,2025-01-31 13:55:09,2025-01-31 14:52:09,2025-01-31 15:25:09,2025-01-31 16:29:09,Exame,Alta,Gripe,Libero provident aspernatur nihil.,Alta,57,33,64
+302,24,2,34,6,2025-04-15 03:04:41,2025-04-15 03:34:41,2025-04-15 04:29:41,2025-04-15 07:06:41,Exame,Baixa,Infecção Urinária,Vitae quis quod numquam corrupti iste sequi magnam.,Encaminhado Internacao,30,55,157
+303,95,1,27,9,2025-07-01 05:58:11,2025-07-01 06:55:11,2025-07-01 08:00:11,2025-07-01 08:30:11,Exame,Media,Dor de Cabeça,Quibusdam doloremque aut iusto.,Concluido,57,65,30
+304,15,3,34,3,2024-10-11 02:00:06,2024-10-11 02:14:06,2024-10-11 03:44:06,2024-10-11 06:10:06,Exame,Emergencia,Dor de Cabeça,Nisi perferendis molestias rerum.,Concluido,14,90,146
+305,63,1,7,5,2025-04-30 01:02:41,2025-04-30 01:15:41,2025-04-30 01:43:41,2025-04-30 04:42:41,Emergencia,Media,Dor de Cabeça,Corporis eos deleniti illo totam ipsam sequi.,Concluido,13,28,179
+306,96,2,10,2,2025-05-29 20:56:19,2025-05-29 21:32:19,2025-05-29 22:53:19,2025-05-30 00:32:19,Consulta Ambulatorial,Alta,Asma,Et ipsam quibusdam nihil quo praesentium magnam similique.,Concluido,36,81,99
+307,7,1,10,6,2025-01-05 06:32:49,2025-01-05 07:14:49,2025-01-05 09:09:49,2025-01-05 10:48:49,Procedimento,Emergencia,Asma,Veritatis exercitationem ad asperiores.,Concluido,42,115,99
+308,52,2,44,2,2025-02-12 21:26:27,2025-02-12 21:40:27,2025-02-12 22:38:27,2025-02-13 00:29:27,Emergencia,Emergencia,Asma,Laborum velit possimus repellat sunt ratione.,Concluido,14,58,111
+309,44,3,10,8,2025-01-04 09:01:42,2025-01-04 09:12:42,2025-01-04 10:25:42,2025-01-04 11:19:42,Procedimento,Emergencia,Diabetes,Corrupti officiis excepturi expedita illo facilis officiis itaque.,Alta,11,73,54
+310,94,1,27,12,2024-12-13 05:52:00,2024-12-13 06:37:00,2024-12-13 08:18:00,2024-12-13 10:50:00,Emergencia,Emergencia,Asma,Explicabo commodi est magnam iste eveniet doloremque dicta.,Encaminhado Internacao,45,101,152
+311,63,3,44,1,2025-08-02 18:08:28,2025-08-02 18:25:28,2025-08-02 20:01:28,2025-08-02 20:50:28,Exame,Emergencia,Resfriado Comum,Magnam deserunt illum illum dolore distinctio tempore enim.,Alta,17,96,49
+312,40,3,44,9,2025-01-06 19:07:52,2025-01-06 19:49:52,2025-01-06 21:39:52,2025-01-06 23:06:52,Retorno,Alta,Fratura,Culpa animi excepturi quisquam.,Encaminhado Internacao,42,110,87
+313,59,2,34,5,2025-03-22 21:49:21,2025-03-22 21:56:21,2025-03-22 22:13:21,2025-03-23 01:11:21,Consulta Ambulatorial,Baixa,Dor de Cabeça,Neque unde magni autem necessitatibus.,Encaminhado Internacao,7,17,178
+314,28,2,49,12,2024-10-22 03:26:30,2024-10-22 03:36:30,2024-10-22 04:44:30,2024-10-22 06:29:30,Procedimento,Media,Infecção Urinária,Animi incidunt molestias deleniti eligendi debitis at deleniti.,Concluido,10,68,105
+315,50,3,46,5,2025-05-31 20:24:41,2025-05-31 21:14:41,2025-05-31 22:14:41,2025-05-31 23:55:41,Exame,Alta,Fratura,Dolores amet doloremque eveniet.,Concluido,50,60,101
+316,54,3,7,3,2024-12-28 17:49:12,2024-12-28 18:32:12,2024-12-28 19:47:12,2024-12-28 20:13:12,Exame,Emergencia,Hipertensão,Tempore molestiae molestias quidem suscipit alias laudantium unde.,Concluido,43,75,26
+317,62,2,10,8,2024-10-16 09:55:25,2024-10-16 10:04:25,2024-10-16 11:22:25,2024-10-16 13:16:25,Emergencia,Alta,Asma,Quasi nisi eius rem tempore consectetur nihil.,Concluido,9,78,114
+318,17,1,7,7,2025-06-02 02:42:06,2025-06-02 02:58:06,2025-06-02 04:57:06,2025-06-02 05:46:06,Retorno,Alta,Fratura,Quisquam voluptatem maiores eaque.,Encaminhado Internacao,16,119,49
+319,43,1,34,7,2024-11-09 20:03:48,2024-11-09 20:45:48,2024-11-09 21:50:48,2024-11-09 23:29:48,Consulta Ambulatorial,Media,Diabetes,Quidem beatae necessitatibus quidem neque repellendus necessitatibus.,Concluido,42,65,99
+320,19,1,27,4,2025-06-02 06:34:42,2025-06-02 07:28:42,2025-06-02 09:08:42,2025-06-02 11:43:42,Emergencia,Alta,Infecção Urinária,Reprehenderit id ex blanditiis excepturi cupiditate.,Encaminhado Internacao,54,100,155
+321,100,2,7,9,2024-08-22 04:06:54,2024-08-22 04:40:54,2024-08-22 05:57:54,2024-08-22 07:17:54,Retorno,Media,Asma,Voluptates dolores inventore quasi blanditiis debitis.,Encaminhado Internacao,34,77,80
+322,15,3,44,2,2025-04-18 00:14:14,2025-04-18 00:44:14,2025-04-18 02:41:14,2025-04-18 03:47:14,Procedimento,Urgencia,Diabetes,Ut dolorem asperiores modi cupiditate minus consectetur.,Encaminhado Internacao,30,117,66
+323,9,1,27,8,2025-02-18 02:00:31,2025-02-18 02:52:31,2025-02-18 04:37:31,2025-02-18 06:40:31,Retorno,Baixa,Asma,Laboriosam a cupiditate eius necessitatibus repudiandae incidunt.,Alta,52,105,123
+324,6,2,10,1,2025-01-11 10:46:09,2025-01-11 11:42:09,2025-01-11 12:57:09,2025-01-11 15:03:09,Consulta Ambulatorial,Alta,Diabetes,Quis blanditiis dolore consequatur nostrum.,Alta,56,75,126
+325,62,2,46,3,2025-03-01 02:07:22,2025-03-01 02:49:22,2025-03-01 04:46:22,2025-03-01 05:57:22,Consulta Ambulatorial,Media,Gripe,Voluptate expedita vitae tenetur ipsa.,Alta,42,117,71
+326,16,3,46,5,2025-06-23 16:16:19,2025-06-23 16:29:19,2025-06-23 17:20:19,2025-06-23 19:05:19,Procedimento,Emergencia,Resfriado Comum,Ipsum quas ad ipsum quia quia sint.,Encaminhado Internacao,13,51,105
+327,87,1,10,8,2024-09-14 04:09:11,2024-09-14 04:14:11,2024-09-14 05:54:11,2024-09-14 06:51:11,Emergencia,Media,Infecção Urinária,Accusamus ratione quo quo aliquid ipsam laborum.,Encaminhado Internacao,5,100,57
+328,50,2,34,8,2025-01-26 19:46:00,2025-01-26 20:08:00,2025-01-26 20:53:00,2025-01-26 23:21:00,Procedimento,Urgencia,Gripe,Nobis voluptatum architecto laudantium eum id nam.,Alta,22,45,148
+329,95,1,44,8,2024-12-08 10:51:52,2024-12-08 11:07:52,2024-12-08 12:08:52,2024-12-08 13:53:52,Retorno,Alta,Hipertensão,Laborum totam nam asperiores nostrum reprehenderit.,Concluido,16,61,105
+330,6,1,49,15,2024-11-21 21:11:14,2024-11-21 21:31:14,2024-11-21 23:10:14,2024-11-22 00:20:14,Retorno,Urgencia,Resfriado Comum,Veritatis reiciendis qui.,Encaminhado Internacao,20,99,70
+331,86,3,34,5,2024-08-28 20:51:31,2024-08-28 21:28:31,2024-08-28 22:56:31,2024-08-29 01:46:31,Emergencia,Alta,Fratura,Voluptas dolorem fuga consectetur.,Concluido,37,88,170
+332,46,3,10,8,2025-05-05 06:40:46,2025-05-05 06:55:46,2025-05-05 08:43:46,2025-05-05 11:04:46,Consulta Ambulatorial,Media,Asma,Debitis mollitia dolorem saepe odit perferendis.,Concluido,15,108,141
+333,99,1,7,14,2025-06-25 14:59:26,2025-06-25 15:20:26,2025-06-25 16:38:26,2025-06-25 17:15:26,Retorno,Media,Asma,Libero officia voluptatibus quae asperiores.,Alta,21,78,37
+334,21,1,44,4,2024-11-19 09:14:39,2024-11-19 09:55:39,2024-11-19 10:26:39,2024-11-19 13:10:39,Exame,Emergencia,Fratura,Assumenda deleniti necessitatibus facere doloremque voluptates natus.,Concluido,41,31,164
+335,72,1,27,12,2025-06-13 10:19:03,2025-06-13 10:33:03,2025-06-13 11:40:03,2025-06-13 14:09:03,Retorno,Urgencia,Dor de Cabeça,Dolorum ea repellendus cumque vitae debitis.,Encaminhado Internacao,14,67,149
+336,10,1,49,2,2025-03-14 01:39:03,2025-03-14 02:16:03,2025-03-14 03:51:03,2025-03-14 06:33:03,Exame,Urgencia,Fratura,Quibusdam iusto doloribus ex cupiditate.,Concluido,37,95,162
+337,20,2,10,6,2024-08-19 09:01:37,2024-08-19 09:15:37,2024-08-19 11:02:37,2024-08-19 13:10:37,Retorno,Alta,Resfriado Comum,Odio consequatur laborum consequatur optio tempore molestiae.,Encaminhado Internacao,14,107,128
+338,51,2,27,6,2025-07-11 14:17:58,2025-07-11 14:32:58,2025-07-11 16:25:58,2025-07-11 17:36:58,Emergencia,Emergencia,Asma,Alias necessitatibus nihil repellat ab optio voluptatum.,Concluido,15,113,71
+339,98,3,49,12,2025-02-19 19:03:53,2025-02-19 19:45:53,2025-02-19 20:35:53,2025-02-19 20:51:53,Consulta Ambulatorial,Baixa,Infecção Urinária,Ad ipsa provident optio quasi.,Encaminhado Internacao,42,50,16
+340,9,2,7,5,2025-03-14 15:00:32,2025-03-14 15:50:32,2025-03-14 17:31:32,2025-03-14 18:29:32,Procedimento,Baixa,Infecção Urinária,Ipsum doloremque sapiente dolore corporis doloribus dolores.,Encaminhado Internacao,50,101,58
+341,89,3,10,9,2025-05-11 16:00:41,2025-05-11 16:12:41,2025-05-11 17:52:41,2025-05-11 18:21:41,Retorno,Emergencia,Dor de Cabeça,Quis libero voluptates dignissimos.,Encaminhado Internacao,12,100,29
+342,82,1,7,14,2024-09-09 12:11:19,2024-09-09 12:50:19,2024-09-09 13:47:19,2024-09-09 16:29:19,Exame,Baixa,Asma,Molestiae voluptas quo iure commodi.,Concluido,39,57,162
+343,83,2,34,11,2024-10-12 11:23:25,2024-10-12 12:03:25,2024-10-12 12:18:25,2024-10-12 14:05:25,Retorno,Media,Fratura,Quo adipisci ut odio praesentium odio sed ab.,Alta,40,15,107
+344,99,3,7,3,2025-06-04 20:38:25,2025-06-04 21:04:25,2025-06-04 23:02:25,2025-06-05 01:12:25,Exame,Alta,Infecção Urinária,Soluta doloribus corporis ut.,Concluido,26,118,130
+345,1,1,49,15,2024-09-16 03:29:55,2024-09-16 04:10:55,2024-09-16 04:36:55,2024-09-16 06:26:55,Procedimento,Media,Hipertensão,Esse sunt cumque dicta.,Encaminhado Internacao,41,26,110
+346,64,3,46,14,2025-02-26 02:59:46,2025-02-26 03:54:46,2025-02-26 04:40:46,2025-02-26 06:03:46,Exame,Urgencia,Diabetes,Eius earum voluptate quia fugiat ab sequi.,Alta,55,46,83
+347,23,1,10,11,2024-10-28 20:43:47,2024-10-28 21:12:47,2024-10-28 22:23:47,2024-10-28 23:29:47,Procedimento,Alta,Diabetes,Eligendi mollitia nihil.,Concluido,29,71,66
+348,90,1,7,13,2025-05-03 08:54:07,2025-05-03 09:44:07,2025-05-03 11:25:07,2025-05-03 13:17:07,Consulta Ambulatorial,Media,Diabetes,Perferendis nihil aut quia maxime dolor.,Encaminhado Internacao,50,101,112
+349,55,3,44,8,2025-04-28 12:19:19,2025-04-28 12:49:19,2025-04-28 13:21:19,2025-04-28 14:29:19,Consulta Ambulatorial,Media,Gripe,Tempore exercitationem vitae odit hic voluptates autem.,Concluido,30,32,68
+350,64,2,46,11,2025-03-19 18:09:11,2025-03-19 18:32:11,2025-03-19 20:22:11,2025-03-19 21:02:11,Exame,Urgencia,Asma,Molestias maxime explicabo voluptatem accusantium.,Encaminhado Internacao,23,110,40
+351,78,3,10,7,2024-08-17 23:15:23,2024-08-17 23:36:23,2024-08-18 00:21:23,2024-08-18 01:06:23,Procedimento,Alta,Hipertensão,Dignissimos distinctio rerum aspernatur.,Concluido,21,45,45
+352,68,1,46,13,2025-02-02 22:34:33,2025-02-02 23:10:33,2025-02-03 01:00:33,2025-02-03 03:20:33,Emergencia,Alta,Gripe,Ipsam velit atque neque vero vero.,Concluido,36,110,140
+353,19,3,7,11,2024-09-10 16:10:28,2024-09-10 16:33:28,2024-09-10 17:24:28,2024-09-10 19:20:28,Retorno,Media,Infecção Urinária,Rem blanditiis molestias voluptatum vero.,Encaminhado Internacao,23,51,116
+354,5,3,46,4,2024-12-12 02:39:48,2024-12-12 03:13:48,2024-12-12 04:27:48,2024-12-12 06:18:48,Exame,Urgencia,Diabetes,Blanditiis sit culpa quae.,Encaminhado Internacao,34,74,111
+355,36,3,7,11,2025-07-25 09:22:38,2025-07-25 09:57:38,2025-07-25 11:50:38,2025-07-25 14:07:38,Consulta Ambulatorial,Baixa,Diabetes,Accusamus earum ad delectus doloribus sapiente.,Concluido,35,113,137
+356,27,1,7,15,2025-07-27 19:51:31,2025-07-27 20:33:31,2025-07-27 22:24:31,2025-07-27 23:54:31,Emergencia,Baixa,Fratura,Ea ipsum provident magnam ut ut quae veritatis.,Concluido,42,111,90
+357,75,2,46,7,2025-05-25 04:14:54,2025-05-25 04:44:54,2025-05-25 06:13:54,2025-05-25 07:49:54,Retorno,Urgencia,Asma,Quam velit sapiente eveniet sapiente dicta.,Concluido,30,89,96
+358,29,3,10,2,2025-03-27 14:41:17,2025-03-27 15:23:17,2025-03-27 16:35:17,2025-03-27 19:19:17,Emergencia,Alta,Hipertensão,Culpa voluptas tempore odio.,Concluido,42,72,164
+359,88,2,46,15,2024-12-13 01:51:20,2024-12-13 02:07:20,2024-12-13 04:03:20,2024-12-13 06:40:20,Retorno,Emergencia,Gripe,Vitae enim perferendis quos velit nobis facere.,Alta,16,116,157
+360,57,3,34,5,2025-03-31 12:33:17,2025-03-31 13:01:17,2025-03-31 13:59:17,2025-03-31 14:45:17,Procedimento,Media,Asma,Aut est laudantium nesciunt dolorum laborum a.,Concluido,28,58,46
+361,65,1,46,1,2024-12-26 00:01:36,2024-12-26 00:57:36,2024-12-26 02:57:36,2024-12-26 04:21:36,Procedimento,Emergencia,Dor de Cabeça,Recusandae necessitatibus autem aliquid quidem sequi vitae.,Encaminhado Internacao,56,120,84
+362,83,1,46,8,2025-07-09 13:54:51,2025-07-09 14:23:51,2025-07-09 15:09:51,2025-07-09 16:37:51,Retorno,Media,Hipertensão,Officiis pariatur expedita asperiores ut quam iusto aspernatur.,Encaminhado Internacao,29,46,88
+363,52,2,27,6,2025-02-04 01:16:52,2025-02-04 01:44:52,2025-02-04 02:38:52,2025-02-04 02:59:52,Exame,Alta,Gripe,Aut rem ab nisi.,Alta,28,54,21
+364,19,1,49,3,2025-06-15 02:22:18,2025-06-15 02:44:18,2025-06-15 03:37:18,2025-06-15 05:48:18,Exame,Alta,Dor de Cabeça,Cupiditate necessitatibus illum recusandae aspernatur ut officia.,Encaminhado Internacao,22,53,131
+365,75,1,46,2,2025-07-01 16:55:18,2025-07-01 17:03:18,2025-07-01 17:26:18,2025-07-01 20:03:18,Exame,Media,Fratura,Laboriosam veritatis libero tempora dicta molestiae.,Encaminhado Internacao,8,23,157
+366,68,2,34,2,2025-06-15 18:59:16,2025-06-15 19:54:16,2025-06-15 21:51:16,2025-06-16 00:20:16,Retorno,Urgencia,Dor de Cabeça,Minima nulla minima minima.,Concluido,55,117,149
+367,79,3,7,9,2024-11-09 20:13:04,2024-11-09 20:19:04,2024-11-09 21:29:04,2024-11-09 22:07:04,Procedimento,Baixa,Infecção Urinária,Porro nam modi excepturi molestias.,Concluido,6,70,38
+368,55,1,34,2,2025-01-16 06:37:06,2025-01-16 07:26:06,2025-01-16 07:46:06,2025-01-16 09:26:06,Retorno,Alta,Diabetes,Maiores fugit eligendi.,Encaminhado Internacao,49,20,100
+369,85,3,49,2,2025-03-16 03:34:11,2025-03-16 03:54:11,2025-03-16 04:20:11,2025-03-16 06:32:11,Retorno,Baixa,Diabetes,Autem explicabo veritatis laudantium possimus.,Alta,20,26,132
+370,68,2,7,1,2025-05-21 06:03:09,2025-05-21 06:17:09,2025-05-21 06:46:09,2025-05-21 07:12:09,Retorno,Emergencia,Diabetes,Voluptates exercitationem minima consequatur minima.,Encaminhado Internacao,14,29,26
+371,32,3,34,6,2025-02-23 23:28:12,2025-02-23 23:40:12,2025-02-24 00:50:12,2025-02-24 03:12:12,Exame,Baixa,Resfriado Comum,Minus porro perspiciatis repudiandae nesciunt libero impedit.,Encaminhado Internacao,12,70,142
+372,3,3,10,14,2024-08-18 15:42:01,2024-08-18 16:13:01,2024-08-18 17:10:01,2024-08-18 19:51:01,Emergencia,Media,Gripe,Consequuntur nam id ea enim a neque.,Concluido,31,57,161
+373,71,3,46,14,2024-09-30 15:29:59,2024-09-30 16:16:59,2024-09-30 18:01:59,2024-09-30 20:13:59,Procedimento,Baixa,Asma,Explicabo vel qui soluta ipsum pariatur.,Concluido,47,105,132
+374,44,3,27,1,2024-11-27 07:18:44,2024-11-27 07:44:44,2024-11-27 08:15:44,2024-11-27 11:10:44,Exame,Media,Resfriado Comum,Perferendis odit nisi mollitia pariatur nisi voluptate.,Concluido,26,31,175
+375,28,3,10,1,2025-02-01 14:13:39,2025-02-01 14:53:39,2025-02-01 16:32:39,2025-02-01 19:12:39,Emergencia,Baixa,Gripe,Aspernatur ab nesciunt ab quibusdam repellat.,Concluido,40,99,160
+376,63,2,49,6,2025-07-14 08:01:12,2025-07-14 08:23:12,2025-07-14 10:10:12,2025-07-14 10:33:12,Procedimento,Urgencia,Hipertensão,Soluta mollitia temporibus voluptas ipsam maiores.,Alta,22,107,23
+377,12,3,34,9,2024-12-29 22:30:01,2024-12-29 22:35:01,2024-12-29 23:08:01,2024-12-30 00:56:01,Emergencia,Alta,Hipertensão,Quibusdam veniam voluptatum voluptatibus excepturi est sapiente.,Concluido,5,33,108
+378,83,1,49,6,2024-12-25 03:07:21,2024-12-25 03:36:21,2024-12-25 04:35:21,2024-12-25 05:19:21,Procedimento,Alta,Fratura,Necessitatibus repellat autem dolorem esse.,Alta,29,59,44
+379,51,1,49,12,2024-12-18 02:21:00,2024-12-18 03:21:00,2024-12-18 04:39:00,2024-12-18 05:49:00,Exame,Baixa,Resfriado Comum,Numquam labore reiciendis officiis labore.,Concluido,60,78,70
+380,18,2,44,15,2024-09-12 06:17:44,2024-09-12 07:01:44,2024-09-12 08:26:44,2024-09-12 10:10:44,Exame,Media,Diabetes,Asperiores cumque similique harum expedita dolorem voluptatum.,Encaminhado Internacao,44,85,104
+381,30,2,34,1,2025-02-01 18:20:22,2025-02-01 18:30:22,2025-02-01 20:14:22,2025-02-01 20:50:22,Consulta Ambulatorial,Alta,Resfriado Comum,Reiciendis aspernatur soluta quod quasi.,Concluido,10,104,36
+382,94,2,27,8,2024-11-19 22:50:28,2024-11-19 23:35:28,2024-11-19 23:57:28,2024-11-20 00:32:28,Consulta Ambulatorial,Alta,Dor de Cabeça,Asperiores eligendi porro ullam totam iure.,Alta,45,22,35
+383,24,1,10,6,2025-06-14 05:32:17,2025-06-14 05:58:17,2025-06-14 07:29:17,2025-06-14 09:50:17,Exame,Emergencia,Asma,Facilis veniam nostrum numquam voluptas at asperiores.,Encaminhado Internacao,26,91,141
+384,48,3,49,10,2024-10-31 04:46:12,2024-10-31 05:08:12,2024-10-31 05:59:12,2024-10-31 08:56:12,Retorno,Emergencia,Infecção Urinária,Modi id quae.,Concluido,22,51,177
+385,89,1,7,14,2025-07-26 04:16:23,2025-07-26 04:37:23,2025-07-26 05:37:23,2025-07-26 07:55:23,Consulta Ambulatorial,Alta,Gripe,Est optio cumque possimus.,Encaminhado Internacao,21,60,138
+386,95,3,34,3,2025-04-28 15:50:35,2025-04-28 16:46:35,2025-04-28 17:59:35,2025-04-28 19:04:35,Retorno,Baixa,Dor de Cabeça,Quia aliquid provident eum molestias quo.,Concluido,56,73,65
+387,78,3,44,13,2025-03-20 16:46:10,2025-03-20 17:39:10,2025-03-20 18:09:10,2025-03-20 19:08:10,Retorno,Media,Gripe,Quod pariatur similique repudiandae nisi.,Encaminhado Internacao,53,30,59
+388,60,1,49,10,2024-11-19 10:09:35,2024-11-19 10:37:35,2024-11-19 10:55:35,2024-11-19 13:08:35,Exame,Alta,Infecção Urinária,Facere non enim illo.,Concluido,28,18,133
+389,40,3,7,12,2025-05-19 02:28:46,2025-05-19 03:19:46,2025-05-19 04:32:46,2025-05-19 07:14:46,Consulta Ambulatorial,Emergencia,Infecção Urinária,Voluptatibus maiores ipsum optio cum nam a.,Concluido,51,73,162
+390,50,1,10,11,2025-02-25 15:51:27,2025-02-25 16:38:27,2025-02-25 17:28:27,2025-02-25 18:35:27,Retorno,Urgencia,Infecção Urinária,Dolor ut totam pariatur id ratione.,Concluido,47,50,67
+391,9,1,44,11,2024-12-06 10:35:03,2024-12-06 10:44:03,2024-12-06 11:58:03,2024-12-06 14:15:03,Emergencia,Baixa,Dor de Cabeça,Nostrum ullam ullam a repellat quisquam.,Alta,9,74,137
+392,47,3,10,4,2024-12-25 11:23:33,2024-12-25 11:32:33,2024-12-25 11:52:33,2024-12-25 12:42:33,Exame,Urgencia,Diabetes,Commodi occaecati eius possimus fugiat.,Encaminhado Internacao,9,20,50
+393,62,1,34,7,2025-06-25 10:03:39,2025-06-25 10:29:39,2025-06-25 12:09:39,2025-06-25 13:07:39,Retorno,Urgencia,Infecção Urinária,At molestiae ad excepturi.,Encaminhado Internacao,26,100,58
+394,95,1,27,10,2024-08-06 22:11:55,2024-08-06 22:22:55,2024-08-06 23:30:55,2024-08-07 00:55:55,Exame,Urgencia,Diabetes,Aperiam repudiandae id et dolore dolores nostrum sunt.,Concluido,11,68,85
+395,65,1,34,8,2025-06-12 05:45:21,2025-06-12 06:40:21,2025-06-12 08:02:21,2025-06-12 10:53:21,Retorno,Media,Gripe,Ad culpa assumenda beatae.,Concluido,55,82,171
+396,27,2,46,9,2024-11-29 20:02:41,2024-11-29 20:10:41,2024-11-29 21:11:41,2024-11-29 21:36:41,Exame,Urgencia,Dor de Cabeça,Dolorum quibusdam porro odit.,Encaminhado Internacao,8,61,25
+397,36,1,49,12,2025-07-31 14:42:06,2025-07-31 14:50:06,2025-07-31 16:45:06,2025-07-31 17:34:06,Emergencia,Urgencia,Diabetes,Nobis accusamus occaecati in quam.,Concluido,8,115,49
+398,81,1,10,7,2025-02-25 06:37:09,2025-02-25 07:00:09,2025-02-25 08:17:09,2025-02-25 09:27:09,Consulta Ambulatorial,Alta,Fratura,Eius ipsa facilis architecto aut.,Encaminhado Internacao,23,77,70
+399,68,3,27,10,2024-08-03 09:46:35,2024-08-03 10:45:35,2024-08-03 11:10:35,2024-08-03 12:58:35,Emergencia,Emergencia,Infecção Urinária,Quis facere voluptatem quod itaque ab.,Encaminhado Internacao,59,25,108
+400,51,2,10,9,2024-09-26 21:16:19,2024-09-26 22:01:19,2024-09-26 22:19:19,2024-09-27 00:04:19,Procedimento,Urgencia,Fratura,Blanditiis aut voluptatibus sed laboriosam optio corporis.,Encaminhado Internacao,45,18,105
+401,80,1,7,7,2025-04-06 08:32:29,2025-04-06 08:48:29,2025-04-06 10:27:29,2025-04-06 11:08:29,Procedimento,Baixa,Resfriado Comum,Esse impedit veniam adipisci.,Encaminhado Internacao,16,99,41
+402,39,3,46,1,2024-11-06 00:44:52,2024-11-06 01:17:52,2024-11-06 01:33:52,2024-11-06 03:30:52,Retorno,Alta,Fratura,Quis eaque omnis commodi ea impedit.,Alta,33,16,117
+403,36,2,46,4,2025-05-18 23:48:13,2025-05-19 00:00:13,2025-05-19 00:53:13,2025-05-19 03:00:13,Consulta Ambulatorial,Alta,Asma,Adipisci adipisci vitae reiciendis magni accusamus accusamus cum.,Concluido,12,53,127
+404,24,3,7,8,2024-08-21 04:29:41,2024-08-21 05:16:41,2024-08-21 05:49:41,2024-08-21 08:31:41,Exame,Media,Hipertensão,Iure cupiditate quia molestias.,Alta,47,33,162
+405,66,3,7,1,2025-01-16 20:29:36,2025-01-16 20:41:36,2025-01-16 22:04:36,2025-01-17 00:19:36,Exame,Alta,Diabetes,Consectetur ea perspiciatis laborum eligendi at quidem voluptatum.,Alta,12,83,135
+406,59,2,46,7,2025-01-06 11:54:27,2025-01-06 12:37:27,2025-01-06 13:25:27,2025-01-06 13:44:27,Exame,Baixa,Asma,A exercitationem magni animi nesciunt ipsam reiciendis.,Concluido,43,48,19
+407,18,2,7,15,2025-03-11 06:34:46,2025-03-11 06:46:46,2025-03-11 07:31:46,2025-03-11 08:45:46,Emergencia,Media,Hipertensão,Consequatur nostrum exercitationem officiis quas nihil molestias.,Concluido,12,45,74
+408,35,3,49,6,2025-07-28 13:45:29,2025-07-28 14:04:29,2025-07-28 14:21:29,2025-07-28 15:01:29,Consulta Ambulatorial,Alta,Resfriado Comum,Ad a nam libero dolorem.,Alta,19,17,40
+409,53,1,7,10,2024-11-24 13:19:18,2024-11-24 13:51:18,2024-11-24 15:08:18,2024-11-24 16:23:18,Consulta Ambulatorial,Emergencia,Dor de Cabeça,Cumque aspernatur repellat.,Alta,32,77,75
+410,94,3,44,1,2024-10-06 01:01:58,2024-10-06 01:19:58,2024-10-06 02:27:58,2024-10-06 03:52:58,Emergencia,Media,Diabetes,Quasi accusamus vel ipsam eligendi nihil neque.,Alta,18,68,85
+411,49,2,44,12,2025-07-14 05:04:43,2025-07-14 05:24:43,2025-07-14 06:32:43,2025-07-14 08:56:43,Consulta Ambulatorial,Baixa,Hipertensão,Consectetur consequatur commodi sed ipsam veritatis dolorem.,Concluido,20,68,144
+412,1,2,27,4,2025-06-24 04:47:28,2025-06-24 05:34:28,2025-06-24 06:26:28,2025-06-24 07:38:28,Consulta Ambulatorial,Baixa,Asma,Fuga ex sint doloremque dolorum aut maiores.,Encaminhado Internacao,47,52,72
+413,39,3,44,14,2025-04-11 17:14:49,2025-04-11 18:03:49,2025-04-11 18:46:49,2025-04-11 20:00:49,Consulta Ambulatorial,Urgencia,Gripe,Eos quibusdam rem eligendi exercitationem.,Encaminhado Internacao,49,43,74
+414,72,2,44,11,2025-01-15 21:39:12,2025-01-15 22:08:12,2025-01-15 23:23:12,2025-01-16 00:52:12,Exame,Alta,Gripe,Perferendis officiis totam nostrum maxime.,Encaminhado Internacao,29,75,89
+415,48,1,46,3,2025-05-31 10:37:46,2025-05-31 11:21:46,2025-05-31 12:45:46,2025-05-31 13:13:46,Consulta Ambulatorial,Baixa,Fratura,Ut quo et numquam nemo veniam maiores.,Alta,44,84,28
+416,73,2,44,11,2025-06-15 04:19:05,2025-06-15 05:07:05,2025-06-15 06:19:05,2025-06-15 06:55:05,Exame,Media,Fratura,Quibusdam ducimus commodi deleniti aliquam.,Alta,48,72,36
+417,66,1,46,3,2025-03-20 03:14:50,2025-03-20 03:29:50,2025-03-20 05:21:50,2025-03-20 08:04:50,Procedimento,Alta,Gripe,Sequi tempore beatae aliquid fugit.,Alta,15,112,163
+418,58,1,7,13,2025-02-18 15:08:58,2025-02-18 16:01:58,2025-02-18 17:02:58,2025-02-18 19:31:58,Emergencia,Baixa,Resfriado Comum,Vel ducimus corrupti aspernatur.,Encaminhado Internacao,53,61,149
+419,23,3,7,14,2024-11-17 21:54:58,2024-11-17 22:10:58,2024-11-17 23:33:58,2024-11-18 01:09:58,Retorno,Media,Dor de Cabeça,Quas repellat saepe aperiam deleniti eum.,Alta,16,83,96
+420,81,3,34,5,2024-09-27 14:41:39,2024-09-27 15:06:39,2024-09-27 16:52:39,2024-09-27 18:37:39,Emergencia,Urgencia,Resfriado Comum,Praesentium placeat aut et id voluptatibus.,Alta,25,106,105
+421,94,2,46,9,2024-10-04 10:00:22,2024-10-04 10:39:22,2024-10-04 12:33:22,2024-10-04 14:04:22,Consulta Ambulatorial,Media,Resfriado Comum,Impedit quidem tempora provident dolorum et.,Encaminhado Internacao,39,114,91
+422,59,1,49,1,2024-09-06 04:47:02,2024-09-06 05:11:02,2024-09-06 05:41:02,2024-09-06 08:08:02,Retorno,Baixa,Diabetes,Aut similique praesentium accusamus ea natus.,Alta,24,30,147
+423,43,1,44,12,2024-11-17 11:19:25,2024-11-17 11:35:25,2024-11-17 12:43:25,2024-11-17 13:15:25,Retorno,Baixa,Asma,Voluptas amet sequi in libero.,Encaminhado Internacao,16,68,32
+424,81,2,10,10,2025-07-11 03:03:01,2025-07-11 03:11:01,2025-07-11 04:02:01,2025-07-11 05:58:01,Consulta Ambulatorial,Urgencia,Hipertensão,Saepe tenetur reprehenderit qui vel nemo incidunt.,Alta,8,51,116
+425,80,2,34,7,2024-10-06 22:58:50,2024-10-06 23:30:50,2024-10-07 00:29:50,2024-10-07 01:23:50,Procedimento,Media,Dor de Cabeça,Nisi occaecati eligendi enim fugit magni.,Alta,32,59,54
+426,6,1,44,15,2025-01-29 05:12:32,2025-01-29 05:22:32,2025-01-29 06:57:32,2025-01-29 08:03:32,Exame,Urgencia,Resfriado Comum,Explicabo sit fuga officia beatae dolore soluta beatae.,Alta,10,95,66
+427,21,3,46,11,2024-11-02 04:39:44,2024-11-02 05:13:44,2024-11-02 05:27:44,2024-11-02 06:45:44,Consulta Ambulatorial,Urgencia,Fratura,A delectus animi quam magni.,Alta,34,14,78
+428,73,2,10,1,2025-06-09 09:42:20,2025-06-09 10:33:20,2025-06-09 11:33:20,2025-06-09 11:56:20,Exame,Alta,Resfriado Comum,Nulla odit omnis dolor deleniti nisi magnam.,Concluido,51,60,23
+429,22,3,34,14,2025-07-17 11:15:25,2025-07-17 12:04:25,2025-07-17 12:50:25,2025-07-17 14:30:25,Emergencia,Baixa,Resfriado Comum,Perferendis vel dolores sed.,Encaminhado Internacao,49,46,100
+430,35,3,46,6,2024-11-18 18:15:11,2024-11-18 19:11:11,2024-11-18 20:02:11,2024-11-18 21:53:11,Exame,Alta,Gripe,Ut delectus nobis libero.,Alta,56,51,111
+431,70,1,34,7,2025-02-25 22:46:40,2025-02-25 23:38:40,2025-02-26 01:15:40,2025-02-26 02:42:40,Consulta Ambulatorial,Urgencia,Resfriado Comum,Cumque corrupti dicta dignissimos rem totam quas.,Encaminhado Internacao,52,97,87
+432,47,2,7,1,2024-12-14 11:38:40,2024-12-14 11:52:40,2024-12-14 13:27:40,2024-12-14 15:17:40,Procedimento,Baixa,Dor de Cabeça,Nihil voluptate optio consequuntur nostrum ut maxime.,Concluido,14,95,110
+433,40,3,44,3,2025-05-11 02:46:35,2025-05-11 03:02:35,2025-05-11 03:13:35,2025-05-11 05:46:35,Procedimento,Urgencia,Infecção Urinária,Sequi distinctio vero libero quis iure ea.,Alta,16,11,153
+434,32,1,7,3,2024-11-04 19:10:11,2024-11-04 20:01:11,2024-11-04 20:13:11,2024-11-04 22:10:11,Procedimento,Media,Hipertensão,Accusamus at incidunt.,Encaminhado Internacao,51,12,117
+435,77,1,44,8,2025-07-18 10:23:16,2025-07-18 11:05:16,2025-07-18 11:52:16,2025-07-18 13:14:16,Exame,Urgencia,Resfriado Comum,Debitis praesentium necessitatibus in eos.,Alta,42,47,82
+436,53,1,27,12,2024-12-17 12:17:19,2024-12-17 12:43:19,2024-12-17 13:14:19,2024-12-17 15:22:19,Retorno,Urgencia,Hipertensão,Labore asperiores hic eum rem ex perferendis.,Encaminhado Internacao,26,31,128
+437,99,2,34,4,2025-03-27 06:56:44,2025-03-27 07:05:44,2025-03-27 07:19:44,2025-03-27 09:30:44,Exame,Urgencia,Infecção Urinária,Quod aperiam quasi.,Alta,9,14,131
+438,24,3,49,2,2025-06-21 11:10:12,2025-06-21 11:20:12,2025-06-21 12:13:12,2025-06-21 12:49:12,Exame,Alta,Infecção Urinária,Placeat deserunt voluptatum molestiae sapiente placeat.,Alta,10,53,36
+439,21,2,49,14,2024-11-15 15:59:50,2024-11-15 16:09:50,2024-11-15 17:51:50,2024-11-15 18:20:50,Emergencia,Emergencia,Gripe,Ad alias amet numquam nobis.,Encaminhado Internacao,10,102,29
+440,56,3,49,12,2025-01-17 23:25:53,2025-01-17 23:42:53,2025-01-17 23:55:53,2025-01-18 02:15:53,Exame,Alta,Dor de Cabeça,Quas quod occaecati.,Encaminhado Internacao,17,13,140
+441,20,1,7,4,2025-05-01 12:51:46,2025-05-01 13:21:46,2025-05-01 14:19:46,2025-05-01 14:48:46,Retorno,Media,Dor de Cabeça,Magnam quas rerum debitis.,Concluido,30,58,29
+442,64,3,10,3,2024-12-07 14:03:19,2024-12-07 14:30:19,2024-12-07 15:54:19,2024-12-07 16:48:19,Consulta Ambulatorial,Emergencia,Hipertensão,Nesciunt dolore non dicta.,Concluido,27,84,54
+443,18,2,46,8,2025-06-25 06:10:44,2025-06-25 06:22:44,2025-06-25 07:20:44,2025-06-25 09:49:44,Retorno,Urgencia,Hipertensão,Deserunt magni eveniet veniam veniam.,Alta,12,58,149
+444,69,3,46,4,2025-05-14 06:14:03,2025-05-14 06:29:03,2025-05-14 07:17:03,2025-05-14 08:16:03,Exame,Baixa,Hipertensão,Fuga qui recusandae quas.,Alta,15,48,59
+445,71,2,46,7,2025-04-29 22:30:32,2025-04-29 22:56:32,2025-04-30 00:48:32,2025-04-30 03:24:32,Procedimento,Emergencia,Hipertensão,Culpa cum rem dolore expedita.,Alta,26,112,156
+446,47,1,34,15,2025-04-29 04:38:03,2025-04-29 05:34:03,2025-04-29 07:19:03,2025-04-29 08:11:03,Procedimento,Baixa,Resfriado Comum,Repellendus quam sunt accusantium quaerat.,Concluido,56,105,52
+447,12,3,7,12,2025-03-18 05:02:04,2025-03-18 05:17:04,2025-03-18 05:40:04,2025-03-18 08:12:04,Procedimento,Alta,Gripe,Deleniti perspiciatis aliquam consectetur repellat praesentium eveniet.,Concluido,15,23,152
+448,54,2,7,11,2025-01-28 00:16:41,2025-01-28 00:58:41,2025-01-28 01:29:41,2025-01-28 04:10:41,Retorno,Media,Infecção Urinária,Ullam dolor cupiditate nesciunt.,Alta,42,31,161
+449,74,2,34,5,2024-11-29 15:02:33,2024-11-29 15:38:33,2024-11-29 16:08:33,2024-11-29 17:15:33,Retorno,Emergencia,Gripe,Voluptatum magni nemo libero ipsa.,Alta,36,30,67
+450,67,3,27,8,2024-10-01 05:20:49,2024-10-01 05:40:49,2024-10-01 07:06:49,2024-10-01 07:47:49,Consulta Ambulatorial,Emergencia,Hipertensão,Accusamus numquam soluta unde voluptatum iste reiciendis ut.,Encaminhado Internacao,20,86,41
+451,53,3,10,2,2025-04-24 06:58:51,2025-04-24 07:10:51,2025-04-24 07:44:51,2025-04-24 09:06:51,Emergencia,Emergencia,Asma,Nobis minus velit ut esse.,Alta,12,34,82
+452,53,3,49,14,2024-08-31 15:53:03,2024-08-31 16:35:03,2024-08-31 18:02:03,2024-08-31 20:04:03,Procedimento,Urgencia,Asma,Facilis esse tempore fuga.,Concluido,42,87,122
+453,63,1,44,11,2024-11-21 12:53:07,2024-11-21 13:17:07,2024-11-21 13:49:07,2024-11-21 16:14:07,Procedimento,Media,Fratura,Placeat vero itaque velit.,Encaminhado Internacao,24,32,145
+454,26,3,10,13,2024-11-20 17:41:23,2024-11-20 17:54:23,2024-11-20 18:33:23,2024-11-20 20:13:23,Procedimento,Baixa,Hipertensão,Similique quibusdam ut cumque eos expedita consequatur.,Encaminhado Internacao,13,39,100
+455,72,1,7,13,2025-01-18 05:14:29,2025-01-18 06:09:29,2025-01-18 06:35:29,2025-01-18 08:05:29,Retorno,Media,Diabetes,Inventore quisquam distinctio aliquam illum delectus omnis corporis.,Concluido,55,26,90
+456,26,1,49,2,2025-01-25 05:30:50,2025-01-25 06:17:50,2025-01-25 07:56:50,2025-01-25 08:52:50,Procedimento,Media,Hipertensão,Architecto dolores sit perspiciatis facere molestias nemo praesentium.,Concluido,47,99,56
+457,83,3,7,13,2025-01-05 17:57:32,2025-01-05 18:08:32,2025-01-05 20:03:32,2025-01-05 20:28:32,Exame,Baixa,Gripe,Amet in deleniti asperiores deleniti praesentium perspiciatis.,Concluido,11,115,25
+458,72,3,7,9,2025-01-06 08:08:21,2025-01-06 08:46:21,2025-01-06 10:35:21,2025-01-06 12:23:21,Exame,Emergencia,Diabetes,Consequuntur odit esse similique accusantium quam harum.,Encaminhado Internacao,38,109,108
+459,8,1,27,8,2025-01-17 03:10:25,2025-01-17 03:46:25,2025-01-17 04:30:25,2025-01-17 05:50:25,Emergencia,Urgencia,Resfriado Comum,Minus eius sequi consequuntur deleniti.,Encaminhado Internacao,36,44,80
+460,7,1,46,13,2025-03-25 21:24:46,2025-03-25 22:01:46,2025-03-25 22:33:46,2025-03-25 23:22:46,Retorno,Baixa,Hipertensão,Ut atque earum cum omnis.,Encaminhado Internacao,37,32,49
+461,64,3,27,15,2025-02-05 18:15:42,2025-02-05 19:12:42,2025-02-05 19:57:42,2025-02-05 20:23:42,Emergencia,Emergencia,Diabetes,Dignissimos fugit modi eum.,Encaminhado Internacao,57,45,26
+462,6,1,27,12,2024-08-11 11:58:04,2024-08-11 12:30:04,2024-08-11 13:33:04,2024-08-11 15:58:04,Consulta Ambulatorial,Media,Infecção Urinária,Rem itaque illo earum dolore quam nam.,Concluido,32,63,145
+463,45,3,10,1,2024-08-31 12:02:42,2024-08-31 12:34:42,2024-08-31 14:02:42,2024-08-31 16:17:42,Procedimento,Alta,Fratura,Unde officiis sed possimus.,Encaminhado Internacao,32,88,135
+464,65,1,27,8,2024-10-25 10:20:41,2024-10-25 10:36:41,2024-10-25 12:05:41,2024-10-25 13:47:41,Consulta Ambulatorial,Emergencia,Gripe,Tempore facere temporibus officiis soluta culpa.,Concluido,16,89,102
+465,91,2,46,9,2025-02-18 19:19:59,2025-02-18 19:50:59,2025-02-18 20:52:59,2025-02-18 23:05:59,Retorno,Baixa,Fratura,Suscipit beatae sed consectetur expedita.,Alta,31,62,133
+466,91,1,44,7,2024-12-22 20:48:14,2024-12-22 21:48:14,2024-12-22 23:01:14,2024-12-23 00:19:14,Procedimento,Alta,Hipertensão,Sunt laborum ullam officia.,Encaminhado Internacao,60,73,78
+467,42,1,34,9,2024-12-26 09:34:55,2024-12-26 09:55:55,2024-12-26 11:47:55,2024-12-26 12:59:55,Exame,Urgencia,Asma,Sunt quia eveniet impedit iusto nulla dolor magni.,Alta,21,112,72
+468,95,3,49,4,2025-06-22 00:18:26,2025-06-22 01:18:26,2025-06-22 01:28:26,2025-06-22 03:55:26,Procedimento,Urgencia,Asma,Dolore mollitia est numquam.,Concluido,60,10,147
+469,82,1,49,9,2024-11-24 11:55:48,2024-11-24 12:34:48,2024-11-24 12:54:48,2024-11-24 13:31:48,Emergencia,Alta,Fratura,Voluptate nam rem numquam dolor.,Alta,39,20,37
+470,88,1,10,4,2025-03-02 23:32:31,2025-03-03 00:07:31,2025-03-03 01:01:31,2025-03-03 01:34:31,Consulta Ambulatorial,Urgencia,Resfriado Comum,Alias libero architecto reiciendis aliquam.,Alta,35,54,33
+471,19,1,46,14,2024-09-18 05:15:48,2024-09-18 05:40:48,2024-09-18 06:52:48,2024-09-18 09:20:48,Emergencia,Baixa,Resfriado Comum,Vero ea praesentium quae dolor.,Encaminhado Internacao,25,72,148
+472,37,1,27,7,2025-01-05 17:38:24,2025-01-05 17:57:24,2025-01-05 19:32:24,2025-01-05 21:48:24,Consulta Ambulatorial,Urgencia,Infecção Urinária,Assumenda maiores odit.,Concluido,19,95,136
+473,33,2,27,5,2025-04-21 13:38:28,2025-04-21 13:50:28,2025-04-21 15:00:28,2025-04-21 15:59:28,Emergencia,Baixa,Resfriado Comum,Natus placeat distinctio optio nostrum odit doloribus.,Concluido,12,70,59
+474,14,1,27,7,2025-02-04 09:11:03,2025-02-04 10:09:03,2025-02-04 10:30:03,2025-02-04 13:23:03,Procedimento,Alta,Dor de Cabeça,Aliquid corrupti fugiat provident ab blanditiis.,Concluido,58,21,173
+475,28,3,7,4,2024-10-12 23:57:11,2024-10-13 00:03:11,2024-10-13 01:51:11,2024-10-13 02:37:11,Emergencia,Media,Fratura,Temporibus necessitatibus debitis magni.,Concluido,6,108,46
+476,62,2,46,6,2024-12-24 13:16:01,2024-12-24 14:14:01,2024-12-24 14:37:01,2024-12-24 17:20:01,Consulta Ambulatorial,Alta,Diabetes,Voluptatem fugit quam.,Encaminhado Internacao,58,23,163
+477,90,1,44,2,2025-03-12 04:40:14,2025-03-12 04:50:14,2025-03-12 06:36:14,2025-03-12 09:30:14,Procedimento,Urgencia,Asma,Pariatur numquam consequatur veniam excepturi expedita corrupti maiores.,Concluido,10,106,174
+478,57,1,44,9,2025-05-05 14:13:33,2025-05-05 14:38:33,2025-05-05 16:18:33,2025-05-05 17:56:33,Retorno,Alta,Infecção Urinária,Ut necessitatibus numquam quia expedita quis tempore.,Concluido,25,100,98
+479,87,2,34,9,2024-10-22 02:15:58,2024-10-22 02:35:58,2024-10-22 04:05:58,2024-10-22 05:27:58,Procedimento,Baixa,Hipertensão,Eum modi consequuntur vitae.,Concluido,20,90,82
+480,15,2,27,12,2024-11-25 17:37:41,2024-11-25 18:22:41,2024-11-25 18:41:41,2024-11-25 20:10:41,Exame,Media,Dor de Cabeça,Laboriosam voluptatum eius laborum nihil illum.,Concluido,45,19,89
+481,48,3,49,10,2025-05-16 08:01:30,2025-05-16 08:59:30,2025-05-16 10:34:30,2025-05-16 13:02:30,Exame,Baixa,Resfriado Comum,Minus doloribus consequuntur ut explicabo perferendis.,Concluido,58,95,148
+482,83,2,44,9,2025-04-07 06:59:14,2025-04-07 07:57:14,2025-04-07 08:13:14,2025-04-07 08:28:14,Consulta Ambulatorial,Baixa,Diabetes,Vel corrupti maxime aut dignissimos officiis provident.,Encaminhado Internacao,58,16,15
+483,52,1,46,15,2024-09-15 20:15:27,2024-09-15 20:35:27,2024-09-15 22:17:27,2024-09-15 23:00:27,Retorno,Urgencia,Dor de Cabeça,Quaerat dolorem natus ut culpa.,Alta,20,102,43
+484,100,1,27,15,2025-02-26 16:46:56,2025-02-26 17:31:56,2025-02-26 19:28:56,2025-02-26 20:44:56,Emergencia,Alta,Dor de Cabeça,Natus fuga saepe ipsa praesentium.,Encaminhado Internacao,45,117,76
+485,89,2,44,14,2024-09-30 03:32:03,2024-09-30 04:20:03,2024-09-30 05:36:03,2024-09-30 08:19:03,Procedimento,Emergencia,Asma,Repellat eligendi nisi quibusdam pariatur dolores voluptate aut.,Alta,48,76,163
+486,97,3,7,6,2024-12-16 01:41:58,2024-12-16 01:56:58,2024-12-16 02:57:58,2024-12-16 04:45:58,Consulta Ambulatorial,Baixa,Diabetes,Odio necessitatibus perspiciatis quasi consequatur.,Encaminhado Internacao,15,61,108
+487,11,1,10,2,2025-05-04 17:04:20,2025-05-04 17:45:20,2025-05-04 18:42:20,2025-05-04 20:26:20,Retorno,Urgencia,Fratura,Dolorem quibusdam suscipit.,Alta,41,57,104
+488,25,1,27,4,2025-04-17 05:54:33,2025-04-17 06:00:33,2025-04-17 06:15:33,2025-04-17 07:55:33,Exame,Urgencia,Fratura,Sapiente veritatis repellat.,Alta,6,15,100
+489,30,1,44,4,2024-11-29 20:41:25,2024-11-29 21:23:25,2024-11-29 21:41:25,2024-11-29 23:55:25,Procedimento,Media,Dor de Cabeça,Similique non eveniet tempora necessitatibus quasi.,Encaminhado Internacao,42,18,134
+490,76,2,49,15,2024-08-12 21:11:53,2024-08-12 21:28:53,2024-08-12 22:53:53,2024-08-13 00:10:53,Emergencia,Baixa,Resfriado Comum,Ad doloremque quis aspernatur numquam ipsum ipsam soluta.,Encaminhado Internacao,17,85,77
+491,72,2,27,13,2025-07-02 03:11:43,2025-07-02 03:20:43,2025-07-02 04:07:43,2025-07-02 06:33:43,Consulta Ambulatorial,Urgencia,Infecção Urinária,Atque ipsum nihil architecto inventore omnis error.,Alta,9,47,146
+492,80,1,7,13,2024-10-09 22:30:31,2024-10-09 23:30:31,2024-10-10 00:55:31,2024-10-10 03:30:31,Exame,Media,Resfriado Comum,Excepturi nemo quae.,Alta,60,85,155
+493,82,1,34,12,2025-07-09 04:58:30,2025-07-09 05:35:30,2025-07-09 07:28:30,2025-07-09 09:26:30,Consulta Ambulatorial,Media,Dor de Cabeça,Voluptatum et unde rerum molestiae.,Alta,37,113,118
+494,22,1,44,12,2025-06-07 23:44:38,2025-06-07 23:57:38,2025-06-08 00:21:38,2025-06-08 02:54:38,Procedimento,Media,Asma,Voluptatibus delectus in iste quia.,Encaminhado Internacao,13,24,153
+495,72,1,27,14,2024-11-27 18:46:50,2024-11-27 19:32:50,2024-11-27 21:32:50,2024-11-28 00:19:50,Procedimento,Media,Resfriado Comum,Ducimus a aliquid recusandae qui velit repellat.,Concluido,46,120,167
+496,94,3,44,11,2024-08-17 10:20:10,2024-08-17 10:43:10,2024-08-17 11:12:10,2024-08-17 13:37:10,Emergencia,Urgencia,Hipertensão,Nisi debitis deserunt magni ad.,Alta,23,29,145
+497,29,2,46,10,2024-09-22 22:45:33,2024-09-22 22:52:33,2024-09-22 23:17:33,2024-09-23 01:34:33,Exame,Media,Fratura,Quidem vel asperiores sed.,Alta,7,25,137
+498,35,1,49,13,2025-06-28 21:32:46,2025-06-28 22:16:46,2025-06-28 22:39:46,2025-06-29 00:15:46,Exame,Emergencia,Diabetes,Molestiae itaque at.,Alta,44,23,96
+499,45,3,46,5,2025-03-07 04:52:51,2025-03-07 05:45:51,2025-03-07 06:29:51,2025-03-07 07:40:51,Retorno,Media,Infecção Urinária,Dignissimos eum odio vitae.,Concluido,53,44,71
+500,64,2,34,2,2025-01-06 17:57:47,2025-01-06 18:45:47,2025-01-06 19:11:47,2025-01-06 19:48:47,Exame,Alta,Dor de Cabeça,Corrupti at laborum cumque officia magni.,Encaminhado Internacao,48,26,37

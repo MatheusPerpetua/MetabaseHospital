@@ -1,0 +1,16 @@
+﻿setor_id,hospital_id,nome_setor,tipo_setor,capacidade_leitos_setor,andar
+1,2,Centro Cirurgico 3,Centro Cirurgico,,9
+2,2,Laboratorio 4,Laboratorio,,6
+3,2,UTI 2,UTI,85.0,3
+4,2,Emergencia 5,Emergencia,22.0,1
+5,3,Radiologia 2,Radiologia,,1
+6,2,Farmacia 2,Farmacia,,6
+7,1,Farmacia 2,Farmacia,,10
+8,3,Internacao 1,Internacao,43.0,4
+9,2,Farmacia 3,Farmacia,,1
+10,1,Emergencia 2,Emergencia,34.0,9
+11,1,UTI 4,UTI,43.0,7
+12,2,Internacao 2,Internacao,15.0,9
+13,2,Farmacia 5,Farmacia,,8
+14,3,Laboratorio 4,Laboratorio,,9
+15,1,Farmacia 5,Farmacia,,9

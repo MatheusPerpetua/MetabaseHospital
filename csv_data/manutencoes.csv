@@ -1,0 +1,31 @@
+﻿manutencao_id,equipamento_id,data_hora_inicio,data_hora_fim,tipo_manutencao,descricao_problema,acoes_realizadas,funcionario_id_responsavel,custo_manutencao
+1,27,2025-05-16 00:47:47,2025-05-16 20:47:47,Corretiva,Possimus tempore corrupti quisquam quos esse commodi ipsa veniam quibusdam.,Dignissimos expedita aliquam debitis ratione. Dolor natus soluta molestias.,36,1085.05
+2,12,2024-09-08 21:55:30,2024-09-09 00:55:30,Preventiva,Ipsam aperiam ab ab odit labore alias.,Excepturi doloremque nostrum vel facere beatae. Voluptatibus quisquam libero nam.,39,477.23
+3,38,2024-11-10 00:43:33,2024-11-10 11:43:33,Corretiva,Sequi hic aut deserunt nam fugit sequi officia optio quia deleniti incidunt tenetur.,Rerum magni incidunt quo harum. Minus culpa nihil ratione natus.,48,1757.33
+4,10,2025-04-11 14:02:12,2025-04-12 06:02:12,Preventiva,Sint quisquam cum perferendis vero labore.,Illum assumenda a temporibus.,15,808.28
+5,44,2025-03-19 20:57:26,2025-03-20 06:57:26,Corretiva,Molestias amet consequatur rem dolorum dolor modi quam libero architecto.,Magnam quisquam est ipsum libero delectus.,25,897.8
+6,20,2025-07-14 10:57:44,2025-07-15 08:57:44,Preventiva,Iusto error adipisci voluptatibus debitis animi.,Cupiditate quaerat hic quibusdam praesentium quasi ullam. Assumenda nihil corrupti repellendus.,43,1685.01
+7,7,2025-04-30 13:33:06,2025-05-01 12:33:06,Calibracao,Quae atque accusantium nesciunt fuga saepe.,Consectetur vitae cum dignissimos error.,15,1834.76
+8,36,2024-08-10 21:18:28,2024-08-10 22:18:28,Calibracao,Dolorum voluptates placeat quod sed laborum nesciunt.,Aperiam veniam suscipit non similique provident nisi. Deleniti consequatur libero facilis perspiciatis molestiae.,33,866.28
+9,42,2025-02-10 06:42:50,2025-02-11 03:42:50,Calibracao,Deleniti corrupti cupiditate laudantium ipsam optio aperiam totam fugit aperiam expedita.,Occaecati blanditiis sit sit dicta mollitia eveniet.,3,1544.97
+10,2,2024-12-16 05:52:54,2024-12-16 07:52:54,Corretiva,Voluptatem deserunt facere minima amet dolore saepe commodi laboriosam aut nesciunt.,Exercitationem asperiores harum possimus numquam. Omnis tenetur quibusdam ipsum.,44,1992.25
+11,44,2024-11-28 11:55:55,2024-11-28 21:55:55,Preventiva,Nostrum quis earum excepturi aut ipsa iste.,Libero minus perspiciatis sint. Perferendis tempore ad similique libero ea minus debitis.,27,1812.88
+12,40,2025-01-18 19:11:39,2025-01-19 11:11:39,Preventiva,Error unde laborum perspiciatis autem accusantium ut natus tempora voluptatum.,Repudiandae ullam aliquam rem repudiandae voluptas. Rerum quaerat assumenda accusamus vero.,37,1864.48
+13,15,2024-09-27 23:57:03,2024-09-28 19:57:03,Preventiva,Quia nisi omnis laboriosam impedit atque perspiciatis suscipit vel.,Consectetur praesentium enim eligendi accusantium eligendi soluta. Dignissimos vero sint.,14,925.68
+14,16,2025-05-21 21:44:22,2025-05-22 00:44:22,Preventiva,Inventore deleniti minima fugiat sunt a odit doloribus nemo officia officia distinctio.,Ratione necessitatibus dolore aperiam voluptatibus.,8,1739.5
+15,1,2024-09-19 22:37:45,2024-09-20 14:37:45,Calibracao,Cupiditate inventore commodi ratione officiis cum ea.,Voluptatum repellendus quod eum explicabo dolore asperiores.,4,1578.34
+16,45,2024-08-06 15:51:56,2024-08-06 18:51:56,Calibracao,Fugit earum odit aliquam ullam labore eius voluptates.,Velit recusandae veniam vitae.,47,1713.06
+17,3,2025-05-15 19:10:39,2025-05-15 22:10:39,Calibracao,Unde nemo architecto optio voluptatibus quidem quibusdam.,Ea corrupti vero atque neque dolores placeat. Dolor accusantium temporibus eligendi laborum in.,41,1120.58
+18,45,2025-06-14 23:24:06,2025-06-15 04:24:06,Calibracao,Aspernatur aliquid dolore harum quas iusto tempora a aspernatur unde ea.,Est ipsam inventore illum a.,43,1458.32
+19,24,2024-10-29 05:29:20,2024-10-29 11:29:20,Preventiva,Quasi temporibus corrupti quos excepturi eum quo voluptate.,Totam molestiae mollitia officiis.,45,336.95
+20,44,2024-12-23 22:14:25,2024-12-24 03:14:25,Calibracao,Beatae soluta reiciendis exercitationem libero id amet iure in asperiores.,Voluptatum porro consequuntur delectus.,39,1290.26
+21,2,2025-07-23 10:59:32,2025-07-24 09:59:32,Corretiva,Explicabo ratione voluptatum numquam minus sunt.,Animi harum amet fugit.,30,1389.13
+22,26,2025-05-25 13:37:22,2025-05-26 05:37:22,Preventiva,Nihil amet rerum soluta consequatur ratione aliquid non debitis cumque ducimus ratione fuga.,Quo unde neque possimus quasi.,28,1740.35
+23,39,2024-09-03 05:59:41,2024-09-03 17:59:41,Corretiva,Iusto ex architecto eligendi expedita maiores quae quo numquam consequuntur vel expedita itaque.,Totam consequuntur eum quos consequatur maiores perferendis ipsum.,49,1244.29
+24,42,2024-11-30 11:15:06,2024-12-01 07:15:06,Corretiva,Incidunt quibusdam odio facilis temporibus iure temporibus.,Ipsum esse delectus officia aspernatur aliquid.,39,1356.92
+25,38,2025-04-02 02:24:17,2025-04-02 07:24:17,Preventiva,Beatae beatae dolorum cumque optio facilis tempore assumenda eos velit odio.,Ut repudiandae dolore.,14,914.06
+26,1,2025-05-29 13:15:30,2025-05-30 13:15:30,Preventiva,Modi voluptatem voluptatem impedit exercitationem magni facere saepe accusamus nihil voluptates commodi labore.,Commodi optio iure quibusdam. Porro porro explicabo maiores veniam.,47,619.67
+27,13,2025-04-04 09:37:12,2025-04-05 01:37:12,Calibracao,Expedita iure deleniti voluptatem quod qui velit necessitatibus doloribus.,Sint repudiandae aspernatur maxime sit ad quibusdam.,41,455.57
+28,44,2024-09-15 06:01:01,2024-09-15 09:01:01,Corretiva,Atque eaque natus deserunt ea molestiae quasi corporis eveniet corrupti nihil.,Voluptate sapiente fugit ullam ipsa nulla.,22,1384.43
+29,13,2024-11-23 08:47:28,2024-11-23 14:47:28,Calibracao,Esse incidunt incidunt nulla distinctio illum sunt perferendis omnis.,Magnam minima sequi rem.,3,921.19
+30,39,2025-01-28 22:20:23,2025-01-29 22:20:23,Calibracao,Sunt quia numquam corporis commodi ad modi amet occaecati nemo cupiditate vero cupiditate.,Aliquam impedit tempora vitae. Explicabo inventore enim iste qui.,40,1706.04

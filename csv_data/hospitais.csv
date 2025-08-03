@@ -1,0 +1,4 @@
+﻿hospital_id,nome_hospital,endereco,cidade,estado,cep,telefone,capacidade_leitos,area_emergencia_capacidade,estoque_farmacia_capacidade,tipo_hospital,data_fundacao
+1,Hospital Cavalcanti Geral,"Travessa Emanuella Porto, 794",Melo das Pedras,SE,50163-799,(021) 9941 7982,197,47,2648,Pronto Socorro,2006-08-12
+2,Hospital Azevedo Metropolitano,"Parque Castro, 74",Aparecida da Prata,MT,81447566,(051) 1824 6446,136,7,5476,Geral,1993-09-24
+3,Hospital Pinto Geral,"Trevo Aparecida, 13",Oliveira Paulista,RR,16623-322,+55 11 0578-1474,495,49,3688,Pronto Socorro,1997-01-30

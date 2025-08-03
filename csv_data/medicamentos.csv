@@ -1,0 +1,51 @@
+﻿medicamento_id,nome_comercial,principio_ativo,concentracao,forma_farmaceutica,unidade_medida,estoque_minimo_sugerido,data_registro,fabricante
+1,Dipirona Pariatur,Dipirona,868ml,Injetável,ml,357,2020-05-21,Fogaça
+2,Omeprazol Vero,Paracetamol,844mg,Injetável,g,451,2024-02-01,Cavalcanti S.A.
+3,Dipirona Voluptatibus,Sinvastatina,169ml,Comprimido,mg,169,2017-11-18,Novais
+4,Dipirona Sint,Amoxicilina,538mg,Xarope,g,440,2015-09-05,Montenegro
+5,Paracetamol Reiciendis,Ibuprofeno,217mg,Xarope,UI,350,2019-12-18,Machado
+6,Losartana Doloribus,Omeprazol,256mg,Xarope,UI,411,2023-12-28,Viana
+7,Dipirona Delectus,Losartana,122ml,Cápsula,ml,66,2021-04-17,Silva
+8,Ibuprofeno Nihil,Dipirona,293ml,Injetável,mg,70,2022-08-19,Viana
+9,Omeprazol Possimus,Amoxicilina,928ml,Pomada,g,270,2024-02-22,Guerra Duarte S/A
+10,Sinvastatina Quia,Losartana,972mg,Xarope,g,103,2020-03-01,Cunha Pereira - EI
+11,Omeprazol Aliquid,Ibuprofeno,563ml,Injetável,g,490,2022-06-10,Vasconcelos
+12,Losartana Tempore,Omeprazol,572mg,Cápsula,UI,431,2020-10-16,Macedo Campos - ME
+13,Amoxicilina Dolorem,Sinvastatina,407ml,Cápsula,UI,358,2021-01-25,Sá
+14,Dipirona Facilis,Dipirona,233mg,Xarope,g,248,2023-06-20,Pastor Costela - ME
+15,Ibuprofeno Natus,Omeprazol,750ml,Injetável,g,268,2015-09-26,Viana
+16,Amoxicilina Ratione,Dipirona,751ml,Pomada,mg,78,2021-09-13,Oliveira
+17,Dipirona Voluptas,Losartana,670ml,Xarope,g,267,2022-07-07,da Paz
+18,Dipirona Ullam,Losartana,899ml,Cápsula,mg,331,2021-04-03,da Rosa
+19,Amoxicilina Impedit,Ibuprofeno,851ml,Cápsula,UI,460,2023-05-14,Cunha
+20,Paracetamol Tenetur,Losartana,920ml,Cápsula,mg,97,2022-09-01,Dias e Filhos
+21,Losartana Laborum,Dipirona,336mg,Pomada,mg,76,2023-10-10,Casa Grande - EI
+22,Losartana Rem,Omeprazol,308ml,Comprimido,g,488,2021-01-22,Carvalho Sá - ME
+23,Dipirona Amet,Losartana,687mg,Pomada,mg,17,2022-07-04,Correia
+24,Paracetamol Necessitatibus,Amoxicilina,389mg,Xarope,UI,407,2018-11-13,Ramos
+25,Losartana Id,Losartana,316mg,Pomada,ml,463,2021-08-11,Pereira
+26,Dipirona Laboriosam,Amoxicilina,902ml,Comprimido,mg,331,2021-03-23,Brito
+27,Omeprazol Quis,Ibuprofeno,430mg,Pomada,g,286,2023-02-12,Montenegro
+28,Ibuprofeno Id,Omeprazol,642ml,Pomada,ml,215,2017-07-08,Fernandes Ltda.
+29,Dipirona Impedit,Amoxicilina,963ml,Cápsula,ml,393,2019-05-16,Santos Castro Ltda.
+30,Ibuprofeno Adipisci,Paracetamol,822mg,Cápsula,mg,367,2018-07-22,Cardoso Sá Ltda.
+31,Dipirona Hic,Paracetamol,432ml,Comprimido,mg,201,2020-07-29,Pinto Ltda.
+32,Paracetamol Commodi,Amoxicilina,636mg,Xarope,g,464,2023-04-15,Moraes
+33,Losartana Magni,Losartana,55mg,Cápsula,g,117,2018-06-17,Dias Ltda.
+34,Dipirona Magnam,Ibuprofeno,303ml,Xarope,UI,134,2020-08-06,Almeida e Filhos
+35,Amoxicilina Aspernatur,Losartana,623mg,Xarope,UI,253,2017-04-25,Cardoso
+36,Paracetamol Error,Ibuprofeno,363ml,Comprimido,UI,323,2020-03-28,Machado Barbosa Ltda.
+37,Sinvastatina Necessitatibus,Omeprazol,972ml,Xarope,g,425,2018-05-15,Vasconcelos
+38,Amoxicilina Quia,Ibuprofeno,346mg,Injetável,g,230,2024-02-04,Azevedo
+39,Losartana Corrupti,Dipirona,888mg,Pomada,ml,343,2022-11-16,Nogueira Vasconcelos Ltda.
+40,Amoxicilina Necessitatibus,Losartana,103ml,Comprimido,ml,276,2019-12-26,Sales
+41,Omeprazol A,Amoxicilina,540mg,Comprimido,mg,437,2024-06-29,Correia
+42,Ibuprofeno Sunt,Losartana,747ml,Comprimido,ml,93,2017-11-02,Borges
+43,Sinvastatina Nesciunt,Losartana,978mg,Pomada,mg,500,2022-07-28,Ferreira
+44,Dipirona Nulla,Sinvastatina,435mg,Xarope,g,232,2023-07-22,Ferreira
+45,Sinvastatina Incidunt,Amoxicilina,286ml,Injetável,mg,37,2016-08-06,Pinto Ferreira S.A.
+46,Dipirona Non,Losartana,846ml,Xarope,ml,451,2020-03-17,Pereira S.A.
+47,Omeprazol Qui,Dipirona,832mg,Comprimido,UI,263,2018-04-10,Caldeira
+48,Dipirona Expedita,Sinvastatina,650ml,Injetável,g,381,2021-03-02,Costa S/A
+49,Sinvastatina Dolores,Paracetamol,137mg,Pomada,mg,480,2019-05-22,Rios Ltda.
+50,Ibuprofeno Dolorem,Sinvastatina,375mg,Cápsula,ml,278,2018-10-31,da Luz
