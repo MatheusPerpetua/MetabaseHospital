@@ -1,6 +1,6 @@
 # Metabase Hospital
 
-O **MetabaseHospital** é um projeto que demonstra uma solução de pipeline de dados e dashboard analítico para o setor de saúde. O objetivo é gerar dados fictícios, armazená-los em um banco MySQL e criar KPIs que façam sentido no quesito de hospitais usando Metabase.'
+O **MetabaseHospital** é um projeto que demonstra uma solução de pipeline de dados e dashboard analítico para o setor de saúde. O objetivo é gerar dados fictícios, armazená-los em um banco MySQL e criar KPIs que façam sentido no quesito de hospitais usando Metabase.
 
 ##  Funcionalidades
 
