@@ -40,4 +40,4 @@ O **MetabaseHospital** é um projeto que demonstra uma solução de pipeline de 
 
 ---
 
-> Feito por Matheus — Analista e Engenheiro de Dados (Python, SQL, Power BI)
+> Feito por Matheus — Analista e Engenheiro de Dados.
