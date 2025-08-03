@@ -6,7 +6,7 @@ O **MetabaseHospital** é um projeto que demonstra uma solução de pipeline de 
 
 * **Geração de dados fictícios** em Python, simulando tabelas como hospitais, pacientes, funcionários, atendimentos, internações, prescrições, entre outras.
 * Carga dos arquivos CSV gerados para um banco MySQL, respeitando relacionamentos e chaves estrangeiras.
-* **Dashboard interativo** no Metabase (rodando em container Docker) explorando KPIs hospitalares e indicadores de operação.
+* **Dashboard interativo** no Metabase explorando KPIs hospitalares e indicadores de operação.
 * **Embed público** do dashboard para exibição.
 
 ##  Objetivos do Projeto
