@@ -22,13 +22,12 @@ O **MetabaseHospital** é um projeto que demonstra uma solução de pipeline de 
 
    ```bash
    git clone https://github.com/seu-usuario/MetabaseHospital.git
-   cd MetabaseHospital
    ```
 2. Configure as variáveis de ambiente no arquivo `.env` com as seguintes chaves para conexão ao MySQL: `HOST`, `DATABASE`, `USER_DB`, `PASSWORD_DB`, `PORT`.
 3. Instale dependências e gere os dados fictícios:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements/requirements.txt
    python Geradorbase.py
    ```
 4. Carregue os CSVs no banco:
@@ -36,7 +35,7 @@ O **MetabaseHospital** é um projeto que demonstra uma solução de pipeline de 
    ```bash
    python inserirbanco.py
    ```
-5. Acesse o Metabase em (link do embed do metabasee), crie seu dashboard e utilize o recurso de embed para compartilhar.
+5. Acesse o Metabase no seu servidor + porta, crie seu dashboard e utilize o recurso de embed para compartilhar ou compartilhe o link diretamente.
 
 ---
 
