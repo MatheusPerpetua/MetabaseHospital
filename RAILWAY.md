@@ -144,3 +144,29 @@ O `railway.toml` deste projeto força:
 builder = "DOCKERFILE"
 dockerfilePath = "/Dockerfile"
 ```
+
+## Erro: Java heap space / OutOfMemory
+
+Se os logs mostrarem:
+
+```text
+Maximum memory available to JVM: 232.0 MB
+java.lang.OutOfMemoryError: Java heap space
+```
+
+o servico do Metabase esta com pouca memoria. O Metabase precisa de pelo menos 1 GB de RAM para iniciar com estabilidade em producao.
+
+Como corrigir:
+
+1. No Railway, abra o servico `MetabaseHospital`.
+2. Aumente o limite de memoria/plano do servico para pelo menos 1 GB.
+3. Confira as variaveis `MB_DB_*` em **Variables** para garantir que o Metabase esta usando o `MetabaseDB`, e nao o H2 interno.
+4. Rode **Redeploy**.
+
+Se aparecer tambem:
+
+```text
+Using Metabase with an H2 application database is not recommended for production deployments
+```
+
+as variaveis do banco interno do Metabase ainda nao foram configuradas ou nao foram aplicadas ao deploy atual.
