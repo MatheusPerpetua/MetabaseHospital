@@ -8,6 +8,7 @@ O **MetabaseHospital** é um projeto que demonstra uma solução de pipeline de 
 * Carga dos arquivos CSV gerados para um banco MySQL, respeitando relacionamentos e chaves estrangeiras.
 * **Dashboard interativo** no Metabase explorando KPIs hospitalares e indicadores de operação.
 * **Embed público** do dashboard para exibição.
+* **Deploy no Railway** com MySQL + Metabase.
 
 ##  Objetivos do Projeto
 
@@ -23,19 +24,27 @@ O **MetabaseHospital** é um projeto que demonstra uma solução de pipeline de 
    ```bash
    git clone https://github.com/seu-usuario/MetabaseHospital.git
    ```
-2. Configure as variáveis de ambiente no arquivo `.env` com as seguintes chaves para conexão ao MySQL: `HOST`, `DATABASE`, `USER_DB`, `PASSWORD_DB`, `PORT`.
+2. Copie o arquivo `.env.example` para `.env` e preencha as variáveis de conexão ao MySQL: `HOST`, `DATABASE`, `USER_DB`, `PASSWORD_DB`, `PORT`.
 3. Instale dependências e gere os dados fictícios:
 
    ```bash
    pip install -r requirements/requirements.txt
-   python Geradorbase.py
+   python src/Geradorbase.py
    ```
 4. Carregue os CSVs no banco:
 
    ```bash
-   python inserirbanco.py
+   python src/inserirbanco.py
    ```
 5. Acesse o Metabase no seu servidor + porta, crie seu dashboard e utilize o recurso de embed para compartilhar ou compartilhe o link diretamente.
+
+## Deploy no Railway
+
+Para hospedar o banco MySQL e o Metabase no Railway, siga o guia:
+
+```text
+RAILWAY.md
+```
 
 ---
 

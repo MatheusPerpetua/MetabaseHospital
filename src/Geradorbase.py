@@ -1,10 +1,12 @@
-# pip install Faker pandas
+# Instale as dependencias com: python -m pip install -r requirements/requirements.txt
 
 from faker import Faker
 import random
 from datetime import datetime, timedelta
 import pandas as pd
 import os
+
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 # Inicializa o Faker para português do Brasil
 fake = Faker('pt_BR')
@@ -361,8 +363,8 @@ NUM_NIR_SAC_REGISTROS = 75
 NUM_EQUIPAMENTOS_MEDICOS = 50
 NUM_MANUTENCOES = 30
 
-# Cria a pasta 'csv_data' se não existir
-output_dir = 'csv_data'
+# Cria a pasta 'csv_data' na raiz do projeto se não existir
+output_dir = os.path.join(BASE_DIR, 'csv_data')
 os.makedirs(output_dir, exist_ok=True)
 
 print("Gerando dados para Hospitais...")

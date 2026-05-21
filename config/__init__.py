@@ -1,1 +1,1 @@
-from .config import cursor,ENGINEH,cnx
+from .config import ENGINEH

@@ -6,7 +6,8 @@ import sys
 import os
 
 # Adiciona o diretório raiz ao sys.path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..' )))
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(BASE_DIR)
 
 import pandas as pd
 from config import ENGINEH
@@ -29,8 +30,8 @@ if __name__ == "__main__":
     def insert_data_to_db(table_name, df, engine):
         print(f"Inserindo dados para a tabela: {table_name}")
         try:
-            # Use 'append' para adicionar registros à tabela existente.
-            # O 'index=False' evita que o índice do DataFrame seja salvo como uma coluna.
+            # Use 'replace' para recriar as tabelas com os dados dos CSVs.
+            # O 'index=False' evita que o indice do DataFrame seja salvo como uma coluna.
             df.to_sql(table_name, con=engine, if_exists='replace', index=False)
             print(f"Concluída a inserção para {table_name}.")
         except Exception as e:
@@ -41,7 +42,7 @@ if __name__ == "__main__":
 
     # O loop para carregar os dados no banco
     for table_name in table_load_order:
-        csv_path = os.path.join('csv_data', f'{table_name}.csv')
+        csv_path = os.path.join(BASE_DIR, 'csv_data', f'{table_name}.csv')
         if os.path.exists(csv_path):
             try:
                 # O 'low_memory=False' ajuda a evitar problemas de tipo de dados em arquivos grandes
