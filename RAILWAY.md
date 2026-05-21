@@ -119,3 +119,28 @@ Referencia do TCP Proxy: https://docs.railway.com/networking/tcp-proxy
 - `.env` local apontando para o `HospitalDB` via TCP Proxy.
 - `python src/inserirbanco.py` executado com sucesso.
 - Banco `HospitalDB` adicionado como fonte de dados dentro do Metabase.
+
+## Erro: Railway tentou usar Python/Railpack
+
+Se aparecer uma mensagem parecida com:
+
+```text
+Move requirements.txt to the repo root so Railpack can detect this as a Python project
+```
+
+o Railway tentou adivinhar o projeto como Python. Para este servico, isso esta errado: o deploy web deve usar o Metabase via `Dockerfile`.
+
+Confira estes pontos:
+
+1. O arquivo `Dockerfile` precisa estar na raiz do repositorio.
+2. O arquivo `railway.toml` precisa estar na raiz do repositorio.
+3. No Railway, em **Settings > Source**, o **Root Directory** deve estar vazio ou `/`.
+4. Depois de commitar e dar push, rode **Redeploy**.
+
+O `railway.toml` deste projeto força:
+
+```toml
+[build]
+builder = "DOCKERFILE"
+dockerfilePath = "/Dockerfile"
+```
