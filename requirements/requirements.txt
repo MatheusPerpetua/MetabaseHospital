@@ -3,6 +3,3 @@ pandas
 Faker
 pymysql
 sqlalchemy
-requests
-cryptography
-peewee

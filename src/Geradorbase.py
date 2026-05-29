@@ -350,8 +350,8 @@ def generate_manutencoes(num_records, equipamento_ids, funcionario_ids):
 NUM_HOSPITAIS = 3
 NUM_PACIENTES = 100
 NUM_FUNCIONARIOS = 50
-NUM_SETORES = 15 # Por hospital, então total será NUM_HOSPITAIS * NUM_SETORES_POR_HOSPITAL
-NUM_LEITOS = 100 # Por setor, então total será NUM_SETORES * NUM_LEITOS_POR_SETOR
+NUM_SETORES = 15 # Total de setores gerados
+NUM_LEITOS = 100 # Total de leitos gerados
 NUM_MEDICAMENTOS = 50
 NUM_ESTOQUE_FARMACIA = 100
 NUM_ATENDIMENTOS = 500
@@ -386,6 +386,12 @@ medico_ids = df_funcionarios[df_funcionarios['cargo'] == 'Medico']['funcionario_
 farmaceutico_ids = df_funcionarios[df_funcionarios['cargo'] == 'Farmaceutico']['funcionario_id'].tolist()
 # Incluir outros funcionários para o registrador de NIR/SAC
 all_funcionario_ids = df_funcionarios['funcionario_id'].tolist()
+if not medico_ids:
+    medico_ids = all_funcionario_ids
+    print("Aviso: nenhum médico foi gerado. Usando todos os funcionários como médicos.")
+if not farmaceutico_ids:
+    farmaceutico_ids = all_funcionario_ids
+    print("Aviso: nenhum farmacêutico foi gerado. Usando todos os funcionários como farmacêuticos.")
 print(f"Gerados {len(df_funcionarios)} registros para funcionarios.csv")
 
 print("Gerando dados para Setores...")

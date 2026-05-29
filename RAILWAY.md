@@ -59,6 +59,12 @@ Depois, gere um dominio publico no servico Metabase em **Settings > Networking**
 
 Referencia das variaveis do Metabase: https://www.metabase.com/docs/latest/configuring-metabase/environment-variables
 
+Depois que o Metabase estiver no ar e conectado ao `HospitalDB`, siga o guia de embed para publicar o dashboard no seu site:
+
+```text
+docs/GUIA_EMBED_SITE.md
+```
+
 ## 3. Carregar os CSVs no HospitalDB
 
 No seu computador, instale as dependencias:

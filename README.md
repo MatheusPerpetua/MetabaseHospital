@@ -46,6 +46,16 @@ Para hospedar o banco MySQL e o Metabase no Railway, siga o guia:
 RAILWAY.md
 ```
 
+## Documentacao tecnica
+
+Analise completa da aplicacao, riscos de hospedagem do Metabase na Vercel e plano de estabilizacao:
+
+```text
+docs/ANALISE_COMPLETA_VERCEL.md
+docs/RUNBOOK_ESTABILIZACAO_METABASE_VERCEL.md
+docs/GUIA_EMBED_SITE.md
+```
+
 ---
 
 > Feito por Matheus — Analista e Engenheiro de Dados.
