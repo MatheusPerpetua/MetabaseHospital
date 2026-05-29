@@ -48,9 +48,7 @@ MB_LOAD_SAMPLE_CONTENT=false
 JAVA_OPTS=-Xmx768m
 
 MB_DB_TYPE=mysql
-MB_DB_HOST=${{MetabaseDB.MYSQLHOST}}
-MB_DB_PORT=${{MetabaseDB.MYSQLPORT}}
-MB_DB_DBNAME=${{MetabaseDB.MYSQLDATABASE}}
+MB_DB_CONNECTION_URI=jdbc:mysql://${{MetabaseDB.MYSQLHOST}}:${{MetabaseDB.MYSQLPORT}}/${{MetabaseDB.MYSQLDATABASE}}?allowPublicKeyRetrieval=true
 MB_DB_USER=${{MetabaseDB.MYSQLUSER}}
 MB_DB_PASS=${{MetabaseDB.MYSQLPASSWORD}}
 ```
@@ -63,6 +61,24 @@ Depois que o Metabase estiver no ar e conectado ao `HospitalDB`, siga o guia de 
 
 ```text
 docs/GUIA_EMBED_SITE.md
+```
+
+### Erro comum: RSA public key is not available
+
+Se o deploy cair com:
+
+```text
+Unable to connect to Metabase mysql DB
+RSA public key is not available client side
+```
+
+troque as variaveis separadas `MB_DB_HOST`, `MB_DB_PORT` e `MB_DB_DBNAME` por `MB_DB_CONNECTION_URI` com `allowPublicKeyRetrieval=true`, mantendo `MB_DB_USER` e `MB_DB_PASS` separados:
+
+```env
+MB_DB_TYPE=mysql
+MB_DB_CONNECTION_URI=jdbc:mysql://${{MetabaseDB.MYSQLHOST}}:${{MetabaseDB.MYSQLPORT}}/${{MetabaseDB.MYSQLDATABASE}}?allowPublicKeyRetrieval=true
+MB_DB_USER=${{MetabaseDB.MYSQLUSER}}
+MB_DB_PASS=${{MetabaseDB.MYSQLPASSWORD}}
 ```
 
 ## 3. Carregar os CSVs no HospitalDB

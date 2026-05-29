@@ -88,6 +88,29 @@ MB_DB_PASS=...
 JAVA_OPTS=-Xmx768m
 ```
 
+### Crash ao conectar no MetabaseDB
+
+Sintoma nos logs:
+
+```text
+Metabase Initialization FAILED
+Unable to connect to Metabase mysql DB
+RSA public key is not available client side
+```
+
+Esse erro acontece antes do Metabase subir a interface. Ele aponta para o banco interno do Metabase, nao para o `HospitalDB` dos dados analiticos.
+
+Correcao recomendada no Railway:
+
+```env
+MB_DB_TYPE=mysql
+MB_DB_CONNECTION_URI=jdbc:mysql://${{MetabaseDB.MYSQLHOST}}:${{MetabaseDB.MYSQLPORT}}/${{MetabaseDB.MYSQLDATABASE}}?allowPublicKeyRetrieval=true
+MB_DB_USER=${{MetabaseDB.MYSQLUSER}}
+MB_DB_PASS=${{MetabaseDB.MYSQLPASSWORD}}
+```
+
+Depois de salvar as variaveis, faca redeploy ou restart do servico Metabase.
+
 Pontos importantes:
 
 - Nao usar H2 em producao.
