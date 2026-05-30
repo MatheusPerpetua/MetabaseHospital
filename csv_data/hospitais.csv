@@ -1,4 +1,4 @@
 ﻿hospital_id,nome_hospital,endereco,cidade,estado,cep,telefone,capacidade_leitos,area_emergencia_capacidade,estoque_farmacia_capacidade,tipo_hospital,data_fundacao
-1,Hospital Campos Regional,"Parque da Cruz, 541",Ribeiro,SC,78585815,11 8991 0135,58,30,9233,Pronto Socorro,1992-01-26
-2,Hospital Carvalho Regional,"Rua Eduarda Camargo, 96",Pereira da Prata,RR,18878-079,(081) 7622 4280,322,24,8455,Pronto Socorro,1989-05-09
-3,Hospital Mendes Regional,"Conjunto de Garcia, 93",Nascimento,MT,59453599,+55 (041) 1401-1076,205,35,8434,Especializado,1994-08-26
+1,Hospital Gonçalves Geral,"Viela Camargo, 7",Sá do Campo,ES,39829640,(011) 4142-1517,312,50,4259,Especializado,2007-01-01
+2,Hospital Macedo Metropolitano,"Setor João Lucas Alves, 79",Pastor,PB,16223991,+55 31 5506-0418,102,11,2061,Geral,2015-07-18
+3,Hospital Lima Santa Casa,"Trecho Lívia Ramos, 91",Moreira do Galho,PI,79242291,+55 51 5991 4090,398,19,1880,Pronto Socorro,1978-09-19

@@ -1,16 +1,16 @@
 ﻿setor_id,hospital_id,nome_setor,tipo_setor,capacidade_leitos_setor,andar
-1,1,Farmacia 4,Farmacia,,4
-2,2,Centro Cirurgico 4,Centro Cirurgico,,4
-3,3,Radiologia 1,Radiologia,,3
-4,1,UTI 4,UTI,68.0,2
-5,3,Ambulatorio 5,Ambulatorio,,5
-6,3,Emergencia 1,Emergencia,62.0,5
-7,3,Radiologia 2,Radiologia,,3
-8,2,UTI 4,UTI,11.0,3
-9,3,Radiologia 4,Radiologia,,2
-10,1,UTI 5,UTI,19.0,2
-11,3,Internacao 5,Internacao,91.0,3
-12,2,Administrativo 3,Administrativo,,10
-13,1,Internacao 1,Internacao,52.0,7
-14,3,Internacao 3,Internacao,97.0,1
-15,3,Emergencia 5,Emergencia,71.0,10
+1,3,Radiologia 3,Radiologia,,5
+2,2,Ambulatorio 3,Ambulatorio,,8
+3,2,Ambulatorio 4,Ambulatorio,,5
+4,3,Emergencia 3,Emergencia,37.0,4
+5,1,Ambulatorio 1,Ambulatorio,,5
+6,1,Centro Cirurgico 2,Centro Cirurgico,,1
+7,3,Internacao 2,Internacao,79.0,8
+8,2,Radiologia 3,Radiologia,,6
+9,3,Farmacia 5,Farmacia,,4
+10,3,Emergencia 4,Emergencia,70.0,6
+11,2,Laboratorio 3,Laboratorio,,10
+12,2,Ambulatorio 5,Ambulatorio,,5
+13,2,Laboratorio 2,Laboratorio,,9
+14,2,Centro Cirurgico 4,Centro Cirurgico,,4
+15,1,Farmacia 1,Farmacia,,3

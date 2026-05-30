@@ -1,101 +1,101 @@
 ﻿internacao_id,atendimento_id,paciente_id,hospital_id,leito_id,data_hora_internacao,data_hora_alta,diagnostico_internacao,procedimentos_realizados,status_internacao,funcionario_id_medico_responsavel
-1,429.0,43,2,12,2026-05-20 21:16:49,,AVC,,Ativa,39
-2,455.0,59,3,99,2026-05-20 21:12:46,,Infarto,,Ativa,28
-3,255.0,92,2,36,2026-05-20 21:13:36,2026-06-13 21:13:36,Fratura Exposta,,Obito,17
-4,235.0,35,1,8,2026-05-20 21:14:05,2026-06-10 21:14:05,Pneumonia,Quae dolorem ab laborum molestiae facere cum quis.,Obito,28
-5,78.0,94,2,57,2026-05-20 21:12:58,2026-05-24 21:12:58,Fratura Exposta,Commodi voluptatibus error dolore aliquid ipsa reprehenderit.,Obito,28
-6,155.0,53,3,75,2026-05-20 21:15:28,2026-06-18 21:15:28,AVC,Iure ratione placeat repellat ipsum incidunt.,Obito,17
-7,429.0,7,1,81,2026-05-20 21:15:49,2026-06-10 21:15:49,AVC,,Obito,42
-8,413.0,76,2,10,2026-05-20 21:14:03,,Infarto,Consectetur cupiditate officia ullam porro aspernatur pariatur.,Ativa,42
-9,392.0,62,2,29,2026-05-20 21:18:11,2026-05-21 21:18:11,AVC,,Concluida,42
-10,296.0,39,2,42,2026-05-20 21:14:29,2026-05-26 21:14:29,Infarto,Velit voluptatum repudiandae dolores ab molestiae.,Obito,42
-11,370.0,41,1,24,2026-05-20 21:14:31,2026-06-10 21:14:31,Pneumonia,Provident in quod in.,Obito,28
-12,277.0,62,3,36,2026-05-20 21:17:36,2026-06-10 21:17:36,Infarto,Aut beatae qui delectus natus sint.,Concluida,39
-13,16.0,52,3,29,2026-05-20 21:15:51,2026-05-22 21:15:51,AVC,Voluptatum deserunt eveniet veritatis ratione distinctio modi.,Obito,39
-14,417.0,71,3,79,2026-05-20 21:17:55,2026-06-11 21:17:55,Infarto,Quia autem placeat impedit ipsam culpa.,Concluida,39
-15,133.0,96,2,82,2026-05-20 21:14:15,2026-06-08 21:14:15,AVC,,Obito,28
-16,310.0,47,3,53,2026-05-20 21:15:05,2026-06-08 21:15:05,Diabetes Descompensada,,Concluida,42
-17,281.0,77,1,29,2026-05-20 21:15:47,2026-06-13 21:15:47,Fratura Exposta,,Obito,39
-18,366.0,43,3,92,2026-05-20 21:14:23,2026-06-04 21:14:23,Apendicite,,Concluida,28
-19,,9,1,37,2026-05-20 21:16:22,,Fratura Exposta,Excepturi explicabo reprehenderit corporis doloribus nobis nam.,Ativa,42
-20,90.0,71,3,95,2026-05-20 21:16:39,2026-06-06 21:16:39,Pneumonia,,Concluida,17
-21,,41,1,23,2026-05-20 21:14:13,2026-06-05 21:14:13,Infarto,,Concluida,17
-22,152.0,85,1,97,2026-05-20 21:14:02,2026-06-08 21:14:02,Infarto,Ratione alias alias accusantium maxime ullam et.,Obito,17
-23,279.0,39,3,9,2026-05-20 21:15:18,2026-06-06 21:15:18,Apendicite,Voluptates excepturi recusandae tempora.,Obito,39
-24,206.0,91,3,12,2026-05-20 21:17:50,2026-06-01 21:17:50,Diabetes Descompensada,,Obito,17
-25,331.0,6,3,40,2026-05-20 21:14:32,2026-05-27 21:14:32,Pneumonia,,Concluida,17
-26,493.0,48,2,1,2026-05-20 21:16:15,2026-05-24 21:16:15,Pneumonia,,Obito,42
-27,99.0,74,2,74,2026-05-20 21:14:01,2026-06-16 21:14:01,Diabetes Descompensada,Id ullam provident praesentium repudiandae modi.,Obito,42
-28,199.0,84,2,11,2026-05-20 21:17:47,,Pneumonia,,Ativa,39
-29,,40,3,94,2026-05-20 21:13:04,2026-05-24 21:13:04,Pneumonia,,Concluida,28
-30,41.0,4,1,19,2026-05-20 21:16:47,2026-05-30 21:16:47,Fratura Exposta,Facere quas ab voluptatibus nostrum neque.,Obito,28
-31,,32,1,57,2026-05-20 21:12:46,2026-06-15 21:12:46,Infarto,,Obito,28
-32,249.0,87,2,65,2026-05-20 21:14:03,2026-05-27 21:14:03,Diabetes Descompensada,,Concluida,17
-33,26.0,62,3,69,2026-05-20 21:12:41,2026-05-23 21:12:41,AVC,Fugit dolorum illum quo.,Concluida,28
-34,34.0,31,3,74,2026-05-20 21:16:30,2026-05-24 21:16:30,Diabetes Descompensada,,Concluida,39
-35,253.0,32,3,57,2026-05-20 21:13:33,2026-05-21 21:13:33,Apendicite,Est nam modi reiciendis doloribus dignissimos.,Concluida,28
-36,377.0,70,2,54,2026-05-20 21:16:50,2026-05-31 21:16:50,Diabetes Descompensada,,Obito,39
-37,247.0,97,2,27,2026-05-20 21:12:50,2026-05-31 21:12:50,Diabetes Descompensada,Dolorem sapiente quibusdam magnam ullam.,Obito,39
-38,208.0,91,2,25,2026-05-20 21:14:32,2026-06-14 21:14:32,Apendicite,Voluptatibus necessitatibus nulla eaque.,Concluida,28
-39,199.0,95,2,89,2026-05-20 21:15:22,2026-06-07 21:15:22,Infarto,Ipsa voluptas repellat reprehenderit a.,Obito,39
-40,160.0,17,2,24,2026-05-20 21:15:30,2026-06-02 21:15:30,Apendicite,,Concluida,39
-41,464.0,18,1,60,2026-05-20 21:17:13,2026-05-21 21:17:13,AVC,,Concluida,17
-42,262.0,37,3,3,2026-05-20 21:14:00,,Fratura Exposta,Qui nesciunt a totam.,Ativa,39
-43,22.0,14,1,92,2026-05-20 21:13:21,2026-06-15 21:13:21,Pneumonia,Placeat quaerat deleniti cupiditate animi porro.,Obito,39
-44,392.0,22,2,1,2026-05-20 21:13:20,2026-06-04 21:13:20,Pneumonia,Quos placeat voluptatibus facere repellendus beatae repellat at.,Obito,17
-45,366.0,2,3,84,2026-05-20 21:15:20,,AVC,Necessitatibus earum dolores esse earum veniam.,Ativa,28
-46,,13,2,46,2026-05-20 21:14:51,2026-06-02 21:14:51,Diabetes Descompensada,,Concluida,28
-47,278.0,77,1,61,2026-05-20 21:15:31,2026-06-08 21:15:31,AVC,,Obito,42
-48,392.0,47,3,79,2026-05-20 21:16:44,2026-06-08 21:16:44,Pneumonia,,Concluida,42
-49,463.0,81,2,77,2026-05-20 21:14:13,2026-05-31 21:14:13,AVC,,Obito,42
-50,,37,2,81,2026-05-20 21:14:00,2026-06-14 21:14:00,Apendicite,Inventore voluptatem fugit ratione dolore ab.,Obito,42
-51,258.0,1,3,13,2026-05-20 21:15:16,2026-05-25 21:15:16,Pneumonia,,Obito,39
-52,307.0,12,1,69,2026-05-20 21:18:02,,Fratura Exposta,Officiis repellat sit aspernatur perferendis qui.,Ativa,17
-53,141.0,32,2,29,2026-05-20 21:12:35,2026-06-11 21:12:35,Apendicite,Optio perspiciatis voluptas provident dicta maxime impedit.,Obito,17
-54,324.0,84,1,25,2026-05-20 21:15:12,,Infarto,Reprehenderit odit optio.,Ativa,42
-55,,73,1,72,2026-05-20 21:13:27,2026-05-21 21:13:27,AVC,,Obito,39
-56,165.0,28,2,75,2026-05-20 21:14:23,2026-06-09 21:14:23,Apendicite,Distinctio ea exercitationem quibusdam nostrum mollitia.,Obito,39
-57,489.0,84,2,95,2026-05-20 21:15:41,2026-06-19 21:15:41,Diabetes Descompensada,,Obito,39
-58,126.0,17,1,98,2026-05-20 21:14:21,2026-05-30 21:14:21,Pneumonia,,Concluida,39
-59,205.0,34,3,11,2026-05-20 21:16:40,2026-06-01 21:16:40,Apendicite,,Concluida,28
-60,7.0,11,1,96,2026-05-20 21:15:47,,Diabetes Descompensada,,Ativa,42
-61,180.0,11,3,24,2026-05-20 21:12:36,,Diabetes Descompensada,,Ativa,28
-62,485.0,13,3,24,2026-05-20 21:12:57,2026-06-13 21:12:57,Diabetes Descompensada,Dolore animi non soluta.,Concluida,28
-63,419.0,93,1,11,2026-05-20 21:13:15,2026-05-22 21:13:15,Apendicite,,Obito,28
-64,5.0,60,2,63,2026-05-20 21:12:57,2026-06-16 21:12:57,Diabetes Descompensada,,Obito,39
-65,110.0,75,3,46,2026-05-20 21:15:34,2026-06-14 21:15:34,Diabetes Descompensada,Reiciendis autem quaerat consequatur ullam facilis.,Obito,17
-66,194.0,5,1,70,2026-05-20 21:16:13,2026-06-17 21:16:13,AVC,Modi ea eligendi expedita reiciendis.,Obito,28
-67,368.0,18,1,92,2026-05-20 21:15:38,2026-06-08 21:15:38,Pneumonia,,Concluida,17
-68,488.0,59,1,42,2026-05-20 21:15:09,,AVC,,Ativa,17
-69,292.0,99,2,49,2026-05-20 21:13:23,,Pneumonia,In blanditiis ad rerum nihil.,Ativa,28
-70,383.0,88,3,70,2026-05-20 21:14:51,2026-06-17 21:14:51,Pneumonia,Quidem voluptates officia labore ex.,Concluida,42
-71,349.0,7,1,51,2026-05-20 21:17:57,2026-05-27 21:17:57,Fratura Exposta,Quia modi eveniet possimus.,Concluida,17
-72,1.0,31,2,49,2026-05-20 21:17:54,,Pneumonia,,Ativa,28
-73,,93,2,89,2026-05-20 21:13:01,2026-06-03 21:13:01,Apendicite,Deserunt doloremque expedita numquam harum eius fuga aliquid.,Obito,39
-74,410.0,52,3,43,2026-05-20 21:14:38,,Infarto,Impedit suscipit blanditiis possimus quis velit maiores.,Ativa,42
-75,356.0,86,3,24,2026-05-20 21:13:16,2026-06-06 21:13:16,Apendicite,,Obito,28
-76,267.0,7,1,88,2026-05-20 21:18:13,2026-05-30 21:18:13,Fratura Exposta,,Obito,42
-77,478.0,45,3,65,2026-05-20 21:16:43,2026-05-30 21:16:43,Pneumonia,Ut praesentium ratione.,Concluida,17
-78,434.0,25,1,97,2026-05-20 21:14:28,2026-05-27 21:14:28,AVC,Veritatis necessitatibus similique iste magnam.,Obito,28
-79,498.0,98,2,59,2026-05-20 21:16:09,2026-05-24 21:16:09,Pneumonia,Eum consequuntur mollitia perspiciatis provident esse.,Concluida,39
-80,276.0,5,2,95,2026-05-20 21:13:47,2026-06-05 21:13:47,Fratura Exposta,Error sapiente perferendis ab dolores temporibus expedita.,Obito,17
-81,199.0,34,2,11,2026-05-20 21:12:50,2026-05-25 21:12:50,Diabetes Descompensada,Non minus non inventore magnam.,Concluida,17
-82,,25,1,25,2026-05-20 21:13:13,2026-05-29 21:13:13,Fratura Exposta,Dicta amet dolores enim rem.,Obito,17
-83,,41,1,27,2026-05-20 21:15:16,2026-06-13 21:15:16,AVC,Voluptatem sunt quae.,Concluida,17
-84,194.0,33,1,69,2026-05-20 21:14:11,,Fratura Exposta,Id dolorum alias maxime.,Ativa,28
-85,98.0,82,1,27,2026-05-20 21:16:29,2026-05-24 21:16:29,Infarto,,Obito,39
-86,211.0,3,2,90,2026-05-20 21:15:02,2026-06-04 21:15:02,Fratura Exposta,Officia repellendus earum atque porro fugiat.,Concluida,28
-87,61.0,85,3,46,2026-05-20 21:18:13,2026-05-27 21:18:13,Pneumonia,Eveniet commodi voluptatibus maxime modi soluta doloremque.,Obito,17
-88,419.0,8,2,64,2026-05-20 21:14:21,2026-06-19 21:14:21,Pneumonia,,Concluida,39
-89,191.0,18,2,60,2026-05-20 21:13:32,2026-06-07 21:13:32,Infarto,Libero minus sed ipsam delectus architecto placeat.,Concluida,42
-90,240.0,3,2,41,2026-05-20 21:14:34,2026-05-23 21:14:34,Diabetes Descompensada,Magnam quidem laudantium at sit dignissimos velit.,Obito,17
-91,473.0,79,2,1,2026-05-20 21:15:07,2026-06-16 21:15:07,AVC,,Obito,17
-92,152.0,14,3,17,2026-05-20 21:13:24,2026-06-08 21:13:24,Infarto,Ex occaecati quasi nesciunt exercitationem officiis.,Obito,42
-93,477.0,44,1,59,2026-05-20 21:13:20,2026-05-26 21:13:20,Diabetes Descompensada,,Obito,28
-94,256.0,63,3,63,2026-05-20 21:13:05,2026-06-02 21:13:05,AVC,,Concluida,28
-95,475.0,56,1,48,2026-05-20 21:16:30,2026-06-10 21:16:30,Fratura Exposta,Maxime cumque a tenetur dolorum hic cupiditate.,Concluida,17
-96,52.0,22,2,54,2026-05-20 21:18:15,2026-06-10 21:18:15,Pneumonia,Optio laboriosam architecto tenetur praesentium.,Concluida,17
-97,7.0,7,3,20,2026-05-20 21:13:09,2026-05-26 21:13:09,Fratura Exposta,,Concluida,39
-98,354.0,64,1,43,2026-05-20 21:15:17,2026-05-21 21:15:17,Infarto,,Obito,42
-99,16.0,35,1,19,2026-05-20 21:17:27,,Diabetes Descompensada,,Ativa,42
-100,64.0,73,2,65,2026-05-20 21:12:29,2026-06-19 21:12:29,Fratura Exposta,,Concluida,28
+1,2.0,75,3,33,2026-05-29 21:27:57,2026-05-30 21:27:57,Pneumonia,,Concluida,37
+2,419.0,22,3,30,2026-05-29 21:25:14,,Infarto,,Ativa,19
+3,417.0,65,3,91,2026-05-29 21:27:20,2026-06-28 21:27:20,Fratura Exposta,Rem dolore molestias distinctio voluptate officiis.,Concluida,37
+4,243.0,80,2,75,2026-05-29 21:25:57,2026-06-03 21:25:57,Diabetes Descompensada,Adipisci corporis sint illum.,Obito,37
+5,305.0,92,3,53,2026-05-29 21:27:56,2026-06-11 21:27:56,Apendicite,Voluptas reprehenderit dolores dolor temporibus.,Obito,37
+6,210.0,64,1,65,2026-05-29 21:25:25,2026-06-06 21:25:25,AVC,Rem consectetur nesciunt ratione.,Obito,37
+7,,62,2,9,2026-05-29 21:26:03,2026-06-14 21:26:03,Apendicite,Praesentium accusamus quas dolorum.,Obito,19
+8,366.0,75,3,17,2026-05-29 21:23:46,2026-06-23 21:23:46,Apendicite,,Obito,13
+9,101.0,39,1,14,2026-05-29 21:26:32,2026-06-17 21:26:32,Apendicite,,Obito,13
+10,,17,2,51,2026-05-29 21:28:36,2026-06-01 21:28:36,Pneumonia,,Concluida,37
+11,449.0,25,2,95,2026-05-29 21:25:20,2026-06-20 21:25:20,Pneumonia,Quia culpa animi commodi eligendi amet.,Concluida,13
+12,96.0,20,1,86,2026-05-29 21:26:56,2026-06-25 21:26:56,Pneumonia,,Obito,37
+13,48.0,31,2,48,2026-05-29 21:26:11,2026-05-31 21:26:11,AVC,,Concluida,13
+14,1.0,43,3,81,2026-05-29 21:28:40,2026-06-05 21:28:40,Fratura Exposta,Fugiat nostrum velit delectus tempora.,Obito,14
+15,147.0,82,1,9,2026-05-29 21:25:35,,Fratura Exposta,,Ativa,19
+16,332.0,100,2,70,2026-05-29 21:26:50,2026-06-23 21:26:50,Infarto,,Concluida,19
+17,270.0,80,3,87,2026-05-29 21:26:58,2026-06-16 21:26:58,Apendicite,,Obito,19
+18,200.0,6,3,21,2026-05-29 21:27:37,2026-06-10 21:27:37,Apendicite,Vel possimus facilis occaecati laborum exercitationem deserunt.,Obito,13
+19,140.0,54,3,91,2026-05-29 21:27:00,2026-06-05 21:27:00,Infarto,Fuga cum in blanditiis quibusdam dolor.,Concluida,37
+20,85.0,25,3,88,2026-05-29 21:25:14,2026-06-24 21:25:14,AVC,,Obito,13
+21,354.0,2,1,40,2026-05-29 21:25:45,2026-06-09 21:25:45,Fratura Exposta,,Concluida,14
+22,490.0,29,3,86,2026-05-29 21:27:03,2026-06-05 21:27:03,Pneumonia,,Concluida,19
+23,204.0,52,3,48,2026-05-29 21:27:43,2026-06-25 21:27:43,Fratura Exposta,,Concluida,14
+24,170.0,93,1,47,2026-05-29 21:28:54,2026-05-31 21:28:54,Fratura Exposta,,Concluida,13
+25,,31,1,73,2026-05-29 21:25:24,2026-06-09 21:25:24,Fratura Exposta,,Obito,13
+26,494.0,22,3,1,2026-05-29 21:28:42,2026-06-20 21:28:42,Diabetes Descompensada,,Obito,19
+27,144.0,88,1,97,2026-05-29 21:26:37,2026-06-07 21:26:37,Apendicite,Sint quibusdam quis.,Obito,14
+28,479.0,99,3,86,2026-05-29 21:25:52,2026-06-25 21:25:52,Pneumonia,Sapiente temporibus incidunt aliquam ad adipisci exercitationem.,Concluida,13
+29,349.0,10,3,80,2026-05-29 21:24:47,2026-06-27 21:24:47,Apendicite,,Obito,19
+30,40.0,95,2,48,2026-05-29 21:28:55,2026-05-30 21:28:55,Infarto,,Concluida,13
+31,255.0,29,2,67,2026-05-29 21:25:46,2026-06-15 21:25:46,AVC,,Obito,37
+32,342.0,37,1,90,2026-05-29 21:26:53,,Diabetes Descompensada,Dolorum delectus aliquid ipsa.,Ativa,14
+33,220.0,35,2,20,2026-05-29 21:27:16,2026-06-02 21:27:16,Infarto,,Obito,37
+34,,45,2,51,2026-05-29 21:25:36,2026-05-30 21:25:36,Apendicite,Magnam natus itaque hic fuga officia.,Concluida,19
+35,235.0,22,2,45,2026-05-29 21:26:28,2026-05-30 21:26:28,Diabetes Descompensada,,Concluida,19
+36,148.0,60,2,51,2026-05-29 21:25:06,,Diabetes Descompensada,,Ativa,13
+37,168.0,47,1,57,2026-05-29 21:27:20,2026-06-02 21:27:20,Apendicite,Quisquam qui excepturi corporis libero odio quasi ex.,Concluida,19
+38,241.0,93,1,16,2026-05-29 21:28:42,2026-06-26 21:28:42,Fratura Exposta,Expedita distinctio officia quas perferendis nobis modi.,Obito,14
+39,,84,1,62,2026-05-29 21:27:28,2026-06-13 21:27:28,Pneumonia,,Concluida,37
+40,370.0,17,2,93,2026-05-29 21:25:51,2026-05-30 21:25:51,Infarto,,Obito,13
+41,299.0,85,3,36,2026-05-29 21:28:06,,Infarto,Possimus cumque numquam cum nam fuga natus quibusdam.,Ativa,37
+42,178.0,26,2,90,2026-05-29 21:27:13,2026-06-08 21:27:13,AVC,Minima ipsam consectetur ea recusandae ad.,Obito,13
+43,463.0,52,1,81,2026-05-29 21:28:48,2026-06-06 21:28:48,Diabetes Descompensada,Pariatur sint voluptate minus.,Obito,19
+44,207.0,63,2,17,2026-05-29 21:23:49,2026-06-21 21:23:49,Pneumonia,Sit expedita alias ratione maiores.,Concluida,19
+45,211.0,7,1,69,2026-05-29 21:26:43,2026-06-28 21:26:43,AVC,Molestiae numquam soluta repudiandae sint magni.,Obito,19
+46,320.0,46,1,20,2026-05-29 21:23:16,2026-06-08 21:23:16,AVC,Quod quos sit tempore numquam dignissimos magni.,Concluida,37
+47,337.0,60,1,9,2026-05-29 21:27:15,2026-05-31 21:27:15,Infarto,,Obito,13
+48,353.0,31,1,76,2026-05-29 21:26:24,2026-05-31 21:26:24,Diabetes Descompensada,,Obito,14
+49,113.0,35,3,63,2026-05-29 21:26:59,2026-06-27 21:26:59,Diabetes Descompensada,Corrupti dolor ullam id cupiditate dolores sint vitae.,Obito,14
+50,11.0,12,3,56,2026-05-29 21:26:22,,Apendicite,,Ativa,37
+51,210.0,63,2,65,2026-05-29 21:23:55,,Apendicite,,Ativa,37
+52,385.0,91,2,42,2026-05-29 21:28:16,2026-06-27 21:28:16,Apendicite,Recusandae quis accusamus culpa fugit alias.,Concluida,14
+53,472.0,61,1,51,2026-05-29 21:25:45,2026-06-08 21:25:45,Fratura Exposta,,Obito,19
+54,302.0,28,3,40,2026-05-29 21:25:50,2026-06-19 21:25:50,Fratura Exposta,,Concluida,19
+55,130.0,82,2,13,2026-05-29 21:26:31,2026-06-12 21:26:31,Infarto,,Concluida,14
+56,32.0,30,3,76,2026-05-29 21:25:56,2026-06-06 21:25:56,Diabetes Descompensada,,Concluida,37
+57,,6,2,13,2026-05-29 21:27:04,2026-06-05 21:27:04,Pneumonia,Eum est molestias iure eaque praesentium.,Concluida,14
+58,,72,3,35,2026-05-29 21:25:40,,Fratura Exposta,Error in unde numquam.,Ativa,37
+59,325.0,12,3,73,2026-05-29 21:27:15,,Pneumonia,Deleniti aut sed.,Ativa,37
+60,33.0,42,3,25,2026-05-29 21:25:19,,Infarto,,Ativa,14
+61,174.0,82,3,100,2026-05-29 21:24:03,2026-06-18 21:24:03,AVC,,Concluida,13
+62,133.0,21,2,43,2026-05-29 21:25:49,2026-06-23 21:25:49,Diabetes Descompensada,,Concluida,14
+63,459.0,63,2,75,2026-05-29 21:28:31,2026-06-12 21:28:31,Diabetes Descompensada,,Obito,19
+64,338.0,28,3,65,2026-05-29 21:26:46,,Pneumonia,Officia sed consequuntur totam tempora impedit minus.,Ativa,37
+65,51.0,74,1,30,2026-05-29 21:26:41,2026-06-11 21:26:41,Pneumonia,,Obito,37
+66,449.0,85,1,11,2026-05-29 21:28:24,2026-06-07 21:28:24,Diabetes Descompensada,Quos cupiditate maiores soluta placeat voluptatibus.,Concluida,19
+67,226.0,54,2,30,2026-05-29 21:28:31,2026-06-13 21:28:31,Apendicite,Odit nemo sint vero.,Concluida,14
+68,438.0,84,2,95,2026-05-29 21:28:18,,Apendicite,,Ativa,14
+69,116.0,7,3,18,2026-05-29 21:23:37,2026-06-14 21:23:37,Pneumonia,Delectus voluptate ex quam voluptatibus impedit.,Concluida,37
+70,259.0,26,1,63,2026-05-29 21:24:32,2026-06-05 21:24:32,Fratura Exposta,,Concluida,14
+71,347.0,57,2,15,2026-05-29 21:26:05,2026-06-08 21:26:05,AVC,Aut quidem inventore similique.,Concluida,37
+72,102.0,72,2,2,2026-05-29 21:25:29,2026-06-10 21:25:29,Fratura Exposta,,Obito,19
+73,434.0,76,1,53,2026-05-29 21:24:27,2026-06-09 21:24:27,Diabetes Descompensada,,Obito,13
+74,488.0,46,3,5,2026-05-29 21:23:56,2026-06-01 21:23:56,Fratura Exposta,,Concluida,19
+75,491.0,83,3,27,2026-05-29 21:25:37,,AVC,Delectus architecto ex numquam dolores.,Ativa,37
+76,75.0,67,2,34,2026-05-29 21:24:55,2026-06-09 21:24:55,Diabetes Descompensada,,Concluida,14
+77,413.0,51,3,5,2026-05-29 21:27:02,,Pneumonia,,Ativa,14
+78,300.0,39,2,31,2026-05-29 21:24:46,2026-06-01 21:24:46,Pneumonia,,Concluida,37
+79,359.0,81,1,91,2026-05-29 21:23:16,,Pneumonia,Velit esse repudiandae animi molestias.,Ativa,19
+80,495.0,23,1,1,2026-05-29 21:27:20,2026-06-01 21:27:20,Apendicite,,Obito,13
+81,103.0,91,1,97,2026-05-29 21:23:25,2026-06-04 21:23:25,Apendicite,Impedit ducimus cumque eius voluptatibus itaque nemo.,Concluida,13
+82,162.0,25,3,81,2026-05-29 21:23:52,2026-06-16 21:23:52,Apendicite,Odio dolor facere exercitationem explicabo alias laborum.,Concluida,13
+83,386.0,49,2,85,2026-05-29 21:28:19,2026-06-15 21:28:19,Infarto,Debitis provident maxime dignissimos atque omnis laudantium.,Concluida,19
+84,90.0,53,3,79,2026-05-29 21:28:41,2026-06-27 21:28:41,Infarto,,Concluida,19
+85,105.0,77,2,51,2026-05-29 21:27:53,,Pneumonia,,Ativa,19
+86,283.0,26,3,14,2026-05-29 21:24:06,2026-06-04 21:24:06,Apendicite,,Concluida,37
+87,16.0,8,3,52,2026-05-29 21:26:17,,Diabetes Descompensada,,Ativa,19
+88,118.0,25,3,37,2026-05-29 21:25:25,2026-06-20 21:25:25,AVC,Placeat amet nostrum ipsa officia natus provident.,Obito,13
+89,35.0,12,3,50,2026-05-29 21:25:30,,Apendicite,,Ativa,13
+90,115.0,37,2,35,2026-05-29 21:27:23,2026-06-26 21:27:23,Infarto,,Obito,13
+91,404.0,51,2,85,2026-05-29 21:23:44,2026-06-14 21:23:44,Fratura Exposta,,Concluida,14
+92,277.0,100,1,36,2026-05-29 21:28:07,2026-06-14 21:28:07,Pneumonia,,Obito,14
+93,107.0,76,1,48,2026-05-29 21:26:26,,Apendicite,At minus optio.,Ativa,14
+94,370.0,43,1,38,2026-05-29 21:26:52,,Diabetes Descompensada,Repellendus ipsum assumenda distinctio occaecati autem.,Ativa,13
+95,214.0,93,2,2,2026-05-29 21:26:08,2026-06-14 21:26:08,AVC,Rem fuga tempora corporis.,Obito,19
+96,331.0,77,3,45,2026-05-29 21:24:42,2026-06-05 21:24:42,Pneumonia,,Concluida,13
+97,107.0,26,3,30,2026-05-29 21:25:44,2026-06-24 21:25:44,Apendicite,Deserunt architecto molestias quia error.,Obito,13
+98,72.0,82,3,1,2026-05-29 21:24:20,2026-06-25 21:24:20,Apendicite,,Concluida,14
+99,167.0,92,3,15,2026-05-29 21:23:46,2026-06-01 21:23:46,AVC,,Obito,14
+100,69.0,46,2,54,2026-05-29 21:23:21,2026-06-02 21:23:21,Infarto,,Obito,14

@@ -1,51 +1,51 @@
 ﻿funcionario_id,hospital_id,nome,sobrenome,cpf,cargo,especialidade,crm_coren,data_contratacao,salario,turno,email_corporativo,status_funcionario
-1,1,Liam,Peixoto,164.253.078-62,Administrativo,,,2022-02-14,13562.65,Noite,luiz-fernandosilveira@example.com,Ferias
-2,2,Mariana,Castro,401.957.382-41,Administrativo,,,2013-11-23,8906.36,Manha,zrocha@example.org,Desligado
-3,2,Gabriela,Aragão,794.532.068-65,Farmaceutico,,,2023-08-17,8816.17,Diurno,icirino@example.com,Ferias
-4,1,Luara,da Rocha,269.534.801-06,Tecnico Enfermagem,,,2014-03-25,9881.62,Noturno,vcampos@example.net,Ativo
-5,1,Gustavo,Camargo,850.912.367-59,Farmaceutico,,,2011-08-16,23534.65,Tarde,brenocamargo@example.org,Afastado
-6,1,Maria Eduarda,da Mata,463.017.259-99,Farmaceutico,,,2015-09-09,16866.83,Noturno,pietra71@example.org,Afastado
-7,2,Pedro Lucas,Macedo,704.238.961-13,Seguranca,,,2024-01-17,4552.85,Tarde,portoluiz-henrique@example.net,Afastado
-8,1,Pedro,da Cunha,485.196.237-19,Tecnico Laboratorio,,,2011-03-25,7775.21,Noite,ana-clarapimenta@example.net,Afastado
-9,1,Ana Cecília,Camargo,074.592.386-00,Administrativo,,,2014-07-28,24319.7,Manha,cavalcantestella@example.org,Afastado
-10,3,Liam,Fonseca,792.154.036-80,Farmaceutico,,,2011-09-13,19609.03,Diurno,wcampos@example.net,Ativo
-11,1,Caroline,Guerra,902.418.735-41,Tecnico Enfermagem,,,2016-12-27,22284.98,Noturno,zazevedo@example.org,Ferias
-12,1,Aurora,Duarte,168.042.975-20,Tecnico Laboratorio,,,2012-11-03,11085.92,Noturno,ramosevelyn@example.net,Afastado
-13,3,Maria Flor,Oliveira,945.327.801-79,Farmaceutico,,,2021-05-14,14768.38,Manha,ialbuquerque@example.net,Ferias
-14,1,Gustavo,Souza,154.980.672-67,Administrativo,,,2012-10-27,21466.6,Manha,benicio61@example.org,Desligado
-15,2,Sofia,Moreira,863.407.951-10,Tecnico Enfermagem,,,2014-10-10,3653.82,Manha,josuejesus@example.com,Ativo
-16,3,Theo,Montenegro,786.210.534-62,Tecnico Enfermagem,,,2025-02-03,24355.84,Manha,levimoraes@example.org,Ferias
-17,2,Maria Helena,Souza,951.326.047-06,Medico,Clínico Geral,CRM/ES 36196,2010-10-20,11809.59,Tarde,nascimentoluna@example.net,Afastado
-18,3,Helena,da Rosa,065.748.231-53,Atendente,,,2014-07-07,22203.57,Noite,elisacardoso@example.org,Ferias
-19,3,Thomas,Silveira,250.769.138-77,Atendente,,,2012-01-18,12798.09,Tarde,pedro-lucascastro@example.net,Ativo
-20,3,Davi,Aparecida,472.183.056-44,Farmaceutico,,,2014-10-12,24182.2,Manha,paulo88@example.org,Ferias
-21,3,Ravi,Machado,534.217.098-23,Administrativo,,,2008-01-13,4484.11,Tarde,ana-clarafreitas@example.net,Afastado
-22,1,Hadassa,Montenegro,061.594.372-16,Limpeza,,,2020-06-26,16332.71,Diurno,jrocha@example.net,Desligado
-23,2,Theodoro,Caldeira,413.682.790-31,Farmaceutico,,,2012-02-07,15183.83,Manha,upimenta@example.net,Ativo
-24,2,Asafe,Mendes,652.307.184-71,Farmaceutico,,,2022-09-07,21662.03,Diurno,caldeiramaria@example.net,Desligado
-25,2,Marcela,Abreu,859.034.261-15,Administrativo,,,2016-07-25,2156.27,Noturno,santoscarlos-eduardo@example.com,Afastado
-26,3,Vicente,Vasconcelos,738.529.410-32,Limpeza,,,2022-12-11,17235.41,Diurno,bdias@example.com,Ferias
-27,1,Olívia,Ferreira,254.386.917-46,Tecnico Enfermagem,,,2019-05-29,4967.76,Diurno,silveirabarbara@example.org,Afastado
-28,1,João Pedro,Lima,645.270.938-00,Medico,Dermatologista,CRM/RN 15754,2006-10-06,16965.3,Manha,oferreira@example.com,Afastado
-29,3,Luana,Sampaio,203.958.617-21,Limpeza,,,2022-02-11,13373.91,Tarde,gporto@example.org,Ferias
-30,1,Benicio,Teixeira,497.620.581-94,Limpeza,,,2022-11-29,5430.79,Manha,nunesjoao-lucas@example.org,Ativo
-31,1,Maria Helena,Moraes,563.021.978-21,Tecnico Enfermagem,,,2010-02-05,22296.45,Diurno,julianarocha@example.com,Ativo
-32,3,Antony,Barros,289.670.153-21,Limpeza,,,2019-12-05,20896.17,Tarde,martinskaique@example.com,Ativo
-33,1,Antônio,Siqueira,134.508.297-50,Tecnico Laboratorio,,,2022-10-31,2061.49,Noite,wmacedo@example.net,Desligado
-34,2,Luana,Monteiro,204.573.816-71,Seguranca,,,2006-06-25,15328.38,Diurno,novaeskaique@example.org,Ferias
-35,2,Benicio,Moura,506.398.274-38,Tecnico Enfermagem,,,2008-11-22,11202.22,Manha,leandrolima@example.org,Afastado
-36,2,Enrico,Sales,389.201.475-23,Limpeza,,,2016-09-09,8840.66,Tarde,ravi-lucca85@example.com,Ativo
-37,1,Henrique,Barbosa,756.809.312-30,Limpeza,,,2008-08-17,20546.46,Noturno,gda-cunha@example.org,Ativo
-38,3,Cecília,Castro,486.397.520-10,Enfermeiro,Enfermeiro UTI,COREN/RO 614488,2011-02-23,16573.93,Manha,goncalvesmanuella@example.net,Afastado
-39,2,Stephany,Cardoso,019.725.638-40,Medico,Dermatologista,CRM/ES 84996,2008-07-21,15767.42,Manha,mouramaria-eduarda@example.com,Ferias
-40,1,Alícia,Pimenta,572.610.498-67,Atendente,,,2023-09-03,6373.95,Tarde,ferreirapedro-lucas@example.net,Desligado
-41,1,Rael,Pinto,951.832.740-88,Administrativo,,,2018-03-18,19683.33,Diurno,leandro30@example.org,Ativo
-42,1,Giovanna,Correia,316.720.894-50,Medico,Ginecologista,CRM/SE 63725,2011-04-12,17325.91,Manha,zsiqueira@example.com,Desligado
-43,1,Zoe,da Cruz,549.387.620-56,Administrativo,,,2010-03-07,6929.93,Noite,aragaodaniela@example.com,Afastado
-44,2,Renan,Marques,019.874.326-22,Atendente,,,2016-05-24,18142.49,Noturno,hlima@example.com,Afastado
-45,3,Aurora,Farias,416.053.829-06,Limpeza,,,2020-04-08,11576.49,Diurno,da-mataluiza@example.net,Ferias
-46,3,Luan,Vieira,815.796.340-01,Enfermeiro,Enfermeiro Chefe,COREN/PE 254833,2011-12-31,18158.93,Diurno,barrosana-carolina@example.com,Ferias
-47,3,Guilherme,da Rocha,491.852.630-60,Seguranca,,,2016-05-12,4331.07,Manha,lfernandes@example.org,Ferias
-48,1,Cauê,Machado,643.598.217-19,Atendente,,,2017-08-18,20644.3,Noturno,ida-paz@example.org,Desligado
-49,3,Caleb,Guerra,740.259.683-47,Administrativo,,,2020-07-07,21657.02,Noite,diasravi-lucca@example.com,Ativo
-50,2,Bianca,Rezende,259.146.807-94,Administrativo,,,2009-05-10,7012.6,Tarde,castrolevi@example.org,Ferias
+1,3,Bruno,Siqueira,905.314.627-06,Enfermeiro,Enfermeiro UTI,COREN/PR 686734,2006-10-31,11894.43,Diurno,dcampos@example.com,Ferias
+2,2,Marina,Andrade,295.374.618-82,Atendente,,,2013-12-20,15408.77,Manha,rcasa-grande@example.org,Ferias
+3,3,Eduarda,da Luz,869.032.451-89,Farmaceutico,,,2007-09-13,19089.54,Noturno,caiomacedo@example.org,Ativo
+4,3,Liz,Moreira,431.972.568-91,Enfermeiro,Enfermeiro Emergência,COREN/RN 441334,2010-06-13,22706.16,Diurno,maria-luisaribeiro@example.org,Ativo
+5,2,Bruno,Farias,475.923.108-05,Enfermeiro,Enfermeiro Chefe,COREN/MT 713019,2015-11-14,5406.02,Noite,vbrito@example.com,Afastado
+6,1,Luana,Silva,749.508.613-01,Atendente,,,2018-05-14,21282.84,Noturno,ksilveira@example.net,Desligado
+7,2,Allana,Andrade,479.531.826-37,Limpeza,,,2010-01-17,14955.32,Noite,joao-pedro17@example.com,Afastado
+8,2,Lucca,da Paz,704.823.159-97,Tecnico Laboratorio,,,2024-03-29,17861.83,Manha,vcardoso@example.org,Ferias
+9,2,Davi Luiz,Vasconcelos,596.082.347-00,Seguranca,,,2018-04-04,24628.42,Noite,joaquimcosta@example.org,Afastado
+10,3,Benjamim,Cavalcante,856.392.741-82,Enfermeiro,Enfermeiro Chefe,COREN/MS 481559,2012-03-10,12027.14,Noturno,mouranoah@example.com,Afastado
+11,3,Luiz Fernando,da Cunha,763.425.198-46,Farmaceutico,,,2016-04-02,13718.34,Noite,eloah16@example.net,Ferias
+12,3,Agatha,Vasconcelos,512.473.096-06,Enfermeiro,Enfermeiro UTI,COREN/SC 473670,2013-05-14,22541.01,Diurno,maite16@example.org,Ativo
+13,2,Daniela,Fernandes,760.439.825-10,Medico,Pediatra,CRM/GO 94813,2014-03-27,23289.93,Tarde,amanda09@example.org,Desligado
+14,1,Maria Alice,Cavalcanti,063.471.859-20,Medico,Neurologista,CRM/PE 82021,2024-03-17,16480.13,Noite,nlopes@example.net,Ferias
+15,2,Olivia,Albuquerque,861.795.304-75,Tecnico Laboratorio,,,2008-03-16,21875.06,Manha,pramos@example.com,Desligado
+16,3,Alana,Marques,685.329.074-74,Tecnico Laboratorio,,,2006-12-26,20926.31,Noturno,yan02@example.net,Afastado
+17,3,Luiz Gustavo,Gonçalves,864.503.279-10,Tecnico Enfermagem,,,2019-02-28,10473.8,Manha,upinto@example.org,Afastado
+18,2,Benício,Mendes,739.254.108-05,Tecnico Enfermagem,,,2011-04-06,4679.87,Tarde,lfreitas@example.com,Afastado
+19,3,Pedro Henrique,Almeida,147.632.098-50,Medico,Dermatologista,CRM/MA 48751,2013-10-07,15143.23,Manha,da-rosayuri@example.net,Ativo
+20,3,Davi,da Cruz,729.580.346-74,Seguranca,,,2014-03-19,22669.94,Tarde,da-luzmaria-julia@example.net,Afastado
+21,2,Hadassa,Porto,046.953.817-10,Limpeza,,,2018-05-05,11036.5,Noite,novaisraul@example.com,Desligado
+22,1,Vinicius,Almeida,739.801.426-04,Farmaceutico,,,2011-10-04,19080.71,Noturno,costelaana-livia@example.com,Ferias
+23,3,Maria Isis,Sampaio,394.678.025-38,Enfermeiro,Enfermeiro UTI,COREN/MA 573257,2014-07-14,15307.99,Diurno,lopesdanilo@example.com,Ativo
+24,2,Gustavo,Aparecida,510.368.947-20,Limpeza,,,2016-11-30,17714.22,Manha,maria-sophiacamara@example.com,Afastado
+25,1,Matteo,Freitas,417.369.802-03,Tecnico Laboratorio,,,2013-06-12,6090.04,Diurno,siqueiramaria-helena@example.org,Ferias
+26,3,Davi Lucca,Rodrigues,865.149.372-09,Enfermeiro,Enfermeiro Chefe,COREN/RJ 197585,2015-09-03,7452.95,Manha,wviana@example.com,Afastado
+27,2,Maya,Almeida,486.901.752-02,Seguranca,,,2017-03-30,3614.16,Diurno,pintobrenda@example.org,Ativo
+28,3,Clarice,Aragão,659.370.482-29,Enfermeiro,Enfermeiro Emergência,COREN/RJ 439242,2019-09-15,24132.24,Noite,isadorabarbosa@example.com,Ativo
+29,2,Lívia,Sales,079.345.621-52,Seguranca,,,2017-05-25,2105.83,Manha,emanuella78@example.org,Ferias
+30,3,João Gabriel,Guerra,043.721.659-43,Enfermeiro,Enfermeiro UTI,COREN/BA 766762,2022-05-16,18775.15,Noite,icorreia@example.org,Desligado
+31,1,Maria Isis,Cunha,682.941.705-85,Tecnico Laboratorio,,,2015-06-01,9209.69,Manha,jalbuquerque@example.net,Afastado
+32,3,Isabel,Guerra,782.435.160-26,Tecnico Enfermagem,,,2009-06-30,5775.39,Noturno,brunovasconcelos@example.org,Desligado
+33,3,Davi Lucas,Araújo,654.301.927-16,Seguranca,,,2022-08-17,23563.45,Noturno,erickcassiano@example.org,Afastado
+34,2,Maysa,Cirino,398.150.642-15,Enfermeiro,Enfermeiro Emergência,COREN/PE 949164,2009-09-30,14530.73,Diurno,cirinoarthur-gabriel@example.com,Afastado
+35,3,Eduardo,Campos,176.480.925-49,Atendente,,,2023-11-18,14147.22,Noite,fernanda80@example.net,Desligado
+36,3,Camila,Sousa,013.287.654-07,Atendente,,,2009-02-28,2304.85,Diurno,benjamin10@example.com,Afastado
+37,2,Luana,Lopes,718.650.932-03,Medico,Dermatologista,CRM/MA 47951,2015-07-27,24804.71,Diurno,pachecotheo@example.com,Ativo
+38,3,Carlos Eduardo,Castro,942.063.578-38,Tecnico Enfermagem,,,2011-04-13,7788.0,Noite,gabrieladias@example.com,Ativo
+39,3,Eduardo,Alves,956.087.341-57,Enfermeiro,Enfermeiro Chefe,COREN/BA 703893,2021-08-18,19668.31,Manha,aurorada-paz@example.org,Afastado
+40,2,Mathias,Borges,312.598.067-40,Atendente,,,2008-09-17,24990.42,Noite,fcarvalho@example.com,Ferias
+41,2,Heloísa,Câmara,807.921.645-20,Atendente,,,2009-10-20,8846.64,Manha,sofia85@example.org,Desligado
+42,1,Joaquim,Rezende,781.294.350-04,Tecnico Enfermagem,,,2021-03-27,23550.67,Manha,apollocassiano@example.org,Afastado
+43,1,Maria Fernanda,Nunes,502.973.864-92,Farmaceutico,,,2012-08-28,18374.22,Noite,qda-rocha@example.com,Ferias
+44,2,Daniel,Casa Grande,236.197.054-61,Tecnico Laboratorio,,,2018-05-16,10116.43,Manha,lauracardoso@example.com,Afastado
+45,2,Alana,Ribeiro,719.280.463-04,Tecnico Enfermagem,,,2024-04-29,24691.81,Noite,stephanybarros@example.org,Afastado
+46,3,Brayan,Lopes,691.472.350-80,Atendente,,,2006-09-19,13134.5,Diurno,vitoria12@example.org,Desligado
+47,1,Diego,Nogueira,602.734.158-08,Atendente,,,2019-09-08,4235.13,Noturno,maria-ceciliaaraujo@example.net,Afastado
+48,3,Allana,Pimenta,197.642.083-04,Enfermeiro,Enfermeiro UTI,COREN/MT 777938,2013-07-09,12501.49,Manha,andrademarcela@example.org,Ferias
+49,3,Clarice,Fonseca,103.562.849-05,Limpeza,,,2018-02-20,10933.73,Noite,emanuellaaraujo@example.com,Ativo
+50,2,Natália,Barbosa,910.674.582-20,Farmaceutico,,,2019-10-11,21530.59,Noite,lucas-gabrielfernandes@example.org,Ferias

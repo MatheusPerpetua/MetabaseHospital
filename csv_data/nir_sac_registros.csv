@@ -1,76 +1,76 @@
 ﻿registro_id,hospital_id,atendimento_id,paciente_id,funcionario_id_registrador,tipo_registro,data_hora_registro,descricao_incidente_solicitacao,severidade,status_resolucao,data_hora_resolucao,responsavel_resolucao,observacoes_resolucao
-1,1,98.0,64.0,3,NIR - Transferencia,2025-11-03 00:16:23,Voluptate magni iste soluta autem rerum. Quae in mollitia tenetur nobis.,Alta,Em Analise,,Vitor Montenegro,
-2,2,,52.0,25,NIR - Transferencia,2025-09-06 15:25:53,Neque iure enim saepe. Perspiciatis excepturi ut vero culpa.,Baixa,Em Analise,,Miguel Peixoto,
-3,1,376.0,62.0,50,SAC - Sugestao,2026-03-02 14:34:35,Quo nam praesentium distinctio dolorum.,Media,Aberto,,Letícia Porto,
-4,2,96.0,96.0,28,NIR - Transferencia,2025-10-15 05:24:08,Consequatur saepe atque. Consequuntur exercitationem blanditiis voluptates explicabo soluta.,Alta,Em Andamento,,,
-5,3,496.0,78.0,45,SAC - Sugestao,2025-12-02 05:20:02,Exercitationem ea corrupti corrupti quasi quibusdam animi. Est assumenda eligendi rerum corporis blanditiis.,Media,Fechado,2025-12-05 05:20:02,Bryan Pimenta,
-6,2,,,32,SAC - Sugestao,2025-06-16 04:04:02,Eveniet vel aliquam amet voluptas facere cumque assumenda.,Media,Aberto,,Dr. Davi Lucca Peixoto,Temporibus cupiditate distinctio.
-7,3,495.0,23.0,24,Queda Paciente,2025-09-03 18:19:23,Occaecati repellendus expedita labore accusamus minima rem. Harum alias nihil fuga ea.,Media,Em Analise,,Lucas Gabriel Macedo,Nobis laudantium necessitatibus.
-8,1,321.0,34.0,29,NIR - Solicitacao Leito,2026-01-22 15:18:43,Consequatur ut inventore.,Baixa,Resolvido,2026-02-08 15:18:43,Thomas Cassiano,Commodi facilis odit id quas.
-9,1,296.0,73.0,29,Queda Paciente,2025-06-06 16:50:50,Doloremque quia cupiditate suscipit porro necessitatibus. Accusantium omnis aliquam praesentium veniam assumenda.,Alta,Em Andamento,,,Saepe eius perspiciatis earum.
-10,2,,69.0,4,SAC - Sugestao,2025-10-22 23:52:53,Nisi qui illo impedit aspernatur maiores quas.,Alta,Cancelado,,Mariana da Cunha,
-11,1,335.0,,19,NIR - Transferencia,2025-06-27 06:50:04,Optio in minus occaecati a facere.,Baixa,Cancelado,,Leonardo Sá,
-12,1,494.0,,36,Erro Medicacao,2025-10-11 18:32:21,Veritatis nemo tempora eos animi ea quam cum.,Baixa,Resolvido,2025-10-26 18:32:21,,
-13,2,134.0,15.0,24,Incidente Interno,2025-07-10 01:23:46,Ullam quod dolore laudantium nesciunt illum tempora.,Baixa,Fechado,2025-08-03 01:23:46,,
-14,1,,42.0,49,Incidente Interno,2025-07-10 17:15:16,Eum quibusdam soluta minima.,Critica,Resolvido,2025-08-02 17:15:16,João Gabriel Gonçalves,Nobis praesentium voluptas quia eos pariatur.
-15,2,137.0,,19,Queda Paciente,2026-04-23 18:26:14,Enim eaque nam aliquid tempora. Quos doloribus tempore.,Media,Em Analise,,,Corrupti voluptas architecto.
-16,3,368.0,96.0,22,Queda Paciente,2025-06-24 06:42:43,Ullam saepe ad nihil unde ipsam. Laborum voluptates excepturi doloremque ratione minima molestias.,Critica,Resolvido,2025-07-02 06:42:43,,Quasi aspernatur nostrum.
-17,3,441.0,44.0,15,NIR - Solicitacao Leito,2025-05-30 12:55:36,Dolores consequatur praesentium incidunt odio nulla.,Media,Cancelado,,Julia Mendonça,
-18,3,414.0,31.0,27,Queda Paciente,2026-02-21 18:58:37,Iure eos odit placeat soluta est fugiat. Fuga quos ea aliquam alias placeat.,Media,Resolvido,2026-03-09 18:58:37,Camila Lima,
-19,3,279.0,37.0,30,Queda Paciente,2026-04-07 05:27:42,Occaecati blanditiis odio eveniet optio autem.,Critica,Cancelado,,Levi Monteiro,
-20,2,,,10,Queda Paciente,2025-08-24 19:51:00,Architecto dignissimos qui doloribus.,Critica,Aberto,,Maysa Ramos,
-21,2,,,46,NIR - Transferencia,2025-09-24 12:26:02,Eius harum adipisci. Provident beatae cumque inventore odit reiciendis.,Alta,Resolvido,2025-10-17 12:26:02,,
-22,2,182.0,46.0,46,Erro Medicacao,2025-10-14 15:34:53,Suscipit id sit officiis pariatur. Magni enim eum minima dolores.,Media,Fechado,2025-10-29 15:34:53,Sr. Pedro Henrique Guerra,Quia adipisci suscipit amet.
-23,3,440.0,24.0,16,NIR - Transferencia,2025-10-08 03:23:46,Quod hic voluptatibus eos consectetur provident autem.,Critica,Em Andamento,,Davi Luiz Marques,Magnam ratione aliquam asperiores fugit.
-24,2,442.0,,13,Erro Medicacao,2025-05-22 04:09:11,Laborum ducimus voluptate veniam ullam.,Critica,Aberto,,Dra. Alexia Lima,
-25,1,,68.0,17,Erro Medicacao,2026-01-19 12:03:15,Nam placeat repudiandae iste. Beatae dolorum et id quae.,Critica,Cancelado,,Noah Correia,
-26,1,106.0,68.0,27,NIR - Solicitacao Leito,2025-06-17 17:20:59,Nobis alias velit est repellat.,Media,Em Andamento,,,At cumque nihil voluptatibus ipsam.
-27,3,220.0,60.0,50,NIR - Solicitacao Leito,2025-11-29 14:16:14,Aspernatur esse fuga consequatur vel facere dolores. Corporis consequatur modi.,Baixa,Em Analise,,,
-28,2,,88.0,34,Queda Paciente,2025-10-03 00:01:00,Natus provident earum optio veritatis quod tenetur. Natus alias aliquid tenetur.,Alta,Resolvido,2025-10-18 00:01:00,Sr. Yago Cirino,In laboriosam sequi temporibus temporibus.
-29,2,418.0,73.0,33,SAC - Sugestao,2026-01-01 11:15:35,Deleniti ex magni. Perferendis nisi excepturi maxime ratione.,Media,Aberto,,Maria Azevedo,Quasi quae odio nisi.
-30,3,,76.0,47,NIR - Solicitacao Leito,2025-10-16 07:03:28,Eos illum eum sapiente consequuntur ratione. Quisquam repellendus deleniti tempore explicabo atque.,Media,Cancelado,,,
-31,3,,55.0,5,NIR - Transferencia,2026-04-15 12:41:52,Accusamus reprehenderit quas et.,Critica,Em Analise,,Jade Mendes,Doloremque iusto odit placeat.
-32,3,,48.0,50,Erro Medicacao,2025-08-08 05:45:56,Adipisci harum eligendi laborum molestias.,Baixa,Aberto,,,Sit quibusdam reprehenderit dolorum.
-33,2,461.0,14.0,41,Incidente Interno,2025-06-26 01:45:12,Odit dolorem vel architecto. In facilis dolor incidunt officia delectus.,Baixa,Cancelado,,,Ipsa officiis ea.
-34,3,19.0,33.0,33,Incidente Interno,2025-10-11 13:52:32,Tenetur asperiores voluptas sapiente doloremque maxime corrupti. Natus occaecati voluptatibus quisquam voluptas eveniet aliquid.,Baixa,Em Andamento,,Clarice Correia,Amet cum atque.
-35,2,347.0,,5,NIR - Solicitacao Leito,2025-10-18 03:24:28,Et expedita amet sint sapiente.,Alta,Aberto,,,
-36,1,314.0,63.0,2,SAC - Reclamacao,2025-08-13 11:02:05,Voluptatibus deleniti aliquid dolorem dolorem ipsum corporis.,Alta,Resolvido,2025-09-07 11:02:05,,
-37,3,,,15,SAC - Sugestao,2025-07-16 00:52:22,Ad sunt adipisci facilis.,Critica,Cancelado,,,Quo minima dicta in.
-38,2,,13.0,32,NIR - Solicitacao Leito,2026-04-11 20:06:34,Illum accusantium similique doloremque. Harum praesentium reiciendis quisquam.,Critica,Aberto,,Milena Silva,Ab deleniti debitis praesentium debitis dolores.
-39,2,346.0,90.0,35,SAC - Reclamacao,2025-09-05 15:26:48,Voluptas amet sed voluptates impedit corrupti eaque.,Alta,Em Analise,,Luna Monteiro,
-40,2,,14.0,2,NIR - Solicitacao Leito,2026-01-23 06:30:05,Libero delectus excepturi accusantium itaque nemo.,Media,Resolvido,2026-01-29 06:30:05,,Facilis delectus perferendis sapiente atque.
-41,1,405.0,,32,SAC - Reclamacao,2026-01-11 10:37:20,Eum accusantium temporibus architecto id qui. Facere odio sapiente esse.,Alta,Aberto,,,
-42,3,467.0,49.0,38,Incidente Interno,2026-02-20 15:33:41,Et maxime ducimus culpa adipisci.,Alta,Fechado,2026-02-23 15:33:41,,Neque aperiam asperiores.
-43,1,,28.0,4,NIR - Solicitacao Leito,2026-01-23 07:11:42,Sunt quidem illum. Sed a reprehenderit.,Alta,Aberto,,Luara Nogueira,
-44,3,,78.0,34,Erro Medicacao,2025-07-07 12:59:10,Earum itaque maiores minus quam deleniti hic. Consectetur tempora eveniet porro doloremque illum.,Baixa,Em Andamento,,,Debitis quasi quaerat corrupti.
-45,3,259.0,63.0,27,SAC - Reclamacao,2025-06-20 01:13:42,Sint harum et rerum eaque.,Critica,Cancelado,,,Recusandae beatae autem at.
-46,3,404.0,58.0,23,SAC - Sugestao,2025-12-17 23:22:02,Doloremque vitae debitis adipisci magni eius. Architecto quisquam amet sunt repudiandae similique.,Media,Em Analise,,,
-47,2,396.0,28.0,1,NIR - Solicitacao Leito,2026-01-11 07:34:29,Consequatur quidem officiis saepe suscipit nemo rerum.,Baixa,Fechado,2026-01-20 07:34:29,,
-48,1,,72.0,3,Incidente Interno,2025-06-10 06:40:42,Aliquam asperiores rem suscipit pariatur.,Alta,Fechado,2025-06-29 06:40:42,Davi Pacheco,
-49,1,,61.0,16,Erro Medicacao,2025-11-24 02:53:07,Ut tempore ex doloribus inventore. Molestias deleniti omnis repellat voluptatibus.,Alta,Resolvido,2025-12-23 02:53:07,,
-50,1,85.0,97.0,46,NIR - Transferencia,2026-03-12 10:13:49,Unde sit cupiditate magni maiores accusamus quo placeat.,Alta,Fechado,2026-03-15 10:13:49,,
-51,2,41.0,90.0,50,SAC - Reclamacao,2025-08-12 03:11:48,Laudantium ab magnam. Tenetur illum corrupti corrupti similique libero.,Critica,Fechado,2025-08-25 03:11:48,Ana Lívia Siqueira,Nesciunt natus ipsa veniam beatae omnis.
-52,1,,6.0,31,SAC - Reclamacao,2025-06-17 06:54:04,Officia ipsa porro voluptatem dolorum suscipit.,Baixa,Em Andamento,,,
-53,3,136.0,99.0,39,SAC - Reclamacao,2025-05-27 04:28:39,Neque laboriosam placeat exercitationem. Suscipit dicta facere perferendis possimus doloremque quasi.,Critica,Resolvido,2025-06-01 04:28:39,,
-54,1,458.0,76.0,48,Queda Paciente,2025-12-01 00:04:02,Dolorum ab quidem saepe. Iste voluptatem necessitatibus in.,Baixa,Em Andamento,,Davi Lucas Viana,
-55,1,19.0,40.0,25,SAC - Sugestao,2026-04-06 06:34:13,Minima nobis doloremque nemo corporis. Sequi molestias eius sit.,Critica,Em Andamento,,,Tempore quibusdam a ratione nemo veritatis.
-56,1,245.0,,44,Erro Medicacao,2026-03-13 08:39:00,Inventore neque beatae praesentium dolore. At culpa magnam harum a.,Alta,Cancelado,,,Temporibus ea illum repellendus cumque eos.
-57,1,64.0,48.0,16,Erro Medicacao,2026-05-07 00:52:14,Pariatur quos impedit non voluptas cum eum.,Media,Em Andamento,,,Culpa voluptates tempore.
-58,1,,55.0,24,NIR - Transferencia,2025-06-01 21:14:28,Dolore ut optio quae molestias expedita necessitatibus.,Media,Em Analise,,Srta. Maria Cecília Guerra,
-59,1,426.0,55.0,39,Queda Paciente,2025-11-09 09:14:08,Ducimus sit dicta temporibus magni delectus porro. Natus in doloremque.,Critica,Resolvido,2025-11-19 09:14:08,João Miguel Correia,
-60,1,34.0,69.0,17,Queda Paciente,2025-09-25 06:42:42,Cupiditate deserunt facere. Assumenda repudiandae earum.,Media,Em Analise,,Luan Caldeira,
-61,3,426.0,,36,Incidente Interno,2026-02-23 16:45:42,Laboriosam amet qui deserunt. Quisquam quo aut delectus.,Critica,Fechado,2026-03-23 16:45:42,Pedro Miguel Cardoso,
-62,1,332.0,75.0,29,Queda Paciente,2025-10-24 10:09:24,Fugiat temporibus temporibus. Adipisci eius dolorem.,Critica,Aberto,,Anna Liz Costa,Nostrum explicabo asperiores.
-63,2,453.0,9.0,2,SAC - Sugestao,2026-05-04 19:18:00,Ipsa voluptatum qui consectetur veniam.,Media,Resolvido,2026-05-29 19:18:00,,Laborum fugiat libero ipsa tempore.
-64,2,184.0,,16,SAC - Reclamacao,2026-05-20 10:22:42,Harum fuga cupiditate dolores facilis.,Baixa,Fechado,2026-05-30 10:22:42,Ravy da Cunha,
-65,3,,93.0,7,SAC - Sugestao,2025-07-09 03:27:44,Labore qui rerum delectus.,Media,Fechado,2025-07-20 03:27:44,Enzo Gabriel Cavalcante,Minima quam aliquid iste.
-66,3,304.0,54.0,2,Queda Paciente,2025-08-01 10:27:54,Nulla fugiat voluptas accusantium commodi quis molestiae omnis.,Baixa,Fechado,2025-08-26 10:27:54,,Culpa eum enim vero molestias.
-67,1,480.0,,30,SAC - Sugestao,2025-12-12 13:23:31,Sequi qui odio modi aspernatur architecto.,Media,Em Andamento,,Alice Porto,
-68,2,470.0,97.0,49,SAC - Sugestao,2026-05-13 17:41:03,Illum soluta sunt libero. Commodi ratione modi rerum perspiciatis.,Baixa,Em Analise,,,
-69,3,453.0,81.0,36,SAC - Sugestao,2026-02-01 08:56:13,Eveniet dicta accusamus rerum.,Alta,Resolvido,2026-03-03 08:56:13,Lunna Alves,Vitae fuga beatae delectus tenetur.
-70,1,278.0,94.0,28,SAC - Sugestao,2026-01-10 03:34:18,Molestiae cum voluptatem consequatur perspiciatis labore est. Eligendi aspernatur labore aperiam doloribus dolorem.,Baixa,Cancelado,,,
-71,2,7.0,88.0,22,SAC - Sugestao,2025-06-24 13:40:59,Harum quia animi veniam.,Baixa,Fechado,2025-06-27 13:40:59,Sr. Matteo da Cunha,Officia magnam quo cupiditate.
-72,1,11.0,16.0,45,Queda Paciente,2025-12-17 06:32:25,Fuga sunt excepturi natus. Debitis corporis totam blanditiis praesentium impedit.,Critica,Cancelado,,,
-73,1,192.0,3.0,35,NIR - Transferencia,2026-01-06 00:18:07,Occaecati earum illum animi. Recusandae dignissimos dicta.,Critica,Cancelado,,Vinicius Câmara,
-74,3,129.0,10.0,4,Queda Paciente,2025-09-12 15:45:24,Error rerum repellat voluptate impedit. Iusto ipsam soluta ipsa maiores ex.,Critica,Aberto,,,Accusantium a atque doloremque eaque repellat.
-75,2,,47.0,15,NIR - Solicitacao Leito,2026-02-08 18:30:48,Quas minus fugiat.,Alta,Aberto,,,
+1,2,,61.0,11,Incidente Interno,2025-12-22 15:20:18,Deserunt explicabo enim dolorum. Nisi voluptatum et fuga suscipit libero laborum.,Media,Aberto,,,Quisquam harum quae officia perferendis repellat.
+2,3,16.0,,3,Incidente Interno,2026-02-02 04:13:26,Ea vero quos. Dignissimos ea quod.,Critica,Resolvido,2026-02-21 04:13:26,,
+3,1,322.0,99.0,4,SAC - Sugestao,2025-12-23 03:37:44,Cum quam dolores. Odit architecto aliquid earum.,Critica,Cancelado,,Bernardo Pacheco,Similique maxime error.
+4,3,,74.0,34,Queda Paciente,2025-06-04 10:08:37,Facere nihil impedit ea ab maiores.,Critica,Em Andamento,,Ian Albuquerque,Pariatur sed quisquam unde.
+5,1,322.0,93.0,14,Queda Paciente,2026-03-03 08:35:23,Iusto accusantium at amet corporis nam numquam. Doloremque quia sunt maiores.,Media,Aberto,,,
+6,2,,2.0,8,Queda Paciente,2025-10-26 19:20:22,Error saepe voluptate nihil ad officiis iure nam.,Media,Resolvido,2025-11-21 19:20:22,Emanuella Fonseca,
+7,2,338.0,36.0,19,SAC - Reclamacao,2025-07-27 19:09:33,Velit voluptatem tempora.,Baixa,Cancelado,,Gael Lopes,Veritatis et fugiat esse distinctio ut.
+8,2,437.0,72.0,36,NIR - Solicitacao Leito,2026-04-14 13:58:56,Inventore omnis accusamus. Corrupti officia consectetur officiis.,Alta,Em Andamento,,,
+9,3,480.0,82.0,35,NIR - Transferencia,2025-08-14 07:24:16,Consectetur suscipit porro harum rerum ullam odio. Quia molestias unde tenetur consequatur culpa recusandae.,Critica,Em Andamento,,,Dolorem consequuntur accusantium inventore.
+10,2,,3.0,40,Incidente Interno,2025-07-13 21:30:55,Possimus delectus alias vel accusantium. Porro alias quae nihil.,Media,Aberto,,,
+11,2,346.0,26.0,43,Erro Medicacao,2025-06-24 10:39:18,Commodi similique odio ipsa voluptas optio repudiandae. Voluptas enim ducimus repellat consequuntur quod eligendi.,Media,Aberto,,,Porro odit placeat.
+12,1,104.0,94.0,27,Erro Medicacao,2025-06-05 08:29:42,Sed provident velit quibusdam eius. Occaecati doloremque quia minima aperiam.,Critica,Em Andamento,,,
+13,2,436.0,,34,NIR - Transferencia,2025-10-31 14:14:31,Doloremque ad ratione minima.,Baixa,Fechado,2025-11-25 14:14:31,,
+14,2,,64.0,19,Incidente Interno,2026-01-11 03:15:47,Amet necessitatibus numquam adipisci perspiciatis corporis.,Baixa,Em Andamento,,,Ea quis labore illo est corporis.
+15,3,98.0,65.0,2,SAC - Reclamacao,2026-01-02 16:30:00,Ullam repellat culpa. Magnam ducimus dolorem.,Critica,Aberto,,Isis Sales,Iusto suscipit repudiandae.
+16,3,11.0,75.0,27,Incidente Interno,2026-05-18 03:05:43,Ipsam necessitatibus expedita iusto perspiciatis illum. Molestiae alias ea beatae.,Media,Aberto,,Bruno Abreu,Explicabo earum tempora fugiat.
+17,3,77.0,87.0,21,NIR - Transferencia,2026-02-25 02:11:56,Minima possimus temporibus ratione nesciunt voluptates.,Media,Em Andamento,,,
+18,1,52.0,,35,SAC - Reclamacao,2026-03-03 19:17:28,Eos recusandae eum voluptatibus accusantium. Esse voluptatem asperiores sapiente.,Critica,Fechado,2026-04-01 19:17:28,Sra. Manuella Dias,
+19,3,93.0,,13,Incidente Interno,2025-06-17 15:52:14,Illum quo natus odio odio laborum. Ipsam numquam earum id.,Critica,Aberto,,Pietra Andrade,
+20,1,497.0,95.0,31,Queda Paciente,2026-04-05 03:23:03,Distinctio expedita saepe nesciunt animi.,Critica,Fechado,2026-04-27 03:23:03,Stella Nunes,Blanditiis animi a natus asperiores.
+21,1,,,43,NIR - Solicitacao Leito,2025-10-24 23:53:06,Doloremque dolor sapiente saepe.,Critica,Fechado,2025-11-07 23:53:06,Emanuelly da Rocha,
+22,1,226.0,62.0,3,Erro Medicacao,2026-04-27 05:04:56,Rem libero in nesciunt. Voluptate necessitatibus atque eveniet molestias.,Media,Em Andamento,,,Quibusdam voluptatibus necessitatibus ducimus ratione.
+23,2,105.0,,44,SAC - Sugestao,2025-11-15 08:52:39,Iusto cumque aut fugiat.,Critica,Em Analise,,,Eligendi rem error.
+24,3,,,25,NIR - Solicitacao Leito,2025-09-19 21:26:51,Cupiditate soluta impedit nemo soluta nulla.,Media,Aberto,,Davi Miguel Camargo,
+25,1,24.0,78.0,44,SAC - Reclamacao,2026-02-20 07:48:52,Sunt sapiente eum ab iste consequuntur ipsa. Nulla at laboriosam harum ducimus.,Media,Em Andamento,,,Facere dolor laboriosam rem.
+26,3,,99.0,32,Incidente Interno,2026-04-05 01:23:07,Blanditiis architecto molestiae dolorum eveniet reiciendis eos. Ducimus maxime odit eaque aperiam deleniti.,Alta,Fechado,2026-04-30 01:23:07,,
+27,3,401.0,97.0,42,SAC - Sugestao,2025-10-22 22:39:34,Aspernatur beatae similique.,Critica,Em Analise,,Murilo Pires,Dolorum ut unde.
+28,3,,66.0,37,NIR - Solicitacao Leito,2025-06-16 14:09:19,Non aperiam atque animi.,Alta,Fechado,2025-06-19 14:09:19,Clara Barros,
+29,2,,,9,Erro Medicacao,2026-02-16 19:35:47,Aut quibusdam eos.,Media,Em Andamento,,,Adipisci ad laboriosam atque.
+30,1,424.0,76.0,44,NIR - Solicitacao Leito,2025-11-11 05:19:45,A voluptatibus dolorem modi a. Repudiandae delectus corrupti officiis.,Critica,Resolvido,2025-11-19 05:19:45,,
+31,2,,72.0,14,SAC - Sugestao,2026-03-18 08:36:52,Eum dicta dolor saepe dolorum. Corrupti maiores minima quas assumenda saepe libero.,Critica,Aberto,,Sra. Mariana da Paz,Nobis rerum perferendis.
+32,1,334.0,58.0,27,Queda Paciente,2026-03-08 18:59:53,Incidunt molestias aliquam fugit porro ab.,Media,Cancelado,,,Adipisci facere ullam sapiente magni.
+33,3,,27.0,4,Queda Paciente,2026-03-18 02:54:20,Quae tempora odio porro a. Hic rerum voluptate reprehenderit et.,Baixa,Cancelado,,,
+34,3,423.0,93.0,46,NIR - Solicitacao Leito,2025-10-01 01:06:50,Iusto officiis dolore recusandae placeat. Id exercitationem alias voluptates.,Alta,Cancelado,,Dr. Henry Porto,Iure amet earum rerum dolor.
+35,2,,85.0,13,Incidente Interno,2025-09-10 09:03:46,Amet maiores placeat inventore aliquid illo harum provident.,Baixa,Aberto,,Luiz Henrique Almeida,
+36,3,,38.0,46,Erro Medicacao,2025-09-29 13:10:10,Odio voluptates itaque itaque repudiandae.,Media,Em Andamento,,Ágatha Abreu,
+37,2,,,4,Queda Paciente,2026-04-14 23:04:02,Sed excepturi laborum in consectetur provident cum aliquid.,Media,Fechado,2026-04-15 23:04:02,Alexandre Nogueira,
+38,3,,21.0,19,Incidente Interno,2026-01-21 15:45:03,Architecto at adipisci officiis in similique recusandae.,Media,Aberto,,Yasmin Ferreira,Nemo est perspiciatis eos.
+39,3,,55.0,9,Erro Medicacao,2025-11-18 22:34:09,Neque culpa sint dolorum.,Alta,Em Analise,,,
+40,1,134.0,,43,NIR - Solicitacao Leito,2025-12-04 04:47:06,Ullam dolorum ea ipsum accusantium dignissimos debitis. Officiis error iure assumenda error a voluptate.,Baixa,Cancelado,,,Facilis velit quos rem repellendus eligendi.
+41,3,48.0,45.0,38,NIR - Solicitacao Leito,2025-09-10 04:18:25,Cupiditate officia deleniti incidunt cupiditate nobis rerum.,Media,Em Andamento,,Kamilly Barbosa,
+42,3,,39.0,15,SAC - Reclamacao,2026-02-17 23:17:43,Quia sit numquam facere saepe modi ullam. Doloribus voluptatem sapiente quae animi modi.,Critica,Cancelado,,Calebe Andrade,
+43,3,299.0,82.0,1,NIR - Solicitacao Leito,2026-05-02 18:05:18,Soluta illo laborum sed. Ipsum in harum incidunt eius porro blanditiis nobis.,Alta,Aberto,,,Vitae veniam excepturi corrupti blanditiis.
+44,1,,53.0,45,NIR - Solicitacao Leito,2025-06-29 19:59:10,Excepturi vel earum quis fugiat deleniti amet.,Critica,Resolvido,2025-07-22 19:59:10,Marcela Barros,Consequuntur quasi officiis quos culpa eum.
+45,3,348.0,,10,NIR - Transferencia,2025-10-08 05:16:05,Aliquam quasi ea autem cum cupiditate quisquam. Ipsam autem laudantium minima quaerat iste voluptas.,Critica,Cancelado,,,Deleniti omnis dolor.
+46,1,386.0,60.0,46,SAC - Reclamacao,2025-07-05 05:51:49,Explicabo dolorem architecto perspiciatis maxime ipsa eligendi placeat. Nihil culpa libero itaque non.,Baixa,Em Analise,,Ian Ribeiro,
+47,1,352.0,2.0,4,SAC - Sugestao,2026-03-03 15:59:34,Numquam accusantium repellendus nemo. Alias voluptates repellat illum.,Baixa,Em Analise,,Alexandre Pires,Quasi illo omnis optio.
+48,2,397.0,24.0,34,Incidente Interno,2026-01-28 20:20:51,Non dolor nulla recusandae.,Media,Fechado,2026-02-12 20:20:51,,
+49,3,222.0,6.0,13,Incidente Interno,2025-09-19 02:21:41,Omnis vitae autem laudantium quisquam quasi.,Media,Em Analise,,,
+50,1,487.0,41.0,21,Incidente Interno,2025-07-01 10:24:00,Maiores porro sequi perferendis a tempora. Placeat neque est officiis odio.,Baixa,Aberto,,Anthony Gabriel Pires,
+51,3,317.0,,7,SAC - Reclamacao,2025-12-24 13:17:29,Corrupti ullam quia officia corrupti tenetur illo odit. Sit excepturi cumque dignissimos culpa.,Baixa,Cancelado,,João Novaes,
+52,2,,80.0,44,SAC - Sugestao,2025-12-10 09:13:43,Quod facilis corrupti saepe. Culpa hic nesciunt qui quas distinctio.,Critica,Fechado,2025-12-18 09:13:43,,Sed architecto totam nobis soluta.
+53,1,119.0,93.0,50,SAC - Reclamacao,2025-06-05 05:00:15,Sit dignissimos odio ducimus vel.,Critica,Resolvido,2025-06-27 05:00:15,,
+54,2,321.0,88.0,24,SAC - Sugestao,2025-11-21 00:31:07,Porro quos quos sed error.,Media,Aberto,,,
+55,1,,61.0,30,NIR - Transferencia,2025-07-01 08:46:06,Omnis dolore numquam incidunt qui fugiat necessitatibus magni.,Baixa,Em Analise,,,
+56,1,180.0,88.0,48,NIR - Solicitacao Leito,2026-02-27 07:20:32,Dolore iure aliquid iusto mollitia error. Nam ipsum delectus architecto fugit adipisci.,Media,Em Andamento,,João Lucas das Neves,
+57,3,403.0,45.0,22,SAC - Reclamacao,2025-11-20 08:58:36,Ab enim ipsum laudantium voluptatem.,Baixa,Fechado,2025-12-05 08:58:36,,
+58,3,57.0,89.0,45,SAC - Sugestao,2026-04-02 14:48:48,Vitae magni quam ipsam unde soluta quo.,Alta,Aberto,,,
+59,2,,57.0,44,SAC - Reclamacao,2025-10-03 21:59:45,Nulla eum explicabo eum labore quae. Unde iste ipsum optio non commodi eos.,Critica,Cancelado,,,
+60,3,114.0,7.0,9,NIR - Transferencia,2026-02-15 07:48:19,Assumenda corporis minus totam nemo molestiae deleniti.,Critica,Resolvido,2026-03-16 07:48:19,João Guilherme Lima,
+61,3,110.0,52.0,19,Queda Paciente,2025-11-11 15:42:02,Totam voluptatum hic sed nostrum.,Alta,Aberto,,,
+62,2,,34.0,32,Incidente Interno,2025-05-31 03:30:57,Ipsam commodi iusto dolore delectus modi.,Baixa,Resolvido,2025-06-08 03:30:57,Sra. Bárbara Machado,
+63,2,,99.0,38,SAC - Reclamacao,2025-10-08 04:20:00,Aliquam sapiente amet repellendus quas minus. Minima maxime exercitationem minus est vitae veniam.,Alta,Cancelado,,,Blanditiis eius eveniet ab non.
+64,2,,65.0,11,NIR - Transferencia,2026-01-22 19:33:52,Cum tempore quae tempore quisquam blanditiis. Modi fugiat vel quas.,Alta,Aberto,,Davi Aragão,
+65,3,471.0,2.0,31,SAC - Reclamacao,2026-05-17 09:40:17,Reiciendis perspiciatis repellat reprehenderit.,Alta,Em Analise,,,
+66,1,394.0,68.0,17,NIR - Solicitacao Leito,2025-07-18 16:20:33,Omnis distinctio maxime fugit est. Occaecati beatae et delectus.,Alta,Aberto,,Julia Pimenta,Quis unde nihil sunt dolorum.
+67,3,296.0,37.0,26,NIR - Transferencia,2026-01-09 02:25:27,Possimus alias maxime libero hic.,Media,Em Analise,,,
+68,3,97.0,27.0,41,Incidente Interno,2025-10-29 16:21:28,Perferendis fugiat dolorum sequi accusamus. Occaecati aperiam tempora quos sint.,Media,Cancelado,,Dra. Heloísa Novaes,
+69,1,97.0,11.0,1,NIR - Transferencia,2026-05-18 18:25:37,Harum facilis nulla aliquam ut vel. Ipsa expedita amet suscipit non debitis.,Media,Cancelado,,Valentim Costa,Commodi dolores laudantium praesentium reprehenderit.
+70,1,,71.0,43,NIR - Transferencia,2025-07-04 12:26:26,Pariatur mollitia ipsa veritatis atque distinctio.,Critica,Fechado,2025-07-13 12:26:26,,
+71,2,48.0,67.0,49,Queda Paciente,2026-01-18 03:32:06,Explicabo repudiandae omnis quo dolore voluptatem officiis occaecati.,Baixa,Fechado,2026-02-11 03:32:06,,
+72,3,91.0,92.0,24,NIR - Transferencia,2026-05-18 09:15:04,Sint est id hic accusamus ipsum. Dolor quidem minus sit quod eligendi velit minima.,Media,Aberto,,,Voluptatem inventore voluptatibus rerum molestias.
+73,2,217.0,21.0,40,Erro Medicacao,2026-01-21 04:18:11,Dolore voluptas non quam non perferendis. Iste cumque deserunt temporibus vel quisquam impedit laboriosam.,Media,Em Andamento,,,
+74,2,362.0,32.0,33,SAC - Sugestao,2025-09-16 10:12:07,Praesentium natus praesentium suscipit non inventore nemo. Impedit saepe dolores nostrum dolore ipsam fugiat.,Baixa,Fechado,2025-10-03 10:12:07,,
+75,3,340.0,94.0,45,SAC - Reclamacao,2025-09-03 14:11:43,Modi ipsa minima dicta rerum ut. Soluta blanditiis odio incidunt tempora non ab.,Critica,Fechado,2025-09-11 14:11:43,,Aspernatur totam magni vero ea vitae.

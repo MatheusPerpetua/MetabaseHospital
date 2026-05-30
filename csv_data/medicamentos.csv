@@ -1,51 +1,51 @@
 ﻿medicamento_id,nome_comercial,principio_ativo,concentracao,forma_farmaceutica,unidade_medida,estoque_minimo_sugerido,data_registro,fabricante
-1,Sinvastatina Repudiandae,Paracetamol,258ml,Cápsula,g,206,2021-08-22,Costela S.A.
-2,Losartana Mollitia,Omeprazol,902mg,Xarope,ml,177,2020-04-20,Cirino - ME
-3,Ibuprofeno Repellendus,Paracetamol,311mg,Pomada,ml,243,2016-10-19,Peixoto S.A.
-4,Omeprazol Natus,Sinvastatina,776ml,Injetável,g,463,2022-12-27,Pastor Cassiano S/A
-5,Omeprazol Voluptatibus,Amoxicilina,510mg,Injetável,ml,108,2020-11-29,Macedo
-6,Paracetamol Quaerat,Sinvastatina,610ml,Pomada,ml,478,2017-04-19,Fonseca - ME
-7,Omeprazol Itaque,Sinvastatina,109ml,Comprimido,UI,76,2018-09-16,Freitas
-8,Sinvastatina Explicabo,Paracetamol,269ml,Cápsula,UI,325,2018-04-13,Carvalho
-9,Dipirona Harum,Amoxicilina,844mg,Injetável,UI,440,2019-02-17,Vieira
-10,Dipirona Eum,Paracetamol,580mg,Cápsula,mg,93,2019-01-01,Azevedo
-11,Sinvastatina Tempore,Paracetamol,144ml,Injetável,g,295,2021-04-20,Guerra
-12,Losartana Aperiam,Sinvastatina,402mg,Pomada,UI,190,2023-08-19,Barbosa
-13,Omeprazol Quam,Paracetamol,111ml,Injetável,UI,413,2020-05-17,Pastor
-14,Paracetamol Molestiae,Sinvastatina,107mg,Cápsula,UI,311,2023-01-18,Leão Andrade Ltda.
-15,Losartana Veritatis,Losartana,449ml,Cápsula,UI,65,2021-10-09,Correia
-16,Omeprazol Aut,Losartana,580mg,Pomada,UI,223,2022-05-24,Nascimento
-17,Ibuprofeno Voluptate,Losartana,386ml,Xarope,UI,277,2025-03-25,Silveira e Filhos
-18,Paracetamol Maiores,Losartana,479mg,Injetável,UI,437,2018-06-17,Gomes
-19,Omeprazol Qui,Losartana,623mg,Pomada,mg,437,2025-03-11,Marques
-20,Ibuprofeno Sed,Sinvastatina,977ml,Comprimido,UI,302,2024-01-07,Câmara e Filhos
-21,Paracetamol Ab,Amoxicilina,994ml,Cápsula,g,51,2018-05-24,Barros S/A
-22,Losartana Assumenda,Losartana,813ml,Xarope,g,162,2025-04-05,Costela S.A.
-23,Sinvastatina Laudantium,Amoxicilina,414mg,Comprimido,mg,190,2016-07-27,Barros Lopes e Filhos
-24,Paracetamol Asperiores,Paracetamol,194ml,Injetável,g,64,2018-09-05,Pereira
-25,Ibuprofeno Vel,Ibuprofeno,456mg,Xarope,g,132,2025-02-09,Machado
-26,Sinvastatina Id,Losartana,805mg,Cápsula,ml,20,2024-07-18,Santos - EI
-27,Ibuprofeno Saepe,Omeprazol,907ml,Comprimido,UI,195,2022-12-11,da Mata - ME
-28,Losartana Consectetur,Amoxicilina,220ml,Xarope,mg,449,2020-10-30,Garcia
-29,Amoxicilina Laudantium,Omeprazol,470mg,Comprimido,ml,362,2019-12-19,Nogueira
-30,Dipirona Voluptas,Sinvastatina,201mg,Pomada,ml,408,2016-12-31,Cavalcanti S/A
-31,Dipirona Animi,Ibuprofeno,783ml,Pomada,mg,236,2020-07-14,Vasconcelos
-32,Paracetamol Aut,Paracetamol,507mg,Comprimido,UI,482,2021-10-19,Sá
-33,Ibuprofeno Minus,Omeprazol,708ml,Cápsula,mg,103,2020-10-24,Mendonça Garcia e Filhos
-34,Ibuprofeno Fugit,Sinvastatina,605mg,Pomada,UI,389,2021-08-31,Brito Cavalcante - EI
-35,Paracetamol At,Amoxicilina,970mg,Cápsula,g,120,2020-08-22,Pimenta - EI
-36,Sinvastatina Architecto,Ibuprofeno,539ml,Injetável,ml,37,2024-02-19,Moraes Costela S.A.
-37,Amoxicilina Laboriosam,Dipirona,704ml,Comprimido,g,404,2018-07-08,Castro e Filhos
-38,Dipirona Quo,Dipirona,58mg,Pomada,g,400,2020-01-18,Duarte
-39,Amoxicilina Temporibus,Ibuprofeno,729mg,Injetável,UI,95,2020-05-15,Barros
-40,Losartana Similique,Omeprazol,709ml,Comprimido,mg,135,2019-11-12,Sampaio
-41,Losartana Facere,Sinvastatina,752ml,Cápsula,mg,478,2023-12-08,Caldeira
-42,Ibuprofeno Debitis,Amoxicilina,973mg,Cápsula,ml,228,2020-06-19,Nascimento
-43,Omeprazol Nam,Losartana,93ml,Comprimido,g,439,2022-03-04,Pinto Nascimento e Filhos
-44,Dipirona Commodi,Dipirona,977mg,Comprimido,ml,494,2020-01-21,Abreu
-45,Sinvastatina Fuga,Ibuprofeno,933ml,Comprimido,mg,355,2024-07-04,Vasconcelos - ME
-46,Sinvastatina Sed,Omeprazol,695mg,Comprimido,ml,91,2021-05-23,Farias Vieira e Filhos
-47,Amoxicilina Minus,Dipirona,840mg,Cápsula,g,388,2023-01-12,Peixoto S.A.
-48,Ibuprofeno Maxime,Amoxicilina,701mg,Pomada,mg,312,2019-06-09,Montenegro
-49,Amoxicilina Provident,Omeprazol,502mg,Cápsula,mg,91,2023-12-15,da Mota e Filhos
-50,Omeprazol Omnis,Omeprazol,746mg,Comprimido,mg,137,2018-07-25,Silveira
+1,Omeprazol Eligendi,Ibuprofeno,959ml,Pomada,ml,66,2025-02-07,Alves - EI
+2,Sinvastatina Cumque,Ibuprofeno,746mg,Injetável,g,124,2019-03-03,Gomes e Filhos
+3,Paracetamol Voluptates,Ibuprofeno,782mg,Xarope,mg,69,2017-04-14,Martins
+4,Amoxicilina Sed,Omeprazol,735ml,Comprimido,UI,294,2017-08-27,da Conceição - ME
+5,Ibuprofeno Cupiditate,Ibuprofeno,339mg,Comprimido,g,15,2024-04-22,Mendes - ME
+6,Losartana Iure,Amoxicilina,294mg,Comprimido,mg,220,2021-04-25,Siqueira
+7,Omeprazol Suscipit,Sinvastatina,362ml,Comprimido,ml,53,2018-05-22,Rodrigues - EI
+8,Paracetamol Sint,Amoxicilina,953ml,Pomada,UI,407,2018-06-17,Viana - ME
+9,Dipirona Sapiente,Omeprazol,278mg,Injetável,mg,389,2023-04-06,Vasconcelos
+10,Omeprazol Voluptates,Sinvastatina,302mg,Cápsula,UI,490,2017-06-05,da Mota das Neves S/A
+11,Sinvastatina Explicabo,Amoxicilina,558ml,Pomada,g,324,2019-05-08,Gonçalves e Filhos
+12,Amoxicilina Inventore,Dipirona,781ml,Pomada,ml,230,2024-08-04,Fonseca
+13,Paracetamol Maxime,Dipirona,770ml,Pomada,mg,460,2022-10-04,Fernandes Ltda.
+14,Losartana Temporibus,Losartana,869mg,Injetável,g,39,2023-08-21,Monteiro e Filhos
+15,Paracetamol Enim,Dipirona,940mg,Xarope,mg,73,2020-10-03,Souza S.A.
+16,Dipirona Natus,Paracetamol,606ml,Cápsula,ml,175,2018-08-09,Teixeira
+17,Ibuprofeno Corporis,Sinvastatina,797ml,Xarope,g,331,2018-08-27,Dias
+18,Amoxicilina A,Amoxicilina,989ml,Pomada,ml,424,2018-06-30,Rocha Correia e Filhos
+19,Losartana Quae,Ibuprofeno,542ml,Injetável,g,308,2023-07-15,Ribeiro Leão Ltda.
+20,Paracetamol Libero,Omeprazol,842ml,Comprimido,ml,372,2021-04-11,Freitas - EI
+21,Omeprazol Esse,Dipirona,291mg,Injetável,g,176,2022-02-06,Brito Leão - EI
+22,Sinvastatina Accusamus,Paracetamol,956ml,Cápsula,g,442,2020-08-29,Araújo
+23,Sinvastatina Velit,Paracetamol,716mg,Pomada,mg,419,2022-10-03,Cavalcanti Ltda.
+24,Ibuprofeno Occaecati,Dipirona,159ml,Comprimido,ml,163,2017-07-15,Aragão
+25,Paracetamol Culpa,Amoxicilina,67mg,Comprimido,mg,56,2020-04-30,Vasconcelos S.A.
+26,Amoxicilina Illum,Amoxicilina,781mg,Injetável,ml,179,2023-04-11,Freitas Souza S.A.
+27,Paracetamol Quod,Ibuprofeno,220ml,Injetável,ml,241,2024-03-25,Garcia - ME
+28,Sinvastatina Inventore,Ibuprofeno,301ml,Cápsula,UI,143,2024-11-26,Teixeira
+29,Amoxicilina Quod,Dipirona,581ml,Comprimido,ml,218,2016-10-30,Barros Sales - EI
+30,Dipirona Ex,Dipirona,166ml,Comprimido,ml,117,2023-05-03,Cirino
+31,Paracetamol Iure,Omeprazol,498mg,Xarope,UI,156,2021-11-20,Novaes
+32,Sinvastatina Ea,Dipirona,307mg,Xarope,g,144,2024-03-15,Novaes
+33,Dipirona Quidem,Paracetamol,141mg,Xarope,ml,241,2021-04-20,Macedo e Filhos
+34,Ibuprofeno Repudiandae,Sinvastatina,694mg,Injetável,ml,166,2019-02-04,Moreira Farias S.A.
+35,Sinvastatina Ipsum,Ibuprofeno,298mg,Pomada,g,164,2022-07-30,da Conceição - EI
+36,Dipirona Ab,Omeprazol,185ml,Xarope,ml,75,2021-02-25,Fernandes
+37,Paracetamol Debitis,Omeprazol,917ml,Comprimido,mg,149,2024-02-15,Rios S/A
+38,Omeprazol Voluptate,Amoxicilina,582mg,Xarope,ml,471,2018-03-24,Camargo
+39,Sinvastatina Ullam,Sinvastatina,988ml,Cápsula,UI,340,2022-11-14,Castro
+40,Amoxicilina Repudiandae,Ibuprofeno,327ml,Xarope,g,50,2024-09-02,Siqueira
+41,Omeprazol Architecto,Amoxicilina,944mg,Cápsula,g,34,2025-03-04,Rocha Ltda.
+42,Losartana Eligendi,Ibuprofeno,213mg,Comprimido,ml,77,2020-07-08,Santos Ltda.
+43,Omeprazol Hic,Losartana,741ml,Comprimido,mg,116,2017-10-06,Sales
+44,Losartana Quasi,Ibuprofeno,661mg,Comprimido,UI,396,2016-06-25,Farias
+45,Omeprazol Porro,Paracetamol,565mg,Comprimido,ml,174,2021-03-08,Barros
+46,Losartana Similique,Sinvastatina,290mg,Cápsula,ml,455,2023-06-25,Martins
+47,Paracetamol Ipsum,Omeprazol,721ml,Cápsula,mg,492,2024-03-23,Lopes S/A
+48,Paracetamol Minus,Amoxicilina,694ml,Xarope,mg,353,2022-07-14,Moreira
+49,Sinvastatina Ex,Omeprazol,579mg,Pomada,ml,431,2018-12-13,Ferreira - ME
+50,Sinvastatina Odit,Losartana,294mg,Pomada,ml,88,2018-09-21,Martins
