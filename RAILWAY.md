@@ -45,7 +45,7 @@ MB_JETTY_HOST=0.0.0.0
 MB_SITE_NAME=Metabase Hospital
 MB_SITE_URL=https://${{RAILWAY_PUBLIC_DOMAIN}}
 MB_LOAD_SAMPLE_CONTENT=false
-JAVA_OPTS=-Xmx768m
+JAVA_OPTS=-Xmx384m
 
 MB_DB_TYPE=mysql
 MB_DB_CONNECTION_URI=jdbc:mysql://${{MetabaseDB.MYSQLHOST}}:${{MetabaseDB.MYSQLPORT}}/${{MetabaseDB.MYSQLDATABASE}}?allowPublicKeyRetrieval=true
@@ -177,21 +177,21 @@ Maximum memory available to JVM: 232.0 MB
 java.lang.OutOfMemoryError: Java heap space
 ```
 
-o servico do Metabase esta com pouca memoria. O Metabase precisa de pelo menos 1 GB de RAM para iniciar com estabilidade em producao.
+o servico do Metabase esta com pouca memoria. O Metabase precisa de pelo menos 1 GB de RAM para iniciar com estabilidade em producao, mas pode rodar de forma limitada em ambiente pequeno para portfolio/demo.
 
-Em um container com 1 GB, o Java pode reservar automaticamente so uma parte da memoria para heap. Se o log mostrar `Maximum memory available to JVM: 232.0 MB`, adicione esta variavel ao servico `MetabaseHospital`:
+Para reduzir o risco de o Railway matar o container por memoria, use um heap menor no servico `MetabaseHospital`:
 
 ```env
-JAVA_OPTS=-Xmx768m
+JAVA_OPTS=-Xmx384m
 ```
 
 Como corrigir:
 
 1. No Railway, abra o servico `MetabaseHospital`.
-2. Aumente o limite de memoria/plano do servico para pelo menos 1 GB.
-3. Adicione `JAVA_OPTS=-Xmx768m` em **Variables**.
+2. Em **Variables**, altere `JAVA_OPTS` para `-Xmx384m`.
+3. Rode **Redeploy**.
 4. Confira as variaveis `MB_DB_*` em **Variables** para garantir que o Metabase esta usando o `MetabaseDB`, e nao o H2 interno.
-5. Rode **Redeploy**.
+5. Se continuar caindo por memoria, aumente o limite/plano do servico para pelo menos 1 GB e teste `JAVA_OPTS=-Xmx768m`.
 
 Se aparecer tambem:
 
